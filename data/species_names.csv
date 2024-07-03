@@ -1,0 +1,787 @@
+,accepted_species,accepted_full_name,accepted_family,taxonID,accepted_name_rank,accepted_species_source,original_species,original_full_name
+0,Acrisione cymosa,Acrisione cymosa,Asteraceae,2121645,species,wcvp,Acrisione cymosa,Acrisione cymosa
+1,Acrisione denticulata,Acrisione denticulata,Asteraceae,856531,species,tropicos,Acrisione denticulata,Acrisione denticulata denticulata
+2,Acrisione denticulata,Acrisione denticulata var. pilota,Asteraceae,1452984,variety,wcvp,Acrisione denticulata,Acrisione denticulata pilota
+3,Adenopeltis serrata,Adenopeltis serrata,Euphorbiaceae,1806825,species,wcvp,Adenopeltis serrata,Adenopeltis serrata
+4,Adesmia aphylla,Adesmia aphylla,Fabaceae,184748,species,wcvp,Adesmia aphylla,Adesmia aphylla
+5,Adesmia argentea,Adesmia argentea,Fabaceae,184755,species,wcvp,Adesmia argentea,Adesmia argentea
+6,Adesmia argyrophylla,Adesmia argyrophylla,Fabaceae,184756,species,wcvp,Adesmia argyrophylla,Adesmia argyrophylla
+7,Adesmia aromatica,Adesmia aromatica,Fabaceae,182507,species,wcvp,Adesmia aromatica,Adesmia aromatica
+8,Adesmia atacamensis,Adesmia atacamensis,Fabaceae,184759,species,wcvp,Adesmia atacamensis,Adesmia atacamensis
+9,Adesmia balsamica,Adesmia balsamica,Fabaceae,184766,species,wcvp,Adesmia balsamica,Adesmia balsamica
+10,Adesmia bedwellii,Adesmia bedwellii,Fabaceae,184767,species,wcvp,Adesmia bedwellii,Adesmia bedwellii
+11,Adesmia bijuga,Adesmia bijuga,Fabaceae,184769,species,wcvp,Adesmia bijuga,Adesmia bijuga
+12,Adesmia boronioides,Adesmia boronioides,Fabaceae,1497267,species,wcvp,Adesmia boronioides,Adesmia boronioides
+13,Adesmia bracteata,Adesmia bracteata,Fabaceae,184774,species,wcvp,Adesmia bracteata,Adesmia bracteata
+14,Adesmia calycicomosa,Adesmia calycicomosa,Fabaceae,182509,species,wcvp,Adesmia calycicomosa,Adesmia calycicomosa
+15,Adesmia colinensis,Adesmia colinensis,Fabaceae,2183669,species,wcvp,Adesmia colinensis,Adesmia colinensis
+16,Adesmia concinna,Adesmia concinna,Fabaceae,184798,species,wcvp,Adesmia concinna,Adesmia concinna
+17,Adesmia confusa,Adesmia confusa,Fabaceae,246451,species,wcvp,Adesmia confusa,Adesmia confusa
+18,Adesmia coquimbensis,Adesmia coquimbensis,Fabaceae,182511,species,wcvp,Adesmia coquimbensis,Adesmia coquimbensis
+19,Adesmia curvifolia,Adesmia curvifolia,Fabaceae,184805,species,wcvp,Adesmia curvifolia,Adesmia curvifolia
+20,Adesmia dessaueri,Adesmia dessaueri,Fabaceae,2183672,species,wcvp,Adesmia dessaueri,Adesmia dessaueri
+21,Adesmia dichotoma,Adesmia dichotoma,Fabaceae,184819,species,wcvp,Adesmia dichotoma,Adesmia dichotoma
+22,Adesmia dumosa,Adesmia dumosa,Fabaceae,184824,species,wcvp,Adesmia dumosa,Adesmia dumosa
+23,Adesmia elegans,Adesmia elegans,Fabaceae,184827,species,wcvp,Adesmia elegans,Adesmia elegans
+24,Adesmia erinacea,Adesmia erinacea,Fabaceae,184831,species,wcvp,Adesmia erinacea,Adesmia erinacea
+25,Adesmia glutinosa,Adesmia glutinosa,Fabaceae,184858,species,wcvp,Adesmia glutinosa,Adesmia glutinosa
+26,Adesmia godoyae,Adesmia godoyae,Fabaceae,2183676,species,wcvp,Adesmia godoyae,Adesmia godoyae
+27,Adesmia gracilis,Adesmia gracilis,Fabaceae,184860,species,wcvp,Adesmia gracilis,Adesmia gracilis
+28,Adesmia hirsuta,Adesmia hirsuta,Fabaceae,184872,species,wcvp,Adesmia hirsuta,Adesmia hirsuta
+29,Adesmia horrida,Adesmia horrida,Fabaceae,184875,species,wcvp,Adesmia horrida,Adesmia horrida
+30,Adesmia hystrix,Adesmia hystrix,Fabaceae,184882,species,wcvp,Adesmia hystrix,Adesmia hystrix
+31,Adesmia loudonia,Adesmia loudonia,Fabaceae,184914,species,wcvp,Adesmia loudonia,Adesmia loudonia
+32,Adesmia melanocaulos,Adesmia melanocaulos,Fabaceae,184920,species,wcvp,Adesmia melanocaulos,Adesmia melanocaulos
+33,Adesmia melanthes,Adesmia melanthes,Fabaceae,184921,species,wcvp,Adesmia melanthes,Adesmia melanthes
+34,Adesmia microphylla,Adesmia microphylla,Fabaceae,184925,species,wcvp,Adesmia microphylla,Adesmia microphylla
+35,Adesmia monosperma,Adesmia monosperma,Fabaceae,184928,species,wcvp,Adesmia monosperma,Adesmia monosperma
+36,Adesmia obcordata,Adesmia obcordata,Fabaceae,184948,species,wcvp,Adesmia obcordata,Adesmia obcordata
+37,Adesmia obovata,Adesmia obovata,Fabaceae,184949,species,wcvp,Adesmia obovata,Adesmia obovata
+38,Adesmia obscura,Adesmia obscura,Fabaceae,184950,species,wcvp,Adesmia obscura,Adesmia obscura
+39,Adesmia odontophylla,Adesmia odontophylla,Fabaceae,184952,species,wcvp,Adesmia odontophylla,Adesmia odontophylla
+40,Adesmia ovallensis,Adesmia ovallensis,Fabaceae,1005152,species,wcvp,Adesmia ovallensis,Adesmia ovallensis
+41,Adesmia pauciflora,Adesmia pauciflora,Fabaceae,184967,species,wcvp,Adesmia pauciflora,Adesmia pauciflora
+42,Adesmia pearcei,Adesmia pearcei,Fabaceae,184968,species,wcvp,Adesmia pearcei,Adesmia pearcei
+43,Adesmia pedicellata,Adesmia pedicellata,Fabaceae,184969,species,wcvp,Adesmia pedicellata,Adesmia pedicellata
+44,Adesmia pentaphylla,Adesmia pentaphylla,Fabaceae,184971,species,wcvp,Adesmia pentaphylla,Adesmia pentaphylla
+45,Adesmia peraltae,Adesmia peraltae,Fabaceae,2183687,species,wcvp,Adesmia peraltae,Adesmia peraltae
+46,Adesmia phylloidea,Adesmia phylloidea,Fabaceae,184973,species,wcvp,Adesmia phylloidea,Adesmia phylloidea
+47,Adesmia pinifolia,Adesmia pinifolia,Fabaceae,184974,species,wcvp,Adesmia pinifolia,Adesmia pinifolia
+48,Adesmia pirionii,Adesmia pirionii,Fabaceae,1497286,species,wcvp,Adesmia pirionii,Adesmia pirionii
+49,Adesmia polyphylla,Adesmia polyphylla,Fabaceae,184977,species,wcvp,Adesmia polyphylla,Adesmia polyphylla
+50,Adesmia propinqua,Adesmia propinqua,Fabaceae,184978,species,wcvp,Adesmia propinqua,Adesmia propinqua
+51,Adesmia pungens,Adesmia pungens,Fabaceae,184987,species,wcvp,Adesmia pungens,Adesmia pungens
+52,Adesmia renjifoana,Adesmia renjifoana,Fabaceae,2183691,species,wcvp,Adesmia renjifoana,Adesmia renjifoana
+53,Adesmia resinosa,Adesmia resinosa,Fabaceae,2183692,species,wcvp,Adesmia resinosa,Adesmia resinosa
+54,Adesmia rubroviridis,Adesmia rubroviridis,Fabaceae,185010,species,wcvp,Adesmia rubroviridis,Adesmia rubroviridis
+55,Adesmia schneideri,Adesmia schneideri,Fabaceae,185017,species,wcvp,Adesmia schneideri,Adesmia schneideri
+56,Adesmia spinosissima,Adesmia spinosissima,Fabaceae,185028,species,wcvp,Adesmia spinosissima,Adesmia spinosissima
+57,Adesmia trifoliata,Adesmia trifoliata,Fabaceae,187269,species,wcvp,Adesmia trifoliata,Adesmia trifoliata
+58,Adesmia uspallatensis,Adesmia uspallatensis,Fabaceae,187284,species,wcvp,Adesmia uspallatensis,Adesmia uspallatensis
+59,Adesmia verrucosa,Adesmia verrucosa,Fabaceae,203926,species,wcvp,Adesmia verrucosa,Adesmia verrucosa
+60,Adesmia viscosa,Adesmia viscosa,Fabaceae,2183699,species,wcvp,Adesmia viscosa,Adesmia viscosa
+61,Adesmia volckmannii,Adesmia volckmannii,Fabaceae,187299,species,wcvp,Adesmia volckmannii,Adesmia volckmannii
+62,Adesmia zoellneri,Adesmia zoellneri,Fabaceae,219408,species,wcvp,Adesmia zoellneri,Adesmia zoellneri
+63,Aextoxicon punctatum,Aextoxicon punctatum,Aextoxicaceae,176326,species,wcvp,Aextoxicon punctatum,Aextoxicon punctatum
+64,Ageratina glechonophylla,Ageratina glechonophylla,Asteraceae,1436008,species,wcvp,Eupatorium glechonophyllum,Eupatorium glechonophyllum
+65,Airampoa soehrensii,Airampoa soehrensii,Cactaceae,1378621,species,wcvp,soehrensii,Tunilla soehrensii
+66,Aloysia deserticola,Aloysia deserticola,Verbenaceae,2292914,species,wcvp,Aloysia deserticola,Aloysia deserticola
+67,Aloysia gratissima,Aloysia gratissima,Verbenaceae,528255,species,wcvp,Aloysia gratissima,Aloysia gratissima
+68,Aloysia salviifolia,Aloysia salviifolia,Verbenaceae,528920,species,wcvp,Aloysia salviifolia,Aloysia salviifolia
+69,Aloysia tarapacana,Aloysia tarapacana,Verbenaceae,2292917,species,wcvp,Aloysia tarapacana,Aloysia tarapacana
+70,Aloysia trifida,Aloysia trifida,Verbenaceae,2292918,species,wcvp,Aloysia trifida,Aloysia trifida
+71,Ambrosia artemisioides,Ambrosia artemisioides,Asteraceae,66893,species,wcvp,Ambrosia artemisioides,Ambrosia artemisioides
+72,Amomyrtus luma,Amomyrtus luma,Myrtaceae,1897381,species,wcvp,Amomyrtus luma,Amomyrtus luma
+73,Amomyrtus meli,Amomyrtus meli,Myrtaceae,1897387,species,wcvp,Amomyrtus meli,Amomyrtus meli
+74,Anarthrophyllum andicolum,Anarthrophyllum andicolum,Fabaceae,1162610,species,tropicos,Anarthrophyllum andicolum,Anarthrophyllum andicolum
+75,Anarthrophyllum cumingii,Anarthrophyllum cumingii,Fabaceae,1500650,species,wcvp,Anarthrophyllum cumingii,Anarthrophyllum cumingii
+76,Anarthrophyllum elegans,Anarthrophyllum elegans,Fabaceae,2183986,species,wcvp,Anarthrophyllum elegans,Anarthrophyllum elegans
+77,Anarthrophyllum rigidum,Anarthrophyllum rigidum,Fabaceae,204321,species,wcvp,Anarthrophyllum rigidum,Anarthrophyllum rigidum
+78,Andeimalva chilensis,Andeimalva chilensis,Malvaceae,1692113,species,wcvp,Andeimalva chilensis,Andeimalva chilensis
+79,Anisomeria littoralis,Anisomeria littoralis,Phytolaccaceae,360537,species,wcvp,Anisomeria littoralis,Anisomeria littoralis
+80,Aphyllocladus denticulatus,Aphyllocladus denticulatus var. calvus,Asteraceae,72290,variety,wcvp,Aphyllocladus denticulatus,Aphyllocladus denticulatus calvus
+81,Aphyllocladus denticulatus,Aphyllocladus denticulatus,Asteraceae,72288,species,tropicos,Aphyllocladus denticulatus,Aphyllocladus denticulatus denticulatus
+82,Araucaria araucana,Araucaria araucana,Araucariaceae,1538862,species,wcvp,Araucaria araucana,Araucaria araucana
+83,Aristeguietia salvia,Aristeguietia salvia,Asteraceae,62375,species,tropicos,Eupatorium salvium,Eupatorium salvium
+84,Aristotelia chilensis,Aristotelia chilensis,Elaeocarpaceae,166457,species,wcvp,Aristotelia chilensis,Aristotelia chilensis
+85,Artemisia copa,Artemisia copa var. copa,Asteraceae,72292,variety,tropicos,Artemisia copa,Artemisia copa copa
+86,Artemisia copa,Artemisia copa var. trifida,Asteraceae,2123171,variety,wcvp,Artemisia copa,Artemisia copa trifida
+87,Atriplex atacamensis,Atriplex atacamensis,Amaranthaceae,134832,species,wcvp,Atriplex atacamensis,Atriplex atacamensis
+88,Atriplex chizae,Atriplex chizae,Amaranthaceae,1169997,species,wcvp,Atriplex chizae,Atriplex chizae
+89,Atriplex clivicola,Atriplex clivicola,Amaranthaceae,1701759,species,wcvp,Atriplex clivicola,Atriplex clivicola
+90,Atriplex coquimbana,Atriplex coquimbana,Amaranthaceae,135343,species,wcvp,Atriplex coquimbana,Atriplex coquimbana
+91,Atriplex costellata,Atriplex costellata,Amaranthaceae,135344,species,wcvp,Atriplex costellata,Atriplex costellata
+92,Atriplex glaucescens,Atriplex glaucescens,Amaranthaceae,764340,species,wcvp,Atriplex glaucescens,Atriplex glaucescens
+93,Atriplex hystrix,Atriplex hystrix,Amaranthaceae,1170043,species,wcvp,Atriplex hystrix,Atriplex hystrix
+94,Atriplex madariagae,Atriplex madariagae,Amaranthaceae,135346,species,wcvp,Atriplex madariagae,Atriplex madariagae
+95,Atriplex repanda,Atriplex repanda,Amaranthaceae,135351,species,wcvp,Atriplex repanda,Atriplex repanda
+96,Atriplex vallenarensis,Atriplex vallenarensis,Amaranthaceae,1702130,species,wcvp,Atriplex vallenarensis,Atriplex vallenarensis
+97,Atriplex vulgatissima,Atriplex vulgatissima,Amaranthaceae,135353,species,wcvp,Atriplex vulgatissima,Atriplex vulgatissima
+98,Augustea coquimbensis,Augustea coquimbensis,Caryophyllaceae,1290881,species,wcvp,Augustea coquimbensis,Augustea coquimbensis
+99,Austrocedrus chilensis,Austrocedrus chilensis,Cupressaceae,1702442,species,wcvp,Austrocedrus chilensis,Austrocedrus chilensis
+100,Avellanita bustillosii,Avellanita bustillosii,Euphorbiaceae,176334,species,wcvp,Avellanita bustillosii,Avellanita bustillosii
+101,Azara alpina,Azara alpina,Salicaceae,255119,species,wcvp,Azara alpina,Azara alpina
+102,Azara celastrina,Azara celastrina,Salicaceae,1015599,species,wcvp,Azara celastrina,Azara celastrina
+103,Azara dentata,Azara dentata,Salicaceae,255123,species,wcvp,Azara dentata,Azara dentata
+104,Azara integrifolia,Azara integrifolia,Salicaceae,255127,species,wcvp,Azara integrifolia,Azara integrifolia
+105,Azara lanceolata,Azara lanceolata,Salicaceae,1877104,species,wcvp,Azara lanceolata,Azara lanceolata
+106,Azara microphylla,Azara microphylla,Salicaceae,1877106,species,wcvp,Azara microphylla,Azara microphylla
+107,Azara petiolaris,Azara petiolaris,Salicaceae,1877107,species,wcvp,Azara petiolaris,Azara petiolaris
+108,Azara serrata,Azara serrata var. serrata,Salicaceae,255669,variety,tropicos,Azara serrata,Azara serrata serrata
+109,Azorella prolifera,Azorella prolifera,Apiaceae,2105167,species,wcvp,Azorella prolifera,Azorella prolifera
+110,Baccharis alnifolia,Baccharis alnifolia,Asteraceae,50536,species,wcvp,Baccharis alnifolia,Baccharis alnifolia
+111,Baccharis boliviensis,Baccharis boliviensis,Asteraceae,66966,species,wcvp,Baccharis boliviensis,Baccharis boliviensis
+112,Baccharis calliprinos,Baccharis calliprinos,Asteraceae,840527,species,tropicos,Baccharis calliprinos,Baccharis calliprinos
+113,Baccharis concava,Baccharis concava,Asteraceae,72300,species,wcvp,Baccharis concava,Baccharis concava
+114,Baccharis cymosa,Baccharis cymosa,Asteraceae,72305,species,wcvp,Baccharis cymosa,Baccharis cymosa
+115,Baccharis elaeoides,Baccharis elaeoides,Asteraceae,1388042,species,wcvp,Baccharis elaeoides,Baccharis elaeoides
+116,Baccharis intermedia,Baccharis intermedia,Asteraceae,54775,species,wcvp,Baccharis intermedia,Baccharis intermedia
+117,Baccharis linearis,Baccharis linearis,Asteraceae,52086,species,tropicos,Baccharis linearis,Baccharis linearis linearis
+118,Baccharis linearis,Baccharis linearis,Asteraceae,52086,species,tropicos,Baccharis linearis,Baccharis linearis pycnocephala
+119,Baccharis lycioides,Baccharis lycioides,Asteraceae,1444134,species,wcvp,Baccharis lycioides,Baccharis lycioides
+120,Baccharis macraei,Baccharis macraei,Asteraceae,54801,species,wcvp,Baccharis macraei,Baccharis macraei
+121,Baccharis magellanica,Baccharis magellanica,Asteraceae,2124404,species,wcvp,Baccharis magellanica,Baccharis magellanica
+122,Baccharis mylodontis,Baccharis mylodontis,Asteraceae,1405529,species,wcvp,Baccharis mylodontis,Baccharis mylodontis
+123,Baccharis neaei,Baccharis neaei,Asteraceae,54830,species,wcvp,Baccharis neaei,Baccharis neaei
+124,Baccharis obovata,Baccharis obovata,Asteraceae,89345,species,wcvp,Baccharis obovata,Baccharis obovata
+125,Baccharis paniculata,Baccharis paniculata,Asteraceae,54848,species,wcvp,Baccharis paniculata,Baccharis paniculata
+126,Baccharis patagonica,Baccharis patagonica,Asteraceae,54854,species,wcvp,Baccharis patagonica,Baccharis patagonica
+127,Baccharis patagonica,Baccharis patagonica,Asteraceae,54854,species,wcvp,Baccharis patagonica,Baccharis patagonica palenae
+128,Baccharis pilcensis,Baccharis pilcensis,Asteraceae,1401309,species,wcvp,Baccharis pilcensis,Baccharis pilcensis
+129,Baccharis poeppigiana,Baccharis poeppigiana subsp. austropedicellata,Asteraceae,2124441,subspecies,wcvp,Baccharis poeppigiana,Baccharis poeppigiana austropedicellata
+130,Baccharis poeppigiana,Baccharis poeppigiana subsp. ocellata,Asteraceae,1446877,subspecies,wcvp,Baccharis poeppigiana,Baccharis poeppigiana ocellata
+131,Baccharis poeppigiana,Baccharis poeppigiana subsp. poeppigiana,Asteraceae,2124442,subspecies,wcvp,Baccharis poeppigiana,Baccharis poeppigiana poeppigiana
+132,Baccharis pycnantha,Baccharis pycnantha,Asteraceae,72319,species,wcvp,Baccharis pycnantha,Baccharis pycnantha
+133,Baccharis racemosa,Baccharis racemosa,Asteraceae,1403284,species,wcvp,Baccharis racemosa,Baccharis racemosa
+134,Baccharis rhomboidalis,Baccharis rhomboidalis,Asteraceae,1437824,species,wcvp,Baccharis rhomboidalis,Baccharis rhomboidalis
+135,Baccharis salicifolia,Baccharis salicifolia,Asteraceae,52090,species,wcvp,Baccharis salicifolia,Baccharis salicifolia
+136,Baccharis santelicis,Baccharis santelicis,Asteraceae,54916,species,wcvp,Baccharis tola,Baccharis tola santelicis chrysophylla
+137,Baccharis santelicis,Baccharis santelicis,Asteraceae,54916,species,wcvp,Baccharis tola,Baccharis tola santelicis incarum
+138,Baccharis spartioides,Baccharis spartioides,Asteraceae,72321,species,tropicos,Baccharis spartioides,Baccharis spartioides
+139,Baccharis sphaerocephala,Baccharis sphaerocephala,Asteraceae,72322,species,wcvp,Baccharis sphaerocephala,Baccharis sphaerocephala
+140,Baccharis tola,Baccharis tola subsp. tola,Asteraceae,975327,subspecies,tropicos,Baccharis tola,Baccharis tola tola tola
+141,Baccharis tola,Baccharis tola subsp. tola,Asteraceae,975327,subspecies,tropicos,Baccharis tola,Baccharis tola tola viscosissima
+142,Baccharis vernalis,Baccharis vernalis,Asteraceae,1432768,species,wcvp,Baccharis vernalis,Baccharis vernalis
+143,Baccharis zoellneri,Baccharis zoellneri,Asteraceae,1384030,species,wcvp,Baccharis zoellneri,Baccharis zoellneri zoellneri
+144,Baccharis zoellneri,Baccharis zoellneri subsp. minor,Asteraceae,4246240,SUBSPECIES,GBIF,Baccharis zoellneri,Baccharis zoellneri minor
+145,Bakerolimon plumosum,Bakerolimon plumosum,Plumbaginaceae,879385,species,wcvp,Bakerolimon plumosum,Bakerolimon plumosum
+146,Balsamocarpon brevifolium,Balsamocarpon brevifolium,Fabaceae,226107,species,wcvp,Balsamocarpon brevifolium,Balsamocarpon brevifolium
+147,Beilschmiedia berteroana,Beilschmiedia berteroana,Lauraceae,280570,species,wcvp,Beilschmiedia berteroana,Beilschmiedia berteroana
+148,Beilschmiedia miersii,Beilschmiedia miersii,Lauraceae,280579,species,wcvp,Beilschmiedia miersii,Beilschmiedia miersii
+149,Berberidopsis corallina,Berberidopsis corallina,Berberidopsidaceae,1705164,species,wcvp,Berberidopsis corallina,Berberidopsis corallina
+150,Berberis actinacantha,Berberis actinacantha,Berberidaceae,1705167,species,wcvp,Berberis actinacantha,Berberis actinacantha
+151,Berberis chilensis,Berberis chilensis var. brachybotria,Berberidaceae,841322,variety,wcvp,Berberis chilensis,Berberis chilensis brachybotria
+152,Berberis chilensis,Berberis chilensis var. chilensis,Berberidaceae,841323,variety,tropicos,Berberis chilensis,Berberis chilensis chilensis
+153,Berberis congestiflora,Berberis congestiflora,Berberidaceae,95573,species,wcvp,Berberis congestiflora,Berberis congestiflora
+154,Berberis darwinii,Berberis darwinii,Berberidaceae,95734,species,wcvp,Berberis darwinii,Berberis darwinii
+155,Berberis glomerata,Berberis glomerata,Berberidaceae,95592,species,wcvp,Berberis glomerata,Berberis glomerata
+156,Berberis horrida,Berberis horrida,Berberidaceae,95600,species,wcvp,Berberis horrida,Berberis horrida
+157,Berberis ilicifolia,Berberis ilicifolia,Berberidaceae,1705472,species,wcvp,Berberis ilicifolia,Berberis ilicifolia
+158,Berberis litoralis,Berberis litoralis,Berberidaceae,95745,species,tropicos,Berberis litoralis,Berberis litoralis
+159,Berberis microphylla,Berberis microphylla,Berberidaceae,1705573,species,wcvp,Berberis microphylla,Berberis microphylla
+160,Berberis montana,Berberis montana,Berberidaceae,95621,species,wcvp,Berberis montana,Berberis montana
+161,Berberis negeriana,Berberis negeriana,Berberidaceae,95625,species,wcvp,Berberis negeriana,Berberis negeriana
+162,Berberis rotundifolia,Berberis rotundifolia,Berberidaceae,95647,species,wcvp,Berberis rotundifolia,Berberis rotundifolia
+163,Berberis serratodentata,Berberis serratodentata,Berberidaceae,95654,species,wcvp,Berberis serratodentata,Berberis serratodentata
+164,Berberis trigona,Berberis trigona,Berberidaceae,95757,species,wcvp,Berberis trigona,Berberis trigona
+165,Berberis valdiviana,Berberis valdiviana,Berberidaceae,95662,species,wcvp,Berberis valdiviana,Berberis valdiviana
+166,Blepharocalyx cruckshanksii,Blepharocalyx cruckshanksii,Myrtaceae,319973,species,tropicos,Blepharocalyx cruckshanksii,Blepharocalyx cruckshanksii
+167,Brachyclados lycioides,Brachyclados lycioides,Asteraceae,1404512,species,wcvp,Brachyclados lycioides,Brachyclados lycioides
+168,Bridgesia incisifolia,Bridgesia incisifolia,Sapindaceae,1709504,species,wcvp,Bridgesia incisifolia,Bridgesia incisifolia
+169,Browningia candelaris,Browningia candelaris,Cactaceae,565930,species,wcvp,candelaris,Browningia candelaris
+170,Buddleja araucana,Buddleja araucana,Scrophulariaceae,758102,species,wcvp,Buddleja araucana,Buddleja araucana
+171,Buddleja globosa,Buddleja globosa,Scrophulariaceae,294009,species,wcvp,Buddleja globosa,Buddleja globosa
+172,Buddleja suaveolens,Buddleja suaveolens,Scrophulariaceae,1710350,species,wcvp,Buddleja suaveolens,Buddleja suaveolens
+173,Bulnesia chilensis,Bulnesia chilensis,Zygophyllaceae,536752,species,wcvp,Bulnesia chilensis,Bulnesia chilensis
+174,Caldcluvia paniculata,Caldcluvia paniculata,Cunoniaceae,1712934,species,wcvp,Caldcluvia paniculata,Caldcluvia paniculata
+175,Calliandra chilensis,Calliandra chilensis,Fabaceae,185088,species,wcvp,Calliandra chilensis,Calliandra chilensis
+176,Carica chilensis,Carica chilensis,Caricaceae,130008,species,tropicos,Carica chilensis,Carica chilensis
+177,Centaurea atacamensis,Centaurea atacamensis,Asteraceae,72338,species,tropicos,Centaurea atacamensis,Centaurea atacamensis
+178,Centaurea cachinalensis,Centaurea cachinalensis,Asteraceae,72340,species,tropicos,Centaurea cachinalensis,Centaurea cachinalensis
+179,Cestrum parqui,Cestrum parqui,Solanaceae,2288434,species,wcvp,Cestrum parqui,Cestrum parqui
+180,Chersodoma candida,Chersodoma candida,Asteraceae,72393,species,wcvp,Chersodoma candida,Chersodoma candida
+181,Chersodoma jodopappa,Chersodoma jodopappa,Asteraceae,2127405,species,wcvp,Chersodoma jodopappa,Chersodoma jodopappa
+182,Chiliotrichum diffusum,Chiliotrichum diffusum,Asteraceae,1424267,species,wcvp,Chiliotrichum diffusum,Chiliotrichum diffusum
+183,Chiliotrichum fuegianum,Chiliotrichum fuegianum,Asteraceae,2127422,species,wcvp,Chiliotrichum fuegianum,Chiliotrichum fuegianum
+184,Chuquiraga atacamensis,Chuquiraga atacamensis,Asteraceae,55258,species,wcvp,Chuquiraga atacamensis,Chuquiraga atacamensis
+185,Chuquiraga kuschelii,Chuquiraga kuschelii,Asteraceae,1395492,species,wcvp,Chuquiraga kuschelii,Chuquiraga kuschelii
+186,Chuquiraga oppositifolia,Chuquiraga oppositifolia,Asteraceae,1448828,species,wcvp,Chuquiraga oppositifolia,Chuquiraga oppositifolia
+187,Chuquiraga spinosa,Chuquiraga spinosa subsp. australis,Asteraceae,2127917,subspecies,wcvp,Chuquiraga spinosa,Chuquiraga spinosa australis
+188,Chuquiraga ulicina,Chuquiraga ulicina subsp. acicularis,Asteraceae,2127928,subspecies,wcvp,Chuquiraga ulicina,Chuquiraga ulicina acicularis
+189,Chuquiraga ulicina,Chuquiraga ulicina subsp. ulicina,Asteraceae,72405,subspecies,wcvp,Chuquiraga ulicina,Chuquiraga ulicina ulicina
+190,Citronella mucronata,Citronella mucronata,Cardiopteridaceae,1726521,species,wcvp,Citronella mucronata,Citronella mucronata
+191,Clinopodium chilense,Clinopodium chilense,Lamiaceae,885332,species,wcvp,Gardoquia gilliesii,Gardoquia gilliesii
+192,Clinopodium gilliesii,Clinopodium gilliesii,Lamiaceae,274966,species,wcvp,Micromeria gilliesii,Micromeria gilliesii
+193,Clinopodium multiflorum,Clinopodium multiflorum,Lamiaceae,853082,species,wcvp,Gardoquia multiflora,Gardoquia multiflora
+194,Colletia hystrix,Colletia hystrix,Rhamnaceae,469403,species,wcvp,Colletia hystrix,Colletia hystrix
+195,Colletia ulicina,Colletia ulicina,Rhamnaceae,470077,species,wcvp,Colletia ulicina,Colletia ulicina
+196,Colliguaja dombeyana,Colliguaja dombeyana,Euphorbiaceae,1873772,species,wcvp,Colliguaja dombeyana,Colliguaja dombeyana
+197,Colliguaja integerrima,Colliguaja integerrima,Euphorbiaceae,176336,species,wcvp,Colliguaja integerrima,Colliguaja integerrima
+198,Colliguaja odorifera,Colliguaja odorifera,Euphorbiaceae,176337,species,wcvp,Colliguaja odorifera,Colliguaja odorifera
+199,Colliguaja salicifolia,Colliguaja salicifolia,Euphorbiaceae,176338,species,wcvp,Colliguaja salicifolia,Colliguaja salicifolia
+200,Copiapoa ahremephiana,Copiapoa ahremephiana,Cactaceae,612635,species,wcvp,ahremephiana,Copiapoa ahremephiana
+201,Copiapoa cinerascens,Copiapoa cinerascens,Cactaceae,612651,species,wcvp,cinerascens,Copiapoa cinerascens
+202,Copiapoa cinerea,Copiapoa cinerea,Cactaceae,612654,species,wfo,cinerea,Copiapoa cinerea var. cinerea
+203,Copiapoa coquimbana,Copiapoa coquimbana,Cactaceae,612676,species,wfo,coquimbana,Copiapoa coquimbana var. coquimbana
+204,Copiapoa dealbata,Copiapoa dealbata,Cactaceae,612689,species,wfo,dealbata,Copiapoa dealbata
+205,Copiapoa gigantea,Copiapoa gigantea,Cactaceae,612707,species,wcvp,cinerea,Copiapoa cinerea var. gigantea
+206,Copiapoa gigantea,Copiapoa gigantea,Cactaceae,612707,species,wcvp,eremophila,Copiapoa eremophila
+207,Copiapoa longistaminea,Copiapoa longistaminea,Cactaceae,612739,species,wcvp,longistaminea,Copiapoa longistaminea
+208,Copiapoa rupestris,Copiapoa rupestris,Cactaceae,612770,species,wcvp,rupestris,Copiapoa rupestris
+209,Copiapoa serpentisulcata,Copiapoa serpentisulcata,Cactaceae,612777,species,wcvp,serpentisulcata,Copiapoa serpentisulcata
+210,Copiapoa solaris,Copiapoa solaris,Cactaceae,612779,species,wcvp,solaris,Copiapoa solaris
+211,Cordia decandra,Cordia decandra,Cordiaceae,101009,species,wcvp,Cordia decandra,Cordia decandra
+212,Coriaria ruscifolia,Coriaria ruscifolia,Coriariaceae,145767,species,wcvp,Coriaria ruscifolia,Coriaria ruscifolia
+213,Corryocactus brevistylus,Corryocactus brevistylus,Cactaceae,614867,species,wcvp,brevistylus,Corryocactus brevistylus
+214,Corynabutilon bicolor,Corynabutilon bicolor,Malvaceae,1733671,species,wcvp,Corynabutilon bicolor,Corynabutilon bicolor
+215,Corynabutilon ceratocarpum,Corynabutilon ceratocarpum,Malvaceae,302461,species,wcvp,Corynabutilon ceratocarpum,Corynabutilon ceratocarpum
+216,Corynabutilon hirsutum,Corynabutilon hirsutum,Malvaceae,1733672,species,wcvp,Corynabutilon hirsutum,Corynabutilon hirsutum
+217,Corynabutilon ochsenii,Corynabutilon ochsenii,Malvaceae,302462,species,wcvp,Corynabutilon ochsenii,Corynabutilon ochsenii
+218,Corynabutilon salicifolium,Corynabutilon salicifolium,Malvaceae,302463,species,wcvp,Corynabutilon salicifolium,Corynabutilon salicifolium
+219,Corynabutilon viride,Corynabutilon viride,Malvaceae,1733675,species,wcvp,Corynabutilon viride,Corynabutilon viride
+220,Corynabutilon vitifolium,Corynabutilon vitifolium,Malvaceae,302464,species,wcvp,Corynabutilon vitifolium,Corynabutilon vitifolium
+221,Crinodendron hookerianum,Crinodendron hookerianum,Elaeocarpaceae,166458,species,wcvp,Crinodendron hookerianum,Crinodendron hookerianum
+222,Crinodendron patagua,Crinodendron patagua,Elaeocarpaceae,166459,species,wcvp,Crinodendron patagua,Crinodendron patagua
+223,Croton chilensis,Croton chilensis,Euphorbiaceae,1880788,species,wcvp,Croton chilensis,Croton chilensis
+224,Cryptocarya alba,Cryptocarya alba,Lauraceae,281469,species,wcvp,Cryptocarya alba,Cryptocarya alba
+225,Cumulopuntia echinacea,Cumulopuntia echinacea,Cactaceae,622240,species,wfo,echinacea,Cumulopuntia echinacea
+226,Cumulopuntia ignescens,Cumulopuntia ignescens,Cactaceae,622247,species,wfo,ignescens,Cumulopuntia ignescens
+227,Dasyphyllum diacanthoides,Dasyphyllum diacanthoides,Asteraceae,72423,species,tropicos,Dasyphyllum diacanthoides,Dasyphyllum diacanthoides
+228,Dasyphyllum excelsum,Dasyphyllum excelsum,Asteraceae,72424,species,tropicos,Dasyphyllum excelsum,Dasyphyllum excelsum
+229,Desfontainia fulgens,Desfontainia fulgens,Columelliaceae,1742680,species,wcvp,Desfontainia fulgens,Desfontainia fulgens
+230,Diostea juncea,Diostea juncea,Verbenaceae,528922,species,wcvp,Diostea juncea,Diostea juncea
+231,Diplolepis hieronymi,Diplolepis hieronymi,Apocynaceae,1015398,species,wcvp,Diplolepis hieronymi,Diplolepis hieronymi
+232,Diplolepis viridis,Diplolepis viridis,Apocynaceae,1797193,species,wcvp,Diplolepis viridis,Diplolepis viridis
+233,Diplostephium cinereum,Diplostephium cinereum,Asteraceae,55458,species,wcvp,Diplostephium cinereum,Diplostephium cinereum
+234,Diplostephium meyenii,Diplostephium meyenii,Asteraceae,740751,species,wcvp,Diplostephium meyenii,Diplostephium meyenii
+235,Diplostephium tacorense,Diplostephium tacorense,Asteraceae,55490,species,wcvp,Diplostephium tacorense,Diplostephium tacorense
+236,Discaria articulata,Discaria articulata,Rhamnaceae,469371,species,wcvp,Discaria articulata,Discaria articulata
+237,Discaria chacaye,Discaria chacaye,Rhamnaceae,1746854,species,wcvp,Discaria chacaye,Discaria chacaye
+238,Drimys andina,Drimys andina,Winteraceae,1749189,species,wcvp,Drimys andina,Drimys andina
+239,Drimys winteri,Drimys winteri var. chilensis,Winteraceae,920703,infraspecific unranked,tropicos,Drimys winteri,Drimys winteri chilensis
+240,Drimys winteri,Drimys winteri var. winteri,Winteraceae,535472,variety,tropicos,Drimys winteri,Drimys winteri winteri
+241,Dunalia spinosa,Dunalia spinosa,Solanaceae,510736,species,wcvp,Dunalia spinosa,Dunalia spinosa
+242,Echinopsis coquimbana,Echinopsis coquimbana,Cactaceae,1271308,species,wfo,coquimbana,Echinopsis coquimbana
+243,Embothrium coccineum,Embothrium coccineum,Proteaceae,1754715,species,wcvp,Embothrium coccineum,Embothrium coccineum
+244,Empetrum rubrum,Empetrum rubrum,Ericaceae,166749,species,wcvp,Empetrum rubrum,Empetrum rubrum
+245,Ephedra americana,Ephedra americana,Ephedraceae,262782,species,wcvp,Ephedra americana,Ephedra americana
+246,Ephedra chilensis,Ephedra chilensis,Ephedraceae,1815057,species,wcvp,Ephedra chilensis,Ephedra chilensis
+247,Ephedra gracilis,Ephedra gracilis,Ephedraceae,2178985,species,wcvp,Ephedra gracilis,Ephedra gracilis
+248,Ephedra multiflora,Ephedra multiflora,Ephedraceae,1815099,species,wcvp,Ephedra multiflora,Ephedra multiflora
+249,Ephedra ochreata,Ephedra ochreata,Ephedraceae,262959,species,wcvp,Ephedra ochreata,Ephedra ochreata
+250,Ephedra trifurcata,Ephedra trifurcata,Ephedraceae,1815125,species,wcvp,Ephedra trifurcata,Ephedra trifurcata
+251,Eremocharis fruticosa,Eremocharis fruticosa,Apiaceae,18929,species,wcvp,Eremocharis fruticosa,Eremocharis fruticosa
+252,Eriosyce aurata,Eriosyce aurata var. aurata,Cactaceae,1272543,variety,wcvp,aurata,Eriosyce aurata var. aurata
+253,Eriosyce aurata,Eriosyce aurata var. spinibarbis,Cactaceae,668589,variety,wcvp,aurata,Eriosyce aurata var. spinibarbis
+254,Eriosyce aurata,Eriosyce aurata var. aurata,Cactaceae,1272543,variety,wcvp,ihotzkyana,Eriosyce ihotzkyana
+255,Eriosyce calderana,Eriosyce calderana,Cactaceae,668592,species,wcvp,taltalensis,Eriosyce taltalensis subsp. pilispina
+256,Eriosyce chilensis,Eriosyce chilensis var. albidiflora,Cactaceae,668602,variety,wcvp,chilensis,Eriosyce chilensis var. albidiflorus
+257,Eriosyce chilensis,Eriosyce chilensis var. chilensis,Cactaceae,1787796,variety,wcvp,chilensis,Eriosyce chilensis var. chilensis
+258,Eriosyce clavata,Eriosyce clavata,Cactaceae,735927,species,wcvp,subgibbosa,Eriosyce subgibbosa subsp. clavata
+259,Eriosyce crispa,Eriosyce crispa,Cactaceae,668604,species,wcvp,crispa,Eriosyce crispa
+260,Eriosyce curvispina,Eriosyce curvispina subsp. curvispina,Cactaceae,1383219,subspecies,wcvp,curvispina,Eriosyce curvispina subsp. curvispina var. curvispina
+261,Eriosyce curvispina,Eriosyce curvispina subsp. curvispina,Cactaceae,1383219,subspecies,wcvp,curvispina,Eriosyce curvispina subsp. curvispina var. tuberisulcata
+262,Eriosyce engleri,Eriosyce engleri,Cactaceae,668624,species,wcvp,engleri,Eriosyce engleri
+263,Eriosyce eriosyzoides,Eriosyce eriosyzoides,Cactaceae,668625,species,wcvp,eriosyzoides,Eriosyce eriosyzoides
+264,Eriosyce garaventae,Eriosyce garaventae,Cactaceae,668632,species,wcvp,garaventae,Eriosyce garaventae
+265,Eriosyce iquiquensis,Eriosyce iquiquensis,Cactaceae,668638,species,wcvp,iquiquensis,Eriosyce iquiquensis
+266,Eriosyce islayensis,Eriosyce islayensis,Cactaceae,668640,species,wcvp,islayensis,Eriosyce islayensis
+267,Eriosyce krausii,Eriosyce krausii,Cactaceae,668642,species,wcvp,krausii,Eriosyce krausii
+268,Eriosyce laui,Eriosyce laui,Cactaceae,668646,species,wcvp,laui,Eriosyce laui
+269,Eriosyce marksiana,Eriosyce marksiana,Cactaceae,668648,species,wcvp,curvispina,Eriosyce curvispina subsp. marksiana
+270,Eriosyce paucicostata,Eriosyce paucicostata subsp. echinus,Cactaceae,668675,subspecies,wcvp,paucicostata,Eriosyce paucicostata subsp. echinus
+271,Eriosyce paucicostata,Eriosyce paucicostata subsp. floccosa,Cactaceae,668676,subspecies,wcvp,paucicostata,Eriosyce paucicostata subsp. floccosa
+272,Eriosyce paucicostata,Eriosyce paucicostata subsp. paucicostata,Cactaceae,1383225,subspecies,wcvp,paucicostata,Eriosyce paucicostata subsp. paucicostata
+273,Eriosyce rodentiophila,Eriosyce rodentiophila,Cactaceae,668680,species,wcvp,rodentiophila,Eriosyce rodentiophila
+274,Eriosyce senilis,Eriosyce senilis,Cactaceae,668687,species,wcvp,senilis,Eriosyce senilis
+275,Eriosyce simulans,Eriosyce simulans,Cactaceae,668688,species,wcvp,simulans,Eriosyce simulans
+276,Eriosyce sociabilis,Eriosyce sociabilis,Cactaceae,668689,species,wcvp,sociabilis,Eriosyce sociabilis
+277,Eriosyce subgibbosa,Eriosyce subgibbosa,Cactaceae,668695,species,wcvp,subgibbosa,Eriosyce subgibbosa subsp. subgibosa var. castanea
+278,Eriosyce subgibbosa,Eriosyce subgibbosa,Cactaceae,668695,species,wcvp,subgibbosa,Eriosyce subgibbosa subsp. subgibosa var. subgibosa
+279,Eriosyce taltalensis,Eriosyce taltalensis subsp. taltalensis,Cactaceae,1383228,subspecies,wcvp,taltalensis,Eriosyce taltalensis subsp. taltalensis
+280,Eriosyce villosa,Eriosyce villosa,Cactaceae,668719,species,wcvp,villosa,Eriosyce villosa
+281,Errazurizia multifoliolata,Errazurizia multifoliolata,Fabaceae,1497523,species,wcvp,Errazurizia multifoliolata,Errazurizia multifoliolata
+282,Erythrostemon angulatus,Erythrostemon angulatus,Fabaceae,2188346,species,wcvp,Erythrostemon angulatus,Erythrostemon angulatus
+283,Erythrostemon gilliesii,Erythrostemon gilliesii,Fabaceae,223887,species,wcvp,Erythrostemon gilliesii,Erythrostemon gilliesii
+284,Escallonia alpina,Escallonia alpina var. alpina,Escalloniaceae,499891,variety,tropicos,Escallonia alpina,Escallonia alpina alpina
+285,Escallonia alpina,Escallonia alpina var. carmelitana,Escalloniaceae,1761091,variety,wcvp,Escallonia alpina,Escallonia alpina carmelitana
+286,Escallonia alpina,Escallonia alpina var. glabrata,Escalloniaceae,499893,variety,wcvp,Escallonia alpina,Escallonia alpina glabrata
+287,Escallonia angustifolia,Escallonia angustifolia,Escalloniaceae,1761092,species,wcvp,Escallonia angustifolia,Escallonia angustifolia
+288,Escallonia florida,Escallonia florida,Escalloniaceae,499346,species,wcvp,Escallonia florida,Escallonia florida
+289,Escallonia gayana,Escallonia gayana,Escalloniaceae,1761111,species,wcvp,Escallonia gayana,Escallonia gayana
+290,Escallonia illinita,Escallonia illinita var. illinita,Escalloniaceae,499898,variety,tropicos,Escallonia illinita,Escallonia illinita illinita
+291,Escallonia illinita,Escallonia illinita var. pubicalycina,Escalloniaceae,499899,variety,tropicos,Escallonia illinita,Escallonia illinita pubicalycina
+292,Escallonia leucantha,Escallonia leucantha,Escalloniaceae,1761124,species,wcvp,Escallonia leucantha,Escallonia leucantha
+293,Escallonia myrtoidea,Escallonia myrtoidea,Escalloniaceae,499355,species,tropicos,Escallonia myrtoidea,Escallonia myrtoidea
+294,Escallonia pulverulenta,Escallonia pulverulenta var. glabra,Escalloniaceae,499901,variety,tropicos,Escallonia pulverulenta,Escallonia pulverulenta glabra
+295,Escallonia pulverulenta,Escallonia pulverulenta var. pulverulenta,Escalloniaceae,499900,variety,tropicos,Escallonia pulverulenta,Escallonia pulverulenta pulverulenta
+296,Escallonia revoluta,Escallonia revoluta,Escalloniaceae,499369,species,wcvp,Escallonia revoluta,Escallonia revoluta
+297,Escallonia rosea,Escallonia rosea,Escalloniaceae,499371,species,wcvp,Escallonia rosea,Escallonia rosea
+298,Escallonia rubra,Escallonia rubra var. dumetorum,Escalloniaceae,1761142,variety,wcvp,Escallonia rubra,Escallonia rubra dumetorum
+299,Escallonia rubra,Escallonia rubra var. glutinosa,Escalloniaceae,499904,variety,wcvp,Escallonia rubra,Escallonia rubra glutinosa
+300,Escallonia rubra,Escallonia rubra var. macrantha,Escalloniaceae,499905,variety,wcvp,Escallonia rubra,Escallonia rubra macrantha
+301,Escallonia rubra,Escallonia rubra var. rubra,Escalloniaceae,499902,variety,tropicos,Escallonia rubra,Escallonia rubra rubra
+302,Escallonia rubra,Escallonia rubra var. thalassica,Escalloniaceae,499906,variety,wcvp,Escallonia rubra,Escallonia rubra thalassica
+303,Escallonia serrata,Escallonia serrata,Escalloniaceae,499907,species,wcvp,Escallonia serrata,Escallonia serrata
+304,Escallonia virgata,Escallonia virgata,Escalloniaceae,499385,species,wcvp,Escallonia virgata,Escallonia virgata
+305,Eucryphia cordifolia,Eucryphia cordifolia,Cunoniaceae,172929,species,wcvp,Eucryphia cordifolia,Eucryphia cordifolia
+306,Eucryphia glutinosa,Eucryphia glutinosa,Cunoniaceae,172931,species,wcvp,Eucryphia glutinosa,Eucryphia glutinosa
+307,Eulychnia acida,Eulychnia acida,Cactaceae,673991,species,wcvp,acida,Eulychnia acida
+308,Eulychnia breviflora,Eulychnia breviflora,Cactaceae,673997,species,wcvp,breviflora,Eulychnia breviflora
+309,Eulychnia castanea,Eulychnia castanea,Cactaceae,674002,species,wcvp,castanea,Eulychnia castanea
+310,Eulychnia iquiquensis,Eulychnia iquiquensis,Cactaceae,674006,species,wcvp,aricensis,Eulychnia aricensis
+311,Eulychnia iquiquensis,Eulychnia iquiquensis,Cactaceae,674006,species,wcvp,iquiquensis,Eulychnia iquiquensis
+312,Eulychnia saint-pieana,Eulychnia saint-pieana,Cactaceae,674013,species,wfo,saint-pieana,Eulychnia saint-pieana
+313,Euphorbia lactiflua,Euphorbia lactiflua,Euphorbiaceae,174197,species,wcvp,Euphorbia lactiflua,Euphorbia lactiflua
+314,Fabiana bryoides,Fabiana bryoides,Solanaceae,510741,species,wcvp,Fabiana bryoides,Fabiana bryoides
+315,Fabiana densa,Fabiana densa,Solanaceae,1934371,species,wcvp,Fabiana densa,Fabiana densa
+316,Fabiana denudata,Fabiana denudata,Solanaceae,513826,species,wcvp,Fabiana denudata,Fabiana denudata
+317,Fabiana imbricata,Fabiana imbricata,Solanaceae,513827,species,wcvp,Fabiana imbricata,Fabiana imbricata
+318,Fabiana ramulosa,Fabiana ramulosa,Solanaceae,861783,species,tropicos,Fabiana ramulosa,Fabiana ramulosa
+319,Fabiana squamata,Fabiana squamata,Solanaceae,510748,species,wcvp,Fabiana squamata,Fabiana squamata
+320,Fabiana stephanii,Fabiana stephanii,Solanaceae,861780,species,wcvp,Fabiana stephanii,Fabiana stephanii
+321,Fabiana viscosa,Fabiana viscosa,Solanaceae,513828,species,wcvp,Fabiana viscosa,Fabiana viscosa
+322,Fitzroya cupressoides,Fitzroya cupressoides,Cupressaceae,1765669,species,wcvp,Fitzroya cupressoides,Fitzroya cupressoides
+323,Flourensia thurifera,Flourensia thurifera,Asteraceae,2131902,species,wcvp,Flourensia thurifera,Flourensia thurifera
+324,Frankenia chilensis,Frankenia chilensis,Frankeniaceae,1765996,species,wcvp,Frankenia chilensis,Frankenia chilensis
+325,Fuchsia lycioides,Fuchsia lycioides,Onagraceae,329531,species,wcvp,Fuchsia lycioides,Fuchsia lycioides
+326,Fuchsia magellanica,Fuchsia magellanica,Onagraceae,328955,species,wcvp,Fuchsia magellanica,Fuchsia magellanica
+327,Gaultheria insana,Gaultheria insana,Ericaceae,1767221,species,wcvp,Gaultheria insana,Gaultheria insana
+328,Gaultheria linifolia,Gaultheria linifolia,Ericaceae,2179830,species,wcvp,Gaultheria linifolia,Gaultheria linifolia
+329,Gaultheria marticorenae,Gaultheria marticorenae,Ericaceae,2179833,species,wcvp,Gaultheria marticorenae,Gaultheria marticorenae
+330,Gaultheria mucronata,Gaultheria mucronata,Ericaceae,1767259,species,wcvp,Gaultheria mucronata,Gaultheria mucronata
+331,Gaultheria nubigena,Gaultheria nubigena,Ericaceae,1767269,species,wcvp,Gaultheria nubigena,Gaultheria nubigena
+332,Gaultheria phillyreifolia,Gaultheria phillyreifolia,Ericaceae,169185,species,wcvp,Gaultheria phillyreifolia,Gaultheria phillyreifolia
+333,Gaultheria poeppigii,Gaultheria poeppigii,Ericaceae,167049,species,wcvp,Gaultheria poeppigii,Gaultheria poeppigii
+334,Gaultheria pumila,Gaultheria pumila var. leucocarpa,Ericaceae,1767296,variety,wcvp,Gaultheria pumila,Gaultheria pumila leucocarpa
+335,Gaultheria pumila,Gaultheria pumila var. pumila,Ericaceae,169198,variety,tropicos,Gaultheria pumila,Gaultheria pumila pumila
+336,Gaultheria renjifoana,Gaultheria renjifoana,Ericaceae,169186,species,tropicos,Gaultheria renjifoana,Gaultheria renjifoana
+337,Gaultheria tenuifolia,Gaultheria tenuifolia,Ericaceae,169187,species,wcvp,Gaultheria tenuifolia,Gaultheria tenuifolia
+338,Geoffroea decorticans,Geoffroea decorticans,Fabaceae,181530,species,wcvp,Geoffroea decorticans,Geoffroea decorticans
+339,Gevuina avellana,Gevuina avellana,Proteaceae,437158,species,wcvp,Gevuina avellana,Gevuina avellana
+340,Gochnatia foliolosa,Gochnatia foliolosa var. fascicularis,Asteraceae,2132392,variety,wcvp,Gochnatia foliolosa,Gochnatia foliolosa fascicularis
+341,Gochnatia foliolosa,Gochnatia foliolosa var. foliolosa,Asteraceae,72488,variety,tropicos,Gochnatia foliolosa,Gochnatia foliolosa foliolosa
+342,Gomortega keule,Gomortega keule,Gomortegaceae,262996,species,wcvp,Gomortega keule,Gomortega keule
+343,Grindelia tarapacana,Grindelia tarapacana,Asteraceae,56367,species,wcvp,Grindelia tarapacana,Grindelia tarapacana
+344,Griselinia carlomunozii,Griselinia carlomunozii,Griseliniaceae,1627969,species,wcvp,Griselinia carlomunozii,Griselinia carlomunozii
+345,Griselinia jodinifolia,Griselinia jodinifolia,Griseliniaceae,145821,species,wcvp,Griselinia jodinifolia,Griselinia jodinifolia
+346,Griselinia racemosa,Griselinia racemosa,Griseliniaceae,145822,species,wcvp,Griselinia racemosa,Griselinia racemosa
+347,Griselinia ruscifolia,Griselinia ruscifolia,Griseliniaceae,1902283,species,wcvp,Griselinia ruscifolia,Griselinia ruscifolia
+348,Griselinia scandens,Griselinia scandens,Griseliniaceae,145825,species,wcvp,Griselinia scandens,Griselinia scandens
+349,Guindilia trinervis,Guindilia trinervis,Sapindaceae,496759,species,wcvp,Guindilia trinervis,Guindilia trinervis
+350,Gutierrezia espinosae,Gutierrezia espinosae,Asteraceae,1402247,species,wcvp,Gutierrezia espinosae,Gutierrezia espinosae
+351,Gutierrezia gayana,Gutierrezia gayana,Asteraceae,2132565,species,wcvp,Gutierrezia gayana,Gutierrezia gayana
+352,Gutierrezia neaeana,Gutierrezia neaeana,Asteraceae,2132573,species,wcvp,Gutierrezia neaeana,Gutierrezia neaeana
+353,Gutierrezia resinosa,Gutierrezia resinosa,Asteraceae,2132575,species,wcvp,Gutierrezia resinosa,Gutierrezia resinosa
+354,Gutierrezia taltalensis,Gutierrezia taltalensis,Asteraceae,72495,species,wcvp,Gutierrezia taltalensis,Gutierrezia taltalensis
+355,Guynesomia scoparia,Guynesomia scoparia,Asteraceae,1403610,species,wcvp,Guynesomia scoparia,Guynesomia scoparia
+356,Gymnophyton flexuosum,Gymnophyton flexuosum,Apiaceae,18944,species,wcvp,Gymnophyton flexuosum,Gymnophyton flexuosum
+357,Gymnophyton foliosum,Gymnophyton foliosum,Apiaceae,18885,species,wcvp,Gymnophyton foliosum,Gymnophyton foliosum
+358,Gymnophyton isatidicarpum,Gymnophyton isatidicarpum,Apiaceae,18945,species,wcvp,Gymnophyton isatidicarpum,Gymnophyton isatidicarpum
+359,Gymnophyton robustum,Gymnophyton robustum,Apiaceae,18946,species,wcvp,Gymnophyton robustum,Gymnophyton robustum
+360,Gymnophyton spinosissimum,Gymnophyton spinosissimum,Apiaceae,18947,species,wcvp,Gymnophyton spinosissimum,Gymnophyton spinosissimum
+361,Gypothamnium pinifolium,Gypothamnium pinifolium,Asteraceae,72496,species,wcvp,Gypothamnium pinifolium,Gypothamnium pinifolium
+362,Haageocereus decumbens,Haageocereus decumbens,Cactaceae,706347,species,wcvp,australis,Haageocereus australis
+363,Haageocereus fascicularis,Haageocereus fascicularis,Cactaceae,1270542,species,wcvp,fascicularis,Haageocereus fascicularis
+364,Haplopappus angustifolius,Haplopappus angustifolius subsp. angustifolius,Asteraceae,1414982,subspecies,wcvp,Haplopappus angustifolius,Haplopappus angustifolius angustifolius
+365,Haplopappus angustifolius,Haplopappus angustifolius subsp. saxatilis,Asteraceae,2132707,subspecies,wcvp,Haplopappus angustifolius,Haplopappus angustifolius saxatilis
+366,Haplopappus anthylloides,Haplopappus anthylloides,Asteraceae,52712,species,wcvp,Haplopappus anthylloides,Haplopappus anthylloides
+367,Haplopappus baylahuen,Haplopappus baylahuen subsp. baylahuen,Asteraceae,1417213,subspecies,wcvp,Haplopappus baylahuen,Haplopappus baylahuen baylahuen
+368,Haplopappus baylahuen,Haplopappus baylahuen subsp. fluehmannii,Asteraceae,2132713,subspecies,wcvp,Haplopappus baylahuen,Haplopappus baylahuen fluehmannii
+369,Haplopappus cerberoanus,Haplopappus cerberoanus subsp. cerberoanus,Asteraceae,1409920,subspecies,wcvp,Haplopappus cerberoanus,Haplopappus cerberoanus cerberoanus
+370,Haplopappus cerberoanus,Haplopappus cerberoanus subsp. elquianus,Asteraceae,2132728,subspecies,wcvp,Haplopappus cerberoanus,Haplopappus cerberoanus elquianus
+371,Haplopappus chrysanthemifolius,Haplopappus chrysanthemifolius,Asteraceae,2132730,species,wcvp,Haplopappus chrysanthemifolius,Haplopappus chrysanthemifolius
+372,Haplopappus coquimbensis,Haplopappus coquimbensis,Asteraceae,1422731,species,wcvp,Haplopappus coquimbensis,Haplopappus coquimbensis
+373,Haplopappus decurrens,Haplopappus decurrens,Asteraceae,1436495,species,wcvp,Haplopappus decurrens,Haplopappus decurrens
+374,Haplopappus deserticola,Haplopappus deserticola,Asteraceae,52719,species,wcvp,Haplopappus deserticolus,Haplopappus deserticolus
+375,Haplopappus donianus,Haplopappus donianus,Asteraceae,2132742,species,wcvp,Haplopappus donianus,Haplopappus donianus
+376,Haplopappus foliosus,Haplopappus foliosus,Asteraceae,52722,species,wcvp,Haplopappus foliosus,Haplopappus foliosus
+377,Haplopappus glutinosus,Haplopappus glutinosus,Asteraceae,52723,species,wcvp,Haplopappus glutinosus,Haplopappus glutinosus
+378,Haplopappus humilis,Haplopappus humilis,Asteraceae,2132774,species,wcvp,Haplopappus humilis,Haplopappus humilis
+379,Haplopappus integerrimus,Haplopappus integerrimus,Asteraceae,1397215,species,wcvp,Haplopappus integerrimus,Haplopappus integerrimus
+380,Haplopappus integerrimus,Haplopappus integerrimus var. punctatus,Asteraceae,2132776,variety,wcvp,Haplopappus punctatus,Haplopappus punctatus
+381,Haplopappus linifolius,Haplopappus linifolius,Asteraceae,2132796,species,wcvp,Haplopappus linifolius,Haplopappus linifolius
+382,Haplopappus maulinus,Haplopappus maulinus,Asteraceae,1463708,species,wcvp,Haplopappus maulinus,Haplopappus maulinus
+383,Haplopappus mucronatus,Haplopappus mucronatus,Asteraceae,72515,species,wcvp,Haplopappus mucronatus,Haplopappus mucronatus
+384,Haplopappus multifolius,Haplopappus multifolius subsp. baccharidiformis,Asteraceae,2132813,subspecies,wcvp,Haplopappus multifolius,Haplopappus multifolius baccharidiformis
+385,Haplopappus multifolius,Haplopappus multifolius subsp. multifolius,Asteraceae,2132814,subspecies,wcvp,Haplopappus multifolius,Haplopappus multifolius multifolius
+386,Haplopappus multifolius,Haplopappus multifolius subsp. ovalifolius,Asteraceae,2132815,subspecies,wcvp,Haplopappus multifolius,Haplopappus multifolius ovalifolius
+387,Haplopappus ochagavianus,Haplopappus ochagavianus,Asteraceae,72517,species,wcvp,Haplopappus ochagavianus,Haplopappus ochagavianus
+388,Haplopappus philippii,Haplopappus philippii,Asteraceae,2132827,species,wcvp,Haplopappus philippii,Haplopappus philippii
+389,Haplopappus pinea,Haplopappus pinea,Asteraceae,1294423,species,wcvp,Haplopappus pinea,Haplopappus pinea
+390,Haplopappus pinnatifidus,Haplopappus pinnatifidus,Asteraceae,51083,species,wcvp,Haplopappus pinnatifidus,Haplopappus pinnatifidus
+391,Haplopappus platylepis,Haplopappus platylepis,Asteraceae,52733,species,wcvp,Haplopappus litoralis,Haplopappus litoralis
+392,Haplopappus poeppigianus,Haplopappus poeppigianus,Asteraceae,2132835,species,wcvp,Haplopappus poeppigianus,Haplopappus poeppigianus
+393,Haplopappus pulchellus,Haplopappus pulchellus,Asteraceae,54551,species,wcvp,Haplopappus pulchellus,Haplopappus pulchellus
+394,Haplopappus pusillus,Haplopappus pusillus,Asteraceae,1465069,species,wcvp,Haplopappus pusillus,Haplopappus pusillus
+395,Haplopappus racemiger,Haplopappus racemiger,Asteraceae,1385071,species,wcvp,Haplopappus racemiger,Haplopappus racemiger
+396,Haplopappus remyanus,Haplopappus remyanus,Asteraceae,52738,species,wcvp,Haplopappus remyanus,Haplopappus remyanus
+397,Haplopappus rengifoanus,Haplopappus rengifoanus,Asteraceae,1403920,species,wcvp,Haplopappus rengifoanus,Haplopappus rengifoanus
+398,Haplopappus retinervius,Haplopappus retinervius,Asteraceae,1402387,species,wcvp,Haplopappus retinervius,Haplopappus retinervius
+399,Haplopappus rigidus,Haplopappus rigidus,Asteraceae,56461,species,wcvp,Haplopappus rigidus,Haplopappus rigidus
+400,Haplopappus schumannii,Haplopappus schumannii,Asteraceae,1471872,species,wcvp,Haplopappus schumannii,Haplopappus schumannii
+401,Haplopappus scrobiculatus,Haplopappus scrobiculatus,Asteraceae,2132864,species,wcvp,Haplopappus scrobiculatus,Haplopappus scrobiculatus
+402,Haplopappus setulosus,Haplopappus setulosus,Asteraceae,1461955,species,wcvp,Haplopappus setulosus,Haplopappus setulosus
+403,Haplopappus stelliger,Haplopappus stelliger,Asteraceae,1444186,species,wcvp,Haplopappus stelliger,Haplopappus stelliger
+404,Haplopappus stolpii,Haplopappus stolpii,Asteraceae,52749,species,wcvp,Haplopappus stolpii,Haplopappus stolpii
+405,Haplopappus taeda,Haplopappus taeda,Asteraceae,52750,species,wcvp,Haplopappus taeda,Haplopappus taeda
+406,Haplopappus uncinatus,Haplopappus uncinatus,Asteraceae,54557,species,wcvp,Haplopappus uncinatus,Haplopappus uncinatus
+407,Haplopappus undulatus,Haplopappus undulatus,Asteraceae,1455799,species,wcvp,Haplopappus undulatus,Haplopappus undulatus
+408,Haplopappus valparadisiacus,Haplopappus valparadisiacus,Asteraceae,1382012,species,wcvp,Haplopappus valparadisiacus,Haplopappus valparadisiacus
+409,Haplopappus velutinus,Haplopappus velutinus subsp. illinitus,Asteraceae,2132894,subspecies,wcvp,Haplopappus velutinus,Haplopappus velutinus illinitus
+410,Haplopappus velutinus,Haplopappus velutinus subsp. longipes,Asteraceae,2132895,subspecies,wcvp,Haplopappus velutinus,Haplopappus velutinus longipes
+411,Haplopappus velutinus,Haplopappus velutinus subsp. velutinus,Asteraceae,1417159,subspecies,wcvp,Haplopappus velutinus,Haplopappus velutinus velutinus
+412,Haplopappus vicuniensis,Haplopappus vicuniensis,Asteraceae,1394128,species,wcvp,Haplopappus vicuniensis,Haplopappus vicuniensis
+413,Haplorhus peruviana,Haplorhus peruviana,Anacardiaceae,13219,species,wcvp,Haplorhus peruviana,Haplorhus peruviana
+414,Hebe elliptica,Hebe elliptica,Plantaginaceae,501486,species,tropicos,Hebe elliptica,Hebe elliptica
+415,Hebe salicifolia,Hebe salicifolia,Plantaginaceae,505053,species,tropicos,Hebe salicifolia,Hebe salicifolia
+416,Heliotropium chenopodiaceum,Heliotropium chenopodiaceum var. chenopodiaceum,Heliotropiaceae,101033,variety,tropicos,Heliotropium chenopodiaceum,Heliotropium chenopodiaceum chenopodiaceum
+417,Heliotropium chenopodiaceum,Heliotropium chenopodiaceum,Heliotropiaceae,2151193,species,wcvp,Heliotropium chenopodiaceum,Heliotropium chenopodiaceum ericoideum
+418,Heliotropium eremogenum,Heliotropium eremogenum,Heliotropiaceae,1778698,species,wcvp,Heliotropium eremogenum,Heliotropium eremogenum
+419,Heliotropium filifolium,Heliotropium filifolium,Heliotropiaceae,2151212,species,wcvp,Heliotropium filifolium,Heliotropium filifolium
+420,Heliotropium floridum,Heliotropium floridum,Heliotropiaceae,2015415,species,wcvp,Heliotropium floridum,Heliotropium floridum
+421,Heliotropium glutinosum,Heliotropium glutinosum,Heliotropiaceae,99998,species,wcvp,Heliotropium glutinosum,Heliotropium glutinosum
+422,Heliotropium huascoense,Heliotropium huascoense,Heliotropiaceae,101036,species,tropicos,Heliotropium huascoense,Heliotropium huascoense
+423,Heliotropium inconspicuum,Heliotropium inconspicuum,Heliotropiaceae,1221222,species,wcvp,Heliotropium inconspicuum,Heliotropium inconspicuum
+424,Heliotropium jaffuelii,Heliotropium jaffuelii,Heliotropiaceae,101037,species,tropicos,Heliotropium jaffuelii,Heliotropium jaffuelii
+425,Heliotropium krauseanum,Heliotropium krauseanum,Heliotropiaceae,100002,species,wcvp,Heliotropium krauseanum,Heliotropium krauseanum
+426,Heliotropium linariifolium,Heliotropium linariifolium,Heliotropiaceae,101069,species,wcvp,Heliotropium linariifolium,Heliotropium linariifolium
+427,Heliotropium longistylum,Heliotropium longistylum,Heliotropiaceae,101038,species,wcvp,Heliotropium longistylum,Heliotropium longistylum
+428,Heliotropium myosotifolium,Heliotropium myosotifolium,Heliotropiaceae,2151256,species,wcvp,Heliotropium myosotifolium,Heliotropium myosotifolium
+429,Heliotropium philippianum,Heliotropium philippianum,Heliotropiaceae,1778893,species,wcvp,Heliotropium philippianum,Heliotropium philippianum
+430,Heliotropium pycnophyllum,Heliotropium pycnophyllum,Heliotropiaceae,100040,species,wcvp,Heliotropium pycnophyllum,Heliotropium pycnophyllum
+431,Heliotropium sclerocarpum,Heliotropium sclerocarpum,Heliotropiaceae,100050,species,tropicos,Heliotropium sclerocarpum,Heliotropium sclerocarpum
+432,Heliotropium sinuatum,Heliotropium sinuatum,Heliotropiaceae,1778961,species,wcvp,Heliotropium sinuatum,Heliotropium sinuatum
+433,Heliotropium stenophyllum,Heliotropium stenophyllum,Heliotropiaceae,101041,species,wcvp,Heliotropium stenophyllum,Heliotropium stenophyllum
+434,Heliotropium taltalense,Heliotropium taltalense,Heliotropiaceae,1778986,species,wcvp,Heliotropium taltalense,Heliotropium taltalense
+435,Helogyne apaloidea,Helogyne apaloidea,Asteraceae,64691,species,wcvp,Helogyne apaloidea,Helogyne apaloidea
+436,Helogyne macrogyne,Helogyne macrogyne,Asteraceae,1394593,species,wcvp,Helogyne macrogyne,Helogyne macrogyne
+437,Hoffmannseggia aphylla,Hoffmannseggia aphylla,Fabaceae,1943569,species,wcvp,Hoffmannseggia aphylla,Hoffmannseggia aphylla
+438,Huidobria chilensis,Huidobria chilensis,Loasaceae,850994,species,wcvp,Huidobria chilensis,Huidobria chilensis
+439,Huidobria fruticosa,Huidobria fruticosa,Loasaceae,850996,species,wcvp,Huidobria fruticosa,Huidobria fruticosa
+440,Jovellana punctata,Jovellana punctata,Calceolariaceae,502204,species,wcvp,Jovellana punctata,Jovellana punctata
+441,Jovellana violacea,Jovellana violacea,Calceolariaceae,1976805,species,wcvp,Jovellana violacea,Jovellana violacea
+442,Jubaea chilensis,Jubaea chilensis,Arecaceae,37796,species,wcvp,Jubaea chilensis,Jubaea chilensis
+443,Junellia aretioides,Junellia aretioides,Verbenaceae,1521728,species,wcvp,Junellia aretioides,Junellia aretioides
+444,Junellia bryoides,Junellia bryoides,Verbenaceae,528928,species,wcvp,Junellia bryoides,Junellia bryoides
+445,Junellia caespitosa,Junellia caespitosa,Verbenaceae,528929,species,wcvp,Junellia caespitosa,Junellia caespitosa
+446,Junellia crithmifolia,Junellia crithmifolia,Verbenaceae,1874687,species,wcvp,Junellia crithmifolia,Junellia crithmifolia
+447,Junellia digitata,Junellia digitata var. digitata,Verbenaceae,781761,variety,wcvp,Junellia digitata,Junellia digitata digitata
+448,Junellia juniperina,Junellia juniperina,Verbenaceae,528281,species,wcvp,Junellia juniperina,Junellia juniperina
+449,Junellia lavandulifolia,Junellia lavandulifolia,Verbenaceae,528936,species,wcvp,Junellia lavandulifolia,Junellia lavandulifolia
+450,Junellia micrantha,Junellia micrantha,Verbenaceae,1521730,species,wcvp,Junellia micrantha,Junellia micrantha
+451,Junellia minima,Junellia minima,Verbenaceae,528289,species,wcvp,Junellia minima,Junellia minima
+452,Junellia odonellii,Junellia odonellii,Verbenaceae,1086270,species,wcvp,Junellia odonellii,Junellia odonellii
+453,Junellia pappigera,Junellia pappigera,Verbenaceae,1874693,species,wcvp,Junellia pappigera,Junellia pappigera
+454,Junellia pseudojuncea,Junellia pseudojuncea,Verbenaceae,760581,species,wcvp,Junellia pseudojuncea,Junellia pseudojuncea
+455,Junellia selaginoides,Junellia selaginoides var. illapelina,Verbenaceae,739931,variety,wcvp,Junellia selaginoides,Junellia selaginoides illapelina
+456,Junellia selaginoides,Junellia selaginoides var. selaginoides,Verbenaceae,1086271,variety,wcvp,Junellia selaginoides,Junellia selaginoides selaginoides
+457,Junellia seriphioides,Junellia seriphioides,Verbenaceae,528943,species,wcvp,Junellia seriphioides,Junellia seriphioides
+458,Junellia silvestrii,Junellia silvestrii,Verbenaceae,528945,species,wcvp,Junellia silvestrii,Junellia silvestrii
+459,Junellia spathulata,Junellia spathulata var. glauca,Verbenaceae,1521734,variety,wcvp,Junellia spathulata,Junellia spathulata glauca
+460,Junellia spathulata,Junellia spathulata var. spathulata,Verbenaceae,779070,variety,wcvp,Junellia spathulata,Junellia spathulata spathulata
+461,Junellia thymifolia,Junellia thymifolia,Verbenaceae,528947,species,wcvp,Junellia thymifolia,Junellia thymifolia
+462,Junellia tridactylites,Junellia tridactylites,Verbenaceae,779480,species,wcvp,Junellia tridactylites,Junellia tridactylites
+463,Junellia ulicina,Junellia ulicina,Verbenaceae,528951,species,wcvp,Junellia ulicina,Junellia ulicina
+464,Junellia uniflora,Junellia uniflora,Verbenaceae,528952,species,wcvp,Junellia uniflora,Junellia uniflora
+465,Kageneckia angustifolia,Kageneckia angustifolia,Rosaceae,1913918,species,wcvp,Kageneckia angustifolia,Kageneckia angustifolia
+466,Kageneckia oblonga,Kageneckia oblonga,Rosaceae,473053,species,wcvp,Kageneckia oblonga,Kageneckia oblonga
+467,Kieslingia chilensis,Kieslingia chilensis,Asteraceae,2138162,species,wcvp,Kieslingia chilensis,Kieslingia chilensis
+468,Krameria cistoidea,Krameria cistoidea,Krameriaceae,270051,species,wcvp,Krameria cistoidea,Krameria cistoidea
+469,Krameria lappacea,Krameria lappacea,Krameriaceae,1954121,species,wcvp,Krameria lappacea,Krameria lappacea
+470,Lampayo hieronymi,Lampayo hieronymi,Verbenaceae,1522619,species,wcvp,Lampayo hieronymi,Lampayo hieronymi
+471,Lampayo medicinalis,Lampayo medicinalis,Verbenaceae,980143,species,tropicos,Lampayo medicinalis,Lampayo medicinalis
+472,Larrea divaricata,Larrea divaricata,Zygophyllaceae,182887,species,wcvp,Larrea divaricata,Larrea divaricata
+473,Larrea nitida,Larrea nitida,Zygophyllaceae,536759,species,wcvp,Larrea nitida,Larrea nitida
+474,Latua pubiflora,Latua pubiflora,Solanaceae,513834,species,wcvp,Latua pubiflora,Latua pubiflora
+475,Laurelia sempervirens,Laurelia sempervirens,Atherospermataceae,311916,species,wcvp,Laurelia sempervirens,Laurelia sempervirens
+476,Laureliopsis philippiana,Laureliopsis philippiana,Monimiaceae,312298,species,wcvp,Laureliopsis philippiana,Laureliopsis philippiana
+477,Legrandia concinna,Legrandia concinna,Myrtaceae,319974,species,wcvp,Legrandia concinna,Legrandia concinna
+478,Lepechinia chilensis,Lepechinia chilensis,Lamiaceae,2206034,species,wcvp,Lepechinia chilensis,Lepechinia chilensis
+479,Lepechinia salviae,Lepechinia salviae,Lamiaceae,971003,species,wcvp,Lepechinia salviae,Lepechinia salviae
+480,Lepechinia subhastata,Lepechinia subhastata,Lamiaceae,1089356,species,tropicos,Lepechinia subhastata,Lepechinia subhastata
+481,Lepidophyllum cupressiforme,Lepidophyllum cupressiforme,Asteraceae,2139042,species,wcvp,Lepidophyllum cupressiforme,Lepidophyllum cupressiforme
+482,Lepidothamnus fonkii,Lepidothamnus fonkii,Podocarpaceae,521929,species,wcvp,Lepidothamnus fonkii,Lepidothamnus fonkii
+483,Leptocarpha rivularis,Leptocarpha rivularis,Asteraceae,56649,species,wcvp,Leptocarpha rivularis,Leptocarpha rivularis
+484,Leucostele atacamensis,Leucostele atacamensis,Cactaceae,1379838,species,wcvp,atacamensis,Echinopsis atacamensis
+485,Leucostele chiloensis,Leucostele chiloensis,Cactaceae,1379840,species,wcvp,chiloensis,Echinopsis chiloensis subsp. chiloensis
+486,Leucostele deserticola,Leucostele deserticola,Cactaceae,1379842,species,wcvp,deserticola,Echinopsis deserticola
+487,Leucostele litoralis,Leucostele litoralis,Cactaceae,1379843,species,wcvp,chiloensis,Echinopsis chiloensis subsp. litoralis
+488,Leucostele nigripilis,Leucostele nigripilis,Cactaceae,1379844,species,wcvp,nigripilis,Echinopsis nigripilis
+489,Leucostele skottsbergii,Leucostele skottsbergii,Cactaceae,1659758,species,wcvp,skottsbergii,Echinopsis skottsbergii
+490,Leunisia laeta,Leunisia laeta,Asteraceae,56677,species,wcvp,Leunisia laeta,Leunisia laeta
+491,Lippia fragrans,Lippia fragrans,Verbenaceae,528953,species,wcvp,Lippia fragrans,Lippia fragrans
+492,Lippia turbinata,Lippia turbinata,Verbenaceae,527706,species,wcvp,Lippia turbinata,Lippia turbinata
+493,Lithrea caustica,Lithrea caustica,Anacardiaceae,13656,species,tropicos,Lithrea caustica,Lithrea caustica
+494,Llagunoa glandulosa,Llagunoa glandulosa,Sapindaceae,1975927,species,wcvp,Llagunoa glandulosa,Llagunoa glandulosa
+495,Lobelia excelsa,Lobelia excelsa,Campanulaceae,1092453,species,wcvp,Lobelia excelsa,Lobelia excelsa
+496,Lobelia polyphylla,Lobelia polyphylla,Campanulaceae,126492,species,wcvp,Lobelia polyphylla,Lobelia polyphylla
+497,Lomatia dentata,Lomatia dentata,Proteaceae,1635767,species,wcvp,Lomatia dentata,Lomatia dentata
+498,Lomatia ferruginea,Lomatia ferruginea,Proteaceae,2263686,species,wcvp,Lomatia ferruginea,Lomatia ferruginea
+499,Lomatia hirsuta,Lomatia hirsuta subsp. obliqua,Proteaceae,1680305,subspecies,wcvp,Lomatia hirsuta,Lomatia hirsuta obliqua
+500,Lophopappus cuneatus,Lophopappus cuneatus,Asteraceae,1425526,species,wcvp,Lophopappus cuneatus,Lophopappus cuneatus
+501,Lophopappus foliosus,Lophopappus foliosus,Asteraceae,82263,species,wcvp,Lophopappus foliosus,Lophopappus foliosus
+502,Lophopappus tarapacanus,Lophopappus tarapacanus,Asteraceae,72615,species,wcvp,Lophopappus tarapacanus,Lophopappus tarapacanus
+503,Luma apiculata,Luma apiculata,Myrtaceae,319975,species,wcvp,Luma apiculata,Luma apiculata
+504,Luma chequen,Luma chequen,Myrtaceae,1525699,species,wcvp,Luma chequen,Luma chequen
+505,Lupinus tarapacensis,Lupinus tarapacensis,Fabaceae,1498712,species,wcvp,Lupinus tarapacensis,Lupinus tarapacensis
+506,Lupinus werdermannianus,Lupinus werdermannianus,Fabaceae,1498725,species,wcvp,Lupinus werdermannianus,Lupinus werdermannianus
+507,Lycium boerhaviifolium,Lycium boerhaviifolium,Solanaceae,1934882,species,wcvp,Lycium boerhaviaefolium,Lycium boerhaviaefolium
+508,Lycium bridgesii,Lycium bridgesii,Solanaceae,2288761,species,wcvp,Lycium bridgesii,Lycium bridgesii
+509,Lycium chilense,Lycium chilense var. chilense,Solanaceae,515768,variety,tropicos,Lycium chilense,Lycium chilense chilense
+510,Lycium chilense,Lycium chilense var. confertifolium,Solanaceae,1934926,variety,wcvp,Lycium chilense,Lycium chilense confertifolium
+511,Lycium chilense,Lycium chilense var. filifolium,Solanaceae,2288771,variety,wcvp,Lycium chilense,Lycium chilense filifolium
+512,Lycium chilense,Lycium chilense var. glaberrimum,Solanaceae,1934931,variety,wcvp,Lycium chilense,Lycium chilense glaberrimum
+513,Lycium chilense,Lycium chilense var. minutifolium,Solanaceae,1934939,variety,wcvp,Lycium chilense,Lycium chilense minutifolium
+514,Lycium chilense,Lycium chilense var. vergarae,Solanaceae,1934953,variety,wcvp,Lycium chilense,Lycium chilense vergarae
+515,Lycium deserti,Lycium deserti,Solanaceae,972697,species,wcvp,Lycium deserti,Lycium deserti
+516,Lycium distichum,Lycium distichum,Solanaceae,510898,species,wcvp,Lycium distichum,Lycium distichum
+517,Lycium humile,Lycium humile,Solanaceae,513837,species,wcvp,Lycium humile,Lycium humile
+518,Lycium leiostemum,Lycium leiostemum,Solanaceae,510907,species,wcvp,Lycium leiostemum,Lycium leiostemum
+519,Lycium minutifolium,Lycium minutifolium,Solanaceae,510913,species,wcvp,Lycium minutifolium,Lycium minutifolium
+520,Lycium rachidocladum,Lycium rachidocladum,Solanaceae,510919,species,wcvp,Lycium rachidocladum,Lycium rachidocladum
+521,Lycium stenophyllum,Lycium stenophyllum,Solanaceae,2288833,species,wcvp,Lycium stenophyllum,Lycium stenophyllum
+522,Lycium tenuispinosum,Lycium tenuispinosum var. calycinum,Solanaceae,1935269,variety,wcvp,Lycium tenuispinosum,Lycium tenuispinosum calycinum
+523,Marticorenia foliosa,Marticorenia foliosa,Asteraceae,72625,species,wcvp,Marticorenia foliosa,Marticorenia foliosa
+524,Maytenus boaria,Maytenus boaria,Celastraceae,134108,species,wcvp,Maytenus boaria,Maytenus boaria
+525,Maytenus magellanica,Maytenus magellanica,Celastraceae,2046342,species,wcvp,Maytenus magellanica,Maytenus magellanica
+526,Menodora linoides,Menodora linoides,Oleaceae,327801,species,wcvp,Menodora linoides,Menodora linoides
+527,Miqueliopuntia miquelii,Miqueliopuntia miquelii,Cactaceae,1026337,species,wcvp,miquelii,Miqueliopuntia miquelii
+528,Monttea chilensis,Monttea chilensis var. chilensis,Plantaginaceae,505073,variety,tropicos,Monttea chilensis,Monttea chilensis chilensis
+529,Monttea chilensis,Monttea chilensis var. taltalensis,Plantaginaceae,505074,variety,wcvp,Monttea chilensis,Monttea chilensis taltalensis
+530,Morella pavonis,Morella pavonis,Myricaceae,917398,species,tropicos,Morella pavonis,Morella pavonis
+531,Muehlenbeckia fruticulosa,Muehlenbeckia fruticulosa,Polygonaceae,431514,species,wcvp,Muehlenbeckia fruticulosa,Muehlenbeckia fruticulosa
+532,Muehlenbeckia hastulata,Muehlenbeckia hastulata var. fascicularis,Polygonaceae,433213,variety,wcvp,Muehlenbeckia hastulata,Muehlenbeckia hastulata fascicularis
+533,Muehlenbeckia hastulata,Muehlenbeckia hastulata var. hastulata,Polygonaceae,433207,variety,tropicos,Muehlenbeckia hastulata,Muehlenbeckia hastulata hastulata
+534,Muehlenbeckia hastulata,Muehlenbeckia hastulata var. rotundata,Polygonaceae,433211,variety,wcvp,Muehlenbeckia hastulata,Muehlenbeckia hastulata rotundata
+535,Mulguraea arequipensis,Mulguraea arequipensis,Verbenaceae,1874815,species,wcvp,Mulguraea arequipensis,Mulguraea arequipensis
+536,Mulguraea asparagoides,Mulguraea asparagoides,Verbenaceae,1874816,species,wcvp,Mulguraea asparagoides,Mulguraea asparagoides
+537,Mulguraea cinerascens,Mulguraea cinerascens,Verbenaceae,1874790,species,wcvp,Mulguraea cinerascens,Mulguraea cinerascens
+538,Mulguraea hystrix,Mulguraea hystrix,Verbenaceae,1874793,species,wcvp,Mulguraea hystrix,Mulguraea hystrix
+539,Mulguraea scoparia,Mulguraea scoparia,Verbenaceae,1874810,species,wcvp,Mulguraea scoparia,Mulguraea scoparia
+540,Mulguraea tridens,Mulguraea tridens,Verbenaceae,1874797,species,wcvp,Mulguraea tridens,Mulguraea tridens
+541,Mutisia acerosa,Mutisia acerosa,Asteraceae,57128,species,wcvp,Mutisia acerosa,Mutisia acerosa
+542,Mutisia ledifolia,Mutisia ledifolia,Asteraceae,57150,species,wcvp,Mutisia ledifolia,Mutisia ledifolia
+543,Mutisia linearifolia,Mutisia linearifolia,Asteraceae,72642,species,wcvp,Mutisia linearifolia,Mutisia linearifolia
+544,Myoschilos oblongum,Myoschilos oblongum,Santalaceae,495688,species,tropicos,Myoschilos oblongum,Myoschilos oblongum
+545,Myrceugenia chrysocarpa,Myrceugenia chrysocarpa,Myrtaceae,1532663,species,wcvp,Myrceugenia chrysocarpa,Myrceugenia chrysocarpa
+546,Myrceugenia colchaguensis,Myrceugenia colchaguensis,Myrtaceae,2222617,species,wcvp,Myrceugenia colchaguensis,Myrceugenia colchaguensis
+547,Myrceugenia correifolia,Myrceugenia correifolia,Myrtaceae,1532664,species,wcvp,Myrceugenia correifolia,Myrceugenia correifolia
+548,Myrceugenia exsucca,Myrceugenia exsucca,Myrtaceae,1532673,species,wcvp,Myrceugenia exsucca,Myrceugenia exsucca
+549,Myrceugenia lanceolata,Myrceugenia lanceolata,Myrtaceae,1532685,species,wcvp,Myrceugenia lanceolata,Myrceugenia lanceolata
+550,Myrceugenia leptospermoides,Myrceugenia leptospermoides,Myrtaceae,319983,species,wcvp,Myrceugenia leptospermoides,Myrceugenia leptospermoides
+551,Myrceugenia obtusa,Myrceugenia obtusa,Myrtaceae,1532712,species,wcvp,Myrceugenia obtusa,Myrceugenia obtusa
+552,Myrceugenia ovata,Myrceugenia ovata var. nannophylla,Myrtaceae,319986,variety,wcvp,Myrceugenia ovata,Myrceugenia ovata nannophylla
+553,Myrceugenia ovata,Myrceugenia ovata var. ovata,Myrtaceae,319985,variety,wcvp,Myrceugenia ovata,Myrceugenia ovata ovata
+554,Myrceugenia parvifolia,Myrceugenia parvifolia,Myrtaceae,319987,species,wcvp,Myrceugenia parvifolia,Myrceugenia parvifolia
+555,Myrceugenia pinifolia,Myrceugenia pinifolia,Myrtaceae,1532723,species,wcvp,Myrceugenia pinifolia,Myrceugenia pinifolia
+556,Myrceugenia planipes,Myrceugenia planipes,Myrtaceae,1532725,species,wcvp,Myrceugenia planipes,Myrceugenia planipes
+557,Myrceugenia rufa,Myrceugenia rufa,Myrtaceae,1532732,species,wcvp,Myrceugenia rufa,Myrceugenia rufa
+558,Myrcianthes coquimbensis,Myrcianthes coquimbensis,Myrtaceae,1533135,species,wcvp,Myrcianthes coquimbensis,Myrcianthes coquimbensis
+559,Nardophyllum bryoides,Nardophyllum bryoides,Asteraceae,51293,species,wcvp,Nardophyllum bryoides,Nardophyllum bryoides
+560,Nardophyllum chiliotrichoides,Nardophyllum chiliotrichoides,Asteraceae,2140638,species,wcvp,Nardophyllum chiliotrichioides,Nardophyllum chiliotrichioides
+561,Nardophyllum genistoides,Nardophyllum genistoides,Asteraceae,2140640,species,wcvp,Nardophyllum genistoides,Nardophyllum genistoides
+562,Nardophyllum lanatum,Nardophyllum lanatum,Asteraceae,72654,species,wcvp,Nardophyllum lanatum,Nardophyllum lanatum
+563,Nassauvia axillaris,Nassauvia axillaris,Asteraceae,2140656,species,wcvp,Nassauvia axillaris,Nassauvia axillaris
+564,Nassauvia glomerulosa,Nassauvia glomerulosa,Asteraceae,2140663,species,wcvp,Nassauvia glomerulosa,Nassauvia glomerulosa
+565,Nolana albescens,Nolana albescens,Solanaceae,1935856,species,wcvp,Nolana albescens,Nolana albescens
+566,Nolana clivicola,Nolana clivicola,Solanaceae,1935872,species,wcvp,Nolana clivicola,Nolana clivicola
+567,Nolana deflexa,Nolana deflexa,Solanaceae,1935877,species,wcvp,Nolana deflexa,Nolana deflexa
+568,Nolana diffusa,Nolana diffusa,Solanaceae,325397,species,tropicos,Nolana diffusa,Nolana diffusa
+569,Nolana incana,Nolana incana,Solanaceae,1935900,species,wcvp,Nolana incana,Nolana incana
+570,Nolana inconspicua,Nolana inconspicua,Solanaceae,1935901,species,wcvp,Nolana inconspicua,Nolana inconspicua
+571,Nolana lachimbensis,Nolana lachimbensis,Solanaceae,1935905,species,wcvp,Nolana lachimbensis,Nolana lachimbensis
+572,Nolana ramosissima,Nolana ramosissima,Solanaceae,1935946,species,wcvp,Nolana ramosissima,Nolana ramosissima
+573,Nolana salsoloides,Nolana salsoloides,Solanaceae,1935954,species,wcvp,Nolana salsoloides,Nolana salsoloides
+574,Nolana stenophylla,Nolana stenophylla,Solanaceae,1935960,species,wcvp,Nolana stenophylla,Nolana stenophylla
+575,Nolana tocopillensis,Nolana tocopillensis,Solanaceae,1935965,species,wcvp,Nolana tocopillensis,Nolana tocopillensis
+576,Nolana villosa,Nolana villosa,Solanaceae,1935967,species,wcvp,Nolana villosa,Nolana villosa
+577,Nothofagus alessandrii,Nothofagus alessandrii,Nothofagaceae,1534729,species,wcvp,Nothofagus alessandrii,Nothofagus alessandrii
+578,Nothofagus alpina,Nothofagus alpina,Nothofagaceae,1534730,species,wcvp,Nothofagus alpina,Nothofagus alpina
+579,Nothofagus antarctica,Nothofagus antarctica,Nothofagaceae,1534732,species,wcvp,Nothofagus antarctica,Nothofagus antarctica
+580,Nothofagus betuloides,Nothofagus betuloides,Nothofagaceae,253603,species,wcvp,Nothofagus betuloides,Nothofagus betuloides
+581,Nothofagus dombeyi,Nothofagus dombeyi,Nothofagaceae,253604,species,wcvp,Nothofagus dombeyi,Nothofagus dombeyi
+582,Nothofagus glauca,Nothofagus glauca,Nothofagaceae,253605,species,wcvp,Nothofagus glauca,Nothofagus glauca
+583,Nothofagus macrocarpa,Nothofagus macrocarpa,Nothofagaceae,1534745,species,wcvp,Nothofagus macrocarpa,Nothofagus macrocarpa
+584,Nothofagus nitida,Nothofagus nitida,Nothofagaceae,253607,species,wcvp,Nothofagus nitida,Nothofagus nitida
+585,Nothofagus obliqua,Nothofagus obliqua,Nothofagaceae,253608,species,wcvp,Nothofagus obliqua,Nothofagus obliqua
+586,Nothofagus pumilio,Nothofagus pumilio,Nothofagaceae,1105422,species,wcvp,Nothofagus pumilio,Nothofagus pumilio
+587,Notopappus pectinatus,Notopappus pectinatus,Asteraceae,2140789,species,wcvp,Notopappus pectinatus,Notopappus pectinatus
+588,Ochetophila nana,Ochetophila nana,Rhamnaceae,1222583,species,wcvp,Ochetophila nana,Ochetophila nana
+589,Ochetophila trinervis,Ochetophila trinervis,Rhamnaceae,1600507,species,wcvp,Ochetophila trinervis,Ochetophila trinervis
+590,Ocyroe armata,Ocyroe armata,Asteraceae,1260938,species,tropicos,Ocyroe armata,Ocyroe armata
+591,Ophryosporus anomalus,Ophryosporus anomalus,Asteraceae,1427773,species,wcvp,Ophryosporus anomalus,Ophryosporus anomalus
+592,Ophryosporus floribundus,Ophryosporus floribundus,Asteraceae,1440296,species,wcvp,Ophryosporus floribundus,Ophryosporus floribundus
+593,Ophryosporus heptanthus,Ophryosporus heptanthus,Asteraceae,1388056,species,wcvp,Ophryosporus heptanthus,Ophryosporus heptanthus
+594,Ophryosporus hoppii,Ophryosporus hoppii,Asteraceae,1473160,species,wcvp,Ophryosporus hoppii,Ophryosporus hoppii
+595,Ophryosporus johnstonii,Ophryosporus johnstonii,Asteraceae,1457925,species,wcvp,Ophryosporus johnstonii,Ophryosporus johnstonii
+596,Ophryosporus paradoxus,Ophryosporus paradoxus,Asteraceae,2141133,species,wcvp,Ophryosporus paradoxus,Ophryosporus paradoxus
+597,Ophryosporus pinifolius,Ophryosporus pinifolius,Asteraceae,1462808,species,wcvp,Ophryosporus pinifolius,Ophryosporus pinifolius
+598,Ophryosporus triangularis,Ophryosporus triangularis,Asteraceae,57247,species,wcvp,Ophryosporus triangularis,Ophryosporus triangularis
+599,Oreocereus hempelianus,Oreocereus hempelianus,Cactaceae,1270724,species,wcvp,hempelianus,Oreocereus hempelianus
+600,Oreocereus leucotrichus,Oreocereus leucotrichus,Cactaceae,1270729,species,wcvp,leucotrichus,Oreocereus leucotrichus
+601,Orites myrtoideus,Orites myrtoideus,Proteaceae,1601977,species,wcvp,Orites myrtoidea,Orites myrtoidea
+602,Otholobium glandulosum,Otholobium glandulosum,Fabaceae,1951137,species,wcvp,Otholobium glandulosum,Otholobium glandulosum
+603,Ovidia andina,Ovidia andina,Thymelaeaceae,523083,species,wcvp,Ovidia andina,Ovidia andina
+604,Ovidia pillopillo,Ovidia pillopillo,Thymelaeaceae,523084,species,tropicos,Ovidia pillo-pillo,Ovidia pillo-pillo
+605,Oxalis caesia,Oxalis caesia,Oxalidaceae,356807,species,wcvp,Oxalis caesia,Oxalis caesia
+606,Oxalis gigantea,Oxalis gigantea,Oxalidaceae,356099,species,tropicos,Oxalis gigantea,Oxalis gigantea
+607,Oxalis virgosa,Oxalis virgosa,Oxalidaceae,859313,species,wcvp,Oxalis virgosa,Oxalis virgosa
+608,Oxyphyllum ulicinum,Oxyphyllum ulicinum,Asteraceae,72689,species,wcvp,Oxyphyllum ulicinum,Oxyphyllum ulicinum
+609,Palaua concinna,Palaua concinna,Malvaceae,2215040,species,wcvp,Palaua concinna,Palaua concinna
+610,Parasenegalia visco,Parasenegalia visco,Fabaceae,1303301,species,wcvp,Acacia visco,Acacia visco
+611,Parastrephia lepidophylla,Parastrephia lepidophylla,Asteraceae,72692,species,wcvp,Parastrephia lepidophylla,Parastrephia lepidophylla
+612,Parastrephia lucida,Parastrephia lucida,Asteraceae,72693,species,wcvp,Parastrephia lucida,Parastrephia lucida
+613,Parastrephia quadrangularis,Parastrephia quadrangularis,Asteraceae,72695,species,wcvp,Parastrephia quadrangularis,Parastrephia quadrangularis
+614,Parastrephia teretiuscula,Parastrephia teretiuscula,Asteraceae,72696,species,wcvp,Parastrephia teretiuscula,Parastrephia teretiuscula
+615,Persea lingue,Persea lingue,Lauraceae,279503,species,wcvp,Persea lingue,Persea lingue
+616,Peumus boldus,Peumus boldus,Monimiaceae,311905,species,wcvp,Peumus boldus,Peumus boldus
+617,Pilgerodendron uviferum,Pilgerodendron uviferum,Cupressaceae,1606088,species,wcvp,Pilgerodendron uviferum,Pilgerodendron uviferum
+618,Pintoa chilensis,Pintoa chilensis,Zygophyllaceae,536760,species,wcvp,Pintoa chilensis,Pintoa chilensis
+619,Pitavia punctata,Pitavia punctata,Rutaceae,492919,species,wcvp,Pitavia punctata,Pitavia punctata
+620,Plazia cheiranthifolia,Plazia cheiranthifolia,Asteraceae,1429410,species,wcvp,Plazia cheiranthifolia,Plazia cheiranthifolia
+621,Plazia daphnoides,Plazia daphnoides,Asteraceae,72711,species,wcvp,Plazia daphnoides,Plazia daphnoides
+622,Pleocarphus revolutus,Pleocarphus revolutus,Asteraceae,1413859,species,wcvp,Pleocarphus revolutus,Pleocarphus revolutus
+623,Pluchea chingoyo,Pluchea chingoyo,Asteraceae,2142940,species,wcvp,Pluchea chingoyo,Pluchea chingoyo
+624,Podanthus mitiqui,Podanthus mitiqui,Asteraceae,72713,species,wcvp,Podanthus mitiqui,Podanthus mitiqui
+625,Podanthus ovatifolius,Podanthus ovatifolius,Asteraceae,72714,species,wcvp,Podanthus ovatifolius,Podanthus ovatifolius
+626,Podocarpus nubigenus,Podocarpus nubigenus,Podocarpaceae,427827,species,wcvp,Podocarpus nubigena,Podocarpus nubigena
+627,Podocarpus salignus,Podocarpus salignus,Podocarpaceae,5285968,SPECIES,GBIF,Podocarpus saligna,Podocarpus saligna
+628,Polylepis rugulosa,Polylepis rugulosa,Rosaceae,471493,species,tropicos,Polylepis rugulosa,Polylepis rugulosa
+629,Polylepis tarapacana,Polylepis tarapacana,Rosaceae,471495,species,wcvp,Polylepis tarapacana,Polylepis tarapacana
+630,Porlieria chilensis,Porlieria chilensis,Zygophyllaceae,1979337,species,wcvp,Porlieria chilensis,Porlieria chilensis
+631,Pouteria lucuma,Pouteria lucuma,Sapotaceae,498054,species,wcvp,Pouteria lucuma,Pouteria lucuma
+632,Pouteria splendens,Pouteria splendens,Sapotaceae,498166,species,tropicos,Pouteria splendens,Pouteria splendens
+633,Prosopis alba,Prosopis alba,Fabaceae,211127,species,wcvp,Prosopis alba,Prosopis alba
+634,Prosopis chilensis,Prosopis chilensis,Fabaceae,194583,species,wcvp,Prosopis chilensis,Prosopis chilensis
+635,Prosopis flexuosa,Prosopis flexuosa fo. flexuosa,Fabaceae,245562,forma,tropicos,Prosopis flexuosa,Prosopis flexuosa flexuosa
+636,Prosopis flexuosa,Prosopis flexuosa var. fruticosa,Fabaceae,2193486,variety,wcvp,Prosopis flexuosa,Prosopis flexuosa fruticosa
+637,Prosopis strombulifera,Prosopis strombulifera,Fabaceae,211173,species,wcvp,Prosopis strombulifera,Prosopis strombulifera
+638,Prosopis tamarugo,Prosopis tamarugo,Fabaceae,194607,species,wcvp,Prosopis tamarugo,Prosopis tamarugo
+639,Proustia cuneifolia,Proustia cuneifolia subsp. cinerea,Asteraceae,1321898,subspecies,wcvp,Proustia cuneifolia,Proustia cuneifolia cinerea
+640,Proustia cuneifolia,Proustia cuneifolia fo. cuneifolia,Asteraceae,72722,forma,tropicos,Proustia cuneifolia,Proustia cuneifolia cuneifolia
+641,Proustia cuneifolia,Proustia cuneifolia subsp. tipia,Asteraceae,1321903,subspecies,wcvp,Proustia cuneifolia,Proustia cuneifolia tipia
+642,Proustia pyrifolia,Proustia pyrifolia,Asteraceae,72728,species,wcvp,Proustia pyrifolia,Proustia pyrifolia
+643,Prumnopitys andina,Prumnopitys andina,Podocarpaceae,1664506,species,wcvp,Prumnopitys andina,Prumnopitys andina
+644,Quillaja saponaria,Quillaja saponaria,Quillajaceae,473057,species,wcvp,Quillaja saponaria,Quillaja saponaria
+645,Raukaua laetevirens,Raukaua laetevirens,Araliaceae,932617,species,wcvp,Raukaua laetevirens,Raukaua laetevirens
+646,Retanilla ephedra,Retanilla ephedra,Rhamnaceae,470079,species,wcvp,Retanilla ephedra,Retanilla ephedra
+647,Retanilla stricta,Retanilla stricta,Rhamnaceae,469474,species,wcvp,Retanilla stricta,Retanilla stricta
+648,Retanilla trinervia,Retanilla trinervia,Rhamnaceae,869773,species,wcvp,Retanilla trinervia,Retanilla trinervia
+649,Rhamnus diffusa,Rhamnus diffusa,Rhamnaceae,469481,species,wcvp,Rhamnus diffusus,Rhamnus diffusus
+650,Rhaphithamnus spinosus,Rhaphithamnus spinosus,Verbenaceae,528376,species,wcvp,Rhaphithamnus spinosus,Rhaphithamnus spinosus
+651,Ribes bicolor,Ribes bicolor,Grossulariaceae,499411,species,wcvp,Ribes bicolor,Ribes bicolor
+652,Ribes cucullatum,Ribes cucullatum,Grossulariaceae,499912,species,wcvp,Ribes cucullatum,Ribes cucullatum
+653,Ribes densiflorum,Ribes densiflorum,Grossulariaceae,499419,species,wcvp,Ribes densiflorum,Ribes densiflorum
+654,Ribes integrifolium,Ribes integrifolium,Grossulariaceae,499427,species,wcvp,Ribes integrifolium,Ribes integrifolium
+655,Ribes magellanicum,Ribes magellanicum,Grossulariaceae,499197,species,wcvp,Ribes magellanicum,Ribes magellanicum
+656,Ribes nemorosum,Ribes nemorosum,Grossulariaceae,499917,species,tropicos,Ribes nemorosum,Ribes nemorosum
+657,Ribes punctatum,Ribes punctatum,Grossulariaceae,499920,species,wcvp,Ribes punctatum,Ribes punctatum
+658,Ribes trilobum,Ribes trilobum,Grossulariaceae,499444,species,wcvp,Ribes trilobum,Ribes trilobum
+659,Ribes valdivianum,Ribes valdivianum,Grossulariaceae,499922,species,wcvp,Ribes valdivianum,Ribes valdivianum
+660,Salix humboldtiana,Salix humboldtiana,Salicaceae,493931,species,wcvp,Salix humboldtiana,Salix humboldtiana
+661,Salpichroa scandens,Salpichroa scandens,Solanaceae,874702,species,wcvp,Salpichroa scandens,Salpichroa scandens
+662,Salpichroa tristis,Salpichroa tristis var. lehmannii,Solanaceae,2289097,variety,wcvp,Salpichroa tristis,Salpichroa tristis lehmanni
+663,Salpiglossis spinescens,Salpiglossis spinescens,Solanaceae,511083,species,wcvp,Salpiglossis spinescens,Salpiglossis spinescens
+664,Salvia cuspidata,Salvia cuspidata subsp. gilliesii,Lamiaceae,1822660,subspecies,wcvp,Salvia gilliesii,Salvia gilliesii
+665,Sarcocornia andina,Sarcocornia andina,Amaranthaceae,1257188,species,tropicos,Sarcocornia andina,Sarcocornia andina
+666,Sarcocornia magellanica,Sarcocornia magellanica,Amaranthaceae,1294686,species,tropicos,Sarcocornia magellanica,Sarcocornia magellanica
+667,Sarcocornia neei,Sarcocornia neei,Amaranthaceae,1294687,species,tropicos,Sarcocornia neei,Sarcocornia neei
+668,Saxegothaea conspicua,Saxegothaea conspicua,Podocarpaceae,427861,species,wcvp,Saxegothaea conspicua,Saxegothaea conspicua
+669,Schinus areira,Schinus areira,Anacardiaceae,13789,species,wcvp,Schinus areira,Schinus areira
+670,Schinus kauselii,Schinus kauselii,Anacardiaceae,1948008,species,wcvp,Schinus kauselii,Schinus kauselii
+671,Schinus latifolia,Schinus latifolia,Anacardiaceae,13298,species,wcvp,Schinus latifolius,Schinus latifolius
+672,Schinus marchandii,Schinus marchandii,Anacardiaceae,1630738,species,wcvp,Schinus marchandii,Schinus marchandii
+673,Schinus montana,Schinus montana,Anacardiaceae,1630751,species,wcvp,Schinus montanus,Schinus montanus
+674,Schinus patagonica,Schinus patagonica var. crenuloides,Anacardiaceae,2103958,variety,wcvp,Schinus patagonicus,Schinus patagonicus crenuloides
+675,Schinus patagonica,Schinus patagonica var. patagonica,Anacardiaceae,13661,variety,tropicos,Schinus patagonicus,Schinus patagonicus patagonicus
+676,Schinus polygama,Schinus polygama,Anacardiaceae,4928873,SPECIES,GBIF,Schinus polygamus,Schinus polygamus
+677,Scutellaria valdiviana,Scutellaria valdiviana,Lamiaceae,271464,species,wcvp,Scutellaria valdiviana,Scutellaria valdiviana
+678,Senecio adenophyllus,Senecio adenophyllus,Asteraceae,2144442,species,wcvp,Senecio adenophyllus,Senecio adenophyllus
+679,Senecio alcicornis,Senecio alcicornis,Asteraceae,57515,species,wcvp,Senecio alcicornis,Senecio alcicornis
+680,Senecio anthemidiphyllus,Senecio anthemidiphyllus,Asteraceae,1383719,species,wcvp,Senecio anthemidiphyllus,Senecio anthemidiphyllus
+681,Senecio arleguianus,Senecio arleguianus,Asteraceae,1469950,species,wcvp,Senecio arleguianus,Senecio arleguianus
+682,Senecio atacamensis,Senecio atacamensis,Asteraceae,57556,species,wcvp,Senecio atacamensis,Senecio atacamensis
+683,Senecio bahioides,Senecio bahioides,Asteraceae,72742,species,wcvp,Senecio bahioides,Senecio bahioides
+684,Senecio bracteolatus,Senecio bracteolatus var. bracteolatus,Asteraceae,89711,variety,tropicos,Senecio bracteolatus,Senecio bracteolatus bracteolatus
+685,Senecio bracteolatus,Senecio bracteolatus var. valderramae,Asteraceae,72748,variety,wcvp,Senecio bracteolatus,Senecio bracteolatus valderramae
+686,Senecio cachinalensis,Senecio cachinalensis var. cachinalensis,Asteraceae,72752,variety,tropicos,Senecio cachinalensis,Senecio cachinalensis cachinalensis
+687,Senecio cachinalensis,Senecio cachinalensis var. copiapinus,Asteraceae,2144560,variety,wcvp,Senecio cachinalensis,Senecio cachinalensis copiapinus
+688,Senecio cerberoanus,Senecio cerberoanus var. cerberoanus,Asteraceae,72755,variety,tropicos,Senecio cerberoanus,Senecio cerberoanus cerberoanus
+689,Senecio cerberoanus,Senecio cerberoanus var. lanatus,Asteraceae,72756,variety,wcvp,Senecio cerberoanus,Senecio cerberoanus lanatus
+690,Senecio chanaralensis,Senecio chanaralensis,Asteraceae,72758,species,wcvp,Senecio chañaralensis,Senecio chanaralensis
+691,Senecio coquimbensis,Senecio coquimbensis,Asteraceae,72765,species,wcvp,Senecio coquimbensis,Senecio coquimbensis
+692,Senecio coscayanus,Senecio coscayanus,Asteraceae,72766,species,wcvp,Senecio coscayanus,Senecio coscayanus
+693,Senecio ctenophyllus,Senecio ctenophyllus,Asteraceae,57653,species,wcvp,Senecio ctenophyllus,Senecio ctenophyllus
+694,Senecio eriophyton,Senecio eriophyton,Asteraceae,1425112,species,wcvp,Senecio eriophyton,Senecio eriophyton
+695,Senecio filaginoides,Senecio filaginoides,Asteraceae,57701,species,wcvp,Senecio filaginoides,Senecio filaginoides
+696,Senecio francisci,Senecio francisci,Asteraceae,57714,species,wcvp,Senecio francisci,Senecio francisci
+697,Senecio gunckelii,Senecio gunckelii,Asteraceae,72789,species,wcvp,Senecio gunckelii,Senecio gunckelii
+698,Senecio hirtus,Senecio hirtus,Asteraceae,72798,species,wcvp,Senecio hirtus,Senecio hirtus
+699,Senecio jilesii,Senecio jilesii,Asteraceae,72802,species,wcvp,Senecio jilesii,Senecio jilesii
+700,Senecio jungei,Senecio jungei,Asteraceae,57799,species,wcvp,Senecio jungei,Senecio jungei
+701,Senecio leucus,Senecio leucus,Asteraceae,57823,species,wcvp,Senecio leucus,Senecio leucus
+702,Senecio luridus,Senecio luridus,Asteraceae,72822,species,tropicos,Senecio luridus,Senecio luridus
+703,Senecio madariagae,Senecio madariagae,Asteraceae,57848,species,wcvp,Senecio madariagae,Senecio madariagae
+704,Senecio microcephalus,Senecio microcephalus var. angustifolius,Asteraceae,89705,variety,tropicos,Senecio microcephalus,Senecio microcephalus angustifolius
+705,Senecio microcephalus,Senecio microcephalus var. microcephalus,Asteraceae,72826,variety,tropicos,Senecio microcephalus,Senecio microcephalus microcephalus
+706,Senecio microphyllus,Senecio microphyllus,Asteraceae,57868,species,wcvp,Senecio microphyllus,Senecio microphyllus
+707,Senecio microtis,Senecio microtis,Asteraceae,57871,species,wcvp,Senecio microtis,Senecio microtis
+708,Senecio minutifolius,Senecio minutifolius,Asteraceae,57873,species,wcvp,Senecio minutifolius,Senecio minutifolius
+709,Senecio murorum,Senecio murorum,Asteraceae,1383110,species,wcvp,Senecio murorum,Senecio murorum
+710,Senecio nutans,Senecio nutans,Asteraceae,1429494,species,wcvp,Senecio nutans,Senecio nutans
+711,Senecio oreophyton,Senecio oreophyton,Asteraceae,1406280,species,wcvp,Senecio oreophyton,Senecio oreophyton
+712,Senecio philippicus,Senecio philippicus,Asteraceae,1463277,species,wcvp,Senecio philippicus,Senecio philippicus
+713,Senecio phylloleptus,Senecio phylloleptus,Asteraceae,57957,species,wcvp,Senecio phylloleptus,Senecio phylloleptus
+714,Senecio planiflorus,Senecio planiflorus,Asteraceae,72850,species,wcvp,Senecio planiflorus,Senecio planiflorus
+715,Senecio portulacoides,Senecio portulacoides,Asteraceae,1399047,species,wcvp,Senecio portulacoides,Senecio portulacoides
+716,Senecio proteus,Senecio proteus var. geissei,Asteraceae,72857,variety,wcvp,Senecio proteus,Senecio proteus geissei
+717,Senecio proteus,Senecio proteus var. proteus,Asteraceae,72856,variety,tropicos,Senecio proteus,Senecio proteus proteus
+718,Senecio pseudalmeidae,Senecio pseudalmeidae,Asteraceae,72858,species,wcvp,Senecio pseudalmeidae,Senecio pseudalmeidae
+719,Senecio pseuderucoides,Senecio pseuderucoides,Asteraceae,1268799,species,wcvp,Senecio pseuderucoides,Senecio pseuderucoides
+720,Senecio ricardii,Senecio ricardii,Asteraceae,72863,species,wcvp,Senecio ricardii,Senecio ricardii
+721,Senecio santelicis,Senecio santelicis,Asteraceae,90405,species,wcvp,Senecio santelicis,Senecio santelicis
+722,Senecio sericeonitens,Senecio sericeonitens,Asteraceae,72869,species,tropicos,Senecio sericeonitens,Senecio sericeonitens
+723,Senecio sinuatilobus,Senecio sinuatilobus,Asteraceae,58060,species,wcvp,Senecio sinuatilobus,Senecio sinuatilobus
+724,Senecio spinosus,Senecio spinosus,Asteraceae,58070,species,wcvp,Senecio spinosus,Senecio spinosus
+725,Senecio subulatus,Senecio subulatus var. salsus,Asteraceae,72879,variety,wcvp,Senecio subulatus,Senecio subulatus salsus
+726,Senecio tricuspidatus,Senecio tricuspidatus var. dentatus,Asteraceae,2145423,variety,wcvp,Senecio tricuspidatus,Senecio tricuspidatus dentatus
+727,Senecio tricuspidatus,Senecio tricuspidatus var. tricuspidatus,Asteraceae,72884,variety,tropicos,Senecio tricuspidatus,Senecio tricuspidatus tricuspidatus
+728,Senecio viridis,Senecio viridis var. radiatus,Asteraceae,2145457,variety,wcvp,Senecio viridis,Senecio viridis radiatus
+729,Senecio viridis,Senecio viridis var. viridis,Asteraceae,72891,variety,tropicos,Senecio viridis,Senecio viridis viridis
+730,Senecio zapahuirensis,Senecio zapahuirensis,Asteraceae,72901,species,wcvp,Senecio zapahuirensis,Senecio zapahuirensis
+731,Senna birostris,Senna birostris var. arequipensis,Fabaceae,1501133,variety,wcvp,Senna birostris,Senna birostris arequipensis
+732,Senna candolleana,Senna candolleana,Fabaceae,1501144,species,wcvp,Senna candolleana,Senna candolleana
+733,Senna cruckshanksii,Senna cruckshanksii,Fabaceae,1501161,species,wcvp,Senna cruckshanksii,Senna cruckshanksii
+734,Senna cumingii,Senna cumingii var. alcaparra,Fabaceae,1501164,variety,wcvp,Senna cumingii,Senna cumingii alcaparra
+735,Senna cumingii,Senna cumingii var. coquimbensis,Fabaceae,1501165,variety,wcvp,Senna cumingii,Senna cumingii coquimbensis
+736,Senna cumingii,Senna cumingii var. cumingii,Fabaceae,244853,variety,wcvp,Senna cumingii,Senna cumingii cumingii
+737,Senna cumingii,Senna cumingii var. eremobia,Fabaceae,1501166,variety,wcvp,Senna cumingii,Senna cumingii eremobia
+738,Senna huidobriana,Senna huidobriana,Fabaceae,1505543,species,wcvp,Senna huidobriana,Senna huidobriana
+739,Senna paposana,Senna paposana,Fabaceae,1672224,species,wcvp,Senna paposana,Senna paposana
+740,Senna stipulacea,Senna stipulacea var. anglorum,Fabaceae,1501327,variety,wcvp,Senna stipulacea,Senna stipulacea anglorum
+741,Senna stipulacea,Senna stipulacea var. stipulacea,Fabaceae,244882,variety,wcvp,Senna stipulacea,Senna stipulacea stipulacea
+742,Senna urmenetae,Senna urmenetae,Fabaceae,1501343,species,wcvp,Senna urmenetae,Senna urmenetae
+743,Skytanthus acutus,Skytanthus acutus,Apocynaceae,22299,species,wcvp,Skytanthus acutus,Skytanthus acutus
+744,Soehrensia formosa,Soehrensia formosa,Cactaceae,433110,species,wcvp,formosa,Echinopsis formosa
+745,Solanum alphonsei,Solanum alphonsei,Solanaceae,516503,species,tropicos,Solanum alphonsei,Solanum alphonsei
+746,Solanum crispum,Solanum crispum,Solanaceae,511357,species,wcvp,Solanum crispum,Solanum crispum
+747,Solanum lycopersicoides,Solanum lycopersicoides,Solanaceae,511622,species,wcvp,Solanum lycopersicoides,Solanum lycopersicoides
+748,Solanum nitidum,Solanum nitidum,Solanaceae,511701,species,wcvp,Solanum nitidum,Solanum nitidum
+749,Solanum pennellii,Solanum pennellii var. elachistus,Solanaceae,515695,variety,wcvp,Solanum pennellii,Solanum pennellii elachistus
+750,Solanum pimpinellifolium,Solanum pimpinellifolium,Solanaceae,513360,species,wcvp,Solanum pimpinellifolium,Solanum pimpinellifolium
+751,Solanum sanfurgoi,Solanum sanfurgoi,Solanaceae,513907,species,wcvp,Solanum sanfurgoi,Solanum sanfurgoi
+752,Solanum sitiens,Solanum sitiens,Solanaceae,1939551,species,wcvp,Solanum sitiens,Solanum sitiens
+753,Solanum trinominum,Solanum trinominum,Solanaceae,1939880,species,wcvp,Solanum trinominum,Solanum trinominum
+754,Solanum valdiviense,Solanum valdiviense,Solanaceae,513912,species,wcvp,Solanum valdiviense,Solanum valdiviense
+755,Sophora cassioides,Sophora cassioides,Fabaceae,2194656,species,wcvp,Sophora cassioides,Sophora cassioides
+756,Sophora macrocarpa,Sophora macrocarpa,Fabaceae,212025,species,wcvp,Sophora macrocarpa,Sophora macrocarpa
+757,Spinoliva ilicifolia,Spinoliva ilicifolia subsp. baccharoides,Asteraceae,2146263,subspecies,wcvp,Spinoliva ilicifolia,Spinoliva ilicifolia baccharoides
+758,Spinoliva ilicifolia,Spinoliva ilicifolia subsp. ilicifolia,Asteraceae,10571685,SUBSPECIES,GBIF,Spinoliva ilicifolia,Spinoliva ilicifolia ilicifolia
+759,Suaeda argentinensis,Suaeda argentinensis,Amaranthaceae,2047666,species,wcvp,Suaeda argentinensis,Suaeda argentinensis
+760,Suaeda multiflora,Suaeda multiflora,Amaranthaceae,1294748,species,wcvp,Suaeda multiflora,Suaeda multiflora
+761,Tara spinosa,Tara spinosa,Fabaceae,182412,species,wcvp,Tara spinosa,Tara spinosa
+762,Tarasa reichei,Tarasa reichei,Malvaceae,302533,species,wcvp,Tarasa reichei,Tarasa reichei
+763,Tarasa umbellata,Tarasa umbellata,Malvaceae,302536,species,wcvp,Tarasa umbellata,Tarasa umbellata
+764,Tecoma fulva,Tecoma fulva,Bignoniaceae,1809005,species,wcvp,Tecoma fulva,Tecoma fulva
+765,Tepualia stipularis,Tepualia stipularis,Myrtaceae,319996,species,tropicos,Tepualia stipularis,Tepualia stipularis
+766,Tessaria absinthioides,Tessaria absinthioides,Asteraceae,72911,species,wcvp,Tessaria absinthioides,Tessaria absinthioides
+767,Tetraglochin alata,Tetraglochin alata,Rosaceae,473061,species,wcvp,Tetraglochin alatum,Tetraglochin alatum
+768,Tetragonia angustifolia,Tetragonia angustifolia,Aizoaceae,1615180,species,wcvp,Tetragonia angustifolia,Tetragonia angustifolia
+769,Tetragonia maritima,Tetragonia maritima,Aizoaceae,2046412,species,wcvp,Tetragonia maritima,Tetragonia maritima
+770,Teucrium bicolor,Teucrium bicolor,Lamiaceae,273013,species,wcvp,Teucrium bicolor,Teucrium bicolor
+771,Teucrium nudicaule,Teucrium nudicaule,Lamiaceae,273014,species,wcvp,Teucrium nudicaule,Teucrium nudicaule
+772,Trevoa quinquenervia,Trevoa quinquenervia,Rhamnaceae,869688,species,wcvp,Trevoa quinquenervia,Trevoa quinquenervia
+773,Trichocereus uyupampensis,Trichocereus uyupampensis,Cactaceae,1270316,species,wcvp,glauca,Echinopsis glauca
+774,Trixis cacalioides,Trixis cacalioides,Asteraceae,2147852,species,wcvp,Trixis cacalioides,Trixis cacalioides
+775,Ugni candollei,Ugni candollei,Myrtaceae,1567201,species,wcvp,Ugni candollei,Ugni candollei
+776,Ugni molinae,Ugni molinae,Myrtaceae,317825,species,wcvp,Ugni molinae,Ugni molinae
+777,Vachellia caven,Vachellia caven,Fabaceae,971271,species,wcvp,Acacia caven,Acacia caven
+778,Vachellia macracantha,Vachellia macracantha,Fabaceae,971297,species,wcvp,Acacia macracantha,Acacia macracantha
+779,Valeriana graciliceps,Valeriana graciliceps,Caprifoliaceae,526288,species,tropicos,Valeriana graciliceps,Valeriana graciliceps
+780,Valeriana senecioides,Valeriana senecioides,Caprifoliaceae,526360,species,wcvp,Valeriana senecioides,Valeriana senecioides
+781,Vestia foetida,Vestia foetida,Solanaceae,513917,species,wcvp,Vestia foetida,Vestia foetida
+782,Viviania crenata,Viviania crenata,Francoaceae,2197543,species,wcvp,Viviania crenata,Viviania crenata
+783,Viviania marifolia,Viviania marifolia,Francoaceae,260351,species,wcvp,Viviania marifolia,Viviania marifolia
+784,Viviania ovata,Viviania ovata,Francoaceae,259779,species,wcvp,Viviania ovata,Viviania ovata
+785,Weinmannia trichosperma,Weinmannia trichosperma,Cunoniaceae,151781,species,wcvp,Weinmannia trichosperma,Weinmannia trichosperma
