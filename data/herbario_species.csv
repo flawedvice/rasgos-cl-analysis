@@ -1,743 +1,743 @@
-,id,scientific_name,habit,status,conservation_state,Araucanía,Maule,Atacama,Antofagasta,Juan Fernández,Tarapacá,Metropolitana,Libertador Bernardo O'Higgins,Arica y Parinacota,Los Ríos,Ñuble,Coquimbo,Los Lagos,Magallanes,Bío-Bío,Valparaíso,Aysén
-0,1583,Acrisione cymosa,Bush or Small tree,Endemic,Not Evaluated (NE),1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,1
-1,5567,Acrisione denticulata,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2,1585,Acrisione denticulata var. pilota,Bush,Endemic,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,0,1,1,1,0,1,1,0
-3,3523,Adenopeltis serrata,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
-4,3587,Adesmia aphylla,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-5,3590,Adesmia argentea,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0
-6,3591,Adesmia argyrophylla,Bush,Endemic,Vulnerable (VU),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-7,3592,Adesmia aromatica,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-8,3594,Adesmia atacamensis,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,1,0,0,1,0,0,1,0,0,0,0,0
-9,3596,Adesmia balsamica,Bush,Endemic,Vulnerable (VU),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
-10,3597,Adesmia bedwellii,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
-11,3599,Adesmia bijuga,Bush,Endemic,Critically Endangered (CR),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-12,3600,Adesmia boronioides,Bush,Native,Least Concern (LC),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
-13,3602,Adesmia bracteata,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0
-14,3605,Adesmia calycicomosa,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-15,3607,Adesmia colinensis,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
-16,3608,Adesmia concinna,Bush,Endemic,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
-17,3610,Adesmia confusa,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-18,3611,Adesmia coquimbensis,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-19,3615,Adesmia curvifolia,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-20,3620,Adesmia dessaueri,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-21,3621,Adesmia dichotoma,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-22,3623,Adesmia dumosa,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
-23,3626,Adesmia elegans,Bush,Endemic,Not Evaluated (NE),0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-24,3629,Adesmia erinacea,Bush,Native,Not Evaluated (NE),0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
-25,3638,Adesmia glutinosa,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-26,3639,Adesmia godoyae,Bush,Endemic,Vulnerable (VU),0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-27,3640,Adesmia gracilis,Bush,Native,Not Evaluated (NE),0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
-28,3643,Adesmia hirsuta,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0
-29,3644,Adesmia horrida,Bush,Native,Not Evaluated (NE),0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0
-30,3645,Adesmia hystrix,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-31,3655,Adesmia loudonia,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-32,3657,Adesmia melanocaulos,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-33,3658,Adesmia melanthes,Bush,Native,Not Evaluated (NE),0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-34,3662,Adesmia microphylla,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0
-35,3664,Adesmia monosperma,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-36,3668,Adesmia obcordata,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
-37,3669,Adesmia obovata,Bush,Native,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1
-38,3670,Adesmia obscura,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-39,3672,Adesmia odontophylla,Bush,Endemic,Extinct (EX),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-40,3673,Adesmia ovallensis,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-41,3678,Adesmia pauciflora,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-42,3679,Adesmia pearcei,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-43,3680,Adesmia pedicellata,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-44,3681,Adesmia pentaphylla,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-45,3682,Adesmia peraltae,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-46,3683,Adesmia phylloidea,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
-47,3684,Adesmia pinifolia,Bush,Native,Vulnerable (VU),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-48,3685,Adesmia pirionii,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-49,3686,Adesmia polyphylla,Bush,Native,Not Evaluated (NE),0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-50,3687,Adesmia propinqua,Bush,Endemic,Not Evaluated (NE),1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
-51,3691,Adesmia pungens,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-52,3697,Adesmia renjifoana,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-53,3698,Adesmia resinosa,Bush or Small tree,Endemic,Endangered (EN),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
-54,3700,Adesmia rubroviridis,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-55,3703,Adesmia schneideri,Bush,Native,Not Evaluated (NE),0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0
-56,3704,Adesmia spinosissima,Bush,Native,Not Evaluated (NE),0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-57,3712,Adesmia trifoliata,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
-58,3714,Adesmia uspallatensis,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
-59,3715,Adesmia verrucosa,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-60,3719,Adesmia viscosa,Bush,Endemic,Not Evaluated (NE),1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-61,3720,Adesmia volckmannii,Bush,Native,Least Concern (LC),1,1,0,0,0,0,1,0,0,0,1,0,1,1,1,0,1
-62,3721,Adesmia zoellneri,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-63,1382,Aextoxicon punctatum,Tree,Native,Least Concern (LC),1,1,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0
-64,1844,Ageratina glechonophylla,Bush,Native,Not Evaluated (NE),0,1,0,1,0,0,1,1,0,0,1,1,0,0,1,1,0
-65,4096,Stachys gilliesii,Grass,Native,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
-66,5269,Aloysia deserticola,Bush,Native,Not Evaluated (NE),0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-67,5270,Aloysia gratissima,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-68,5271,Aloysia salviifolia,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-69,5272,Aloysia tarapacana,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-70,5273,Aloysia trifida,Bush,Native,Not Evaluated (NE),0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0
-71,1597,Ambrosia artemisioides,Bush,Native,Not Evaluated (NE),0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-72,4365,Amomyrtus luma,Tree,Native,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1
-73,4366,Amomyrtus meli,Tree,Endemic,Not Evaluated (NE),1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0
-74,3723,Anarthrophyllum andicolum,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0
-75,3724,Anarthrophyllum cumingii,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-76,3727,Anarthrophyllum elegans,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-77,3729,Anarthrophyllum rigidum,Bush,Native,Not Evaluated (NE),0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-78,4194,Andeimalva chilensis,Bush,Endemic,Not Evaluated (NE),0,1,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-79,4606,Anisomeria littoralis,Bush,Endemic,Not Evaluated (NE),0,1,1,1,0,0,1,0,0,0,0,1,0,0,0,1,0
-80,5570,Aphyllocladus denticulatus,Bush,,Almost Threatened (NT),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-81,1607,Aphyllocladus denticulatus var. calvus,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-82,168,Araucaria araucana,Tree,Native,Vulnerable (VU),1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
-83,1845,Aristeguietia salvia,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
-84,4099,Stachys ochroleuca,Grass,Endemic,Not Evaluated (NE),1,1,0,0,0,0,0,1,0,0,1,1,0,0,1,1,0
-85,3479,Aristotelia chilensis,Bush or Small tree,Native,Not Evaluated (NE),1,1,0,0,1,0,1,1,0,1,1,1,1,0,1,1,1
-86,1616,Artemisia copa var. copa,Bush or Small tree,Native,Not Evaluated (NE),0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,1,0
-87,1617,Artemisia copa var. trifida,Bush,Endemic,Not Evaluated (NE),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-88,3350,Atriplex atacamensis,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-89,3353,Atriplex chizae,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-90,3354,Atriplex clivicola,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-91,3355,Atriplex coquimbana,Bush,Endemic,Endangered (EN),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-92,3356,Atriplex costellata,Bush,Endemic,Endangered (EN),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-93,3358,Atriplex glaucescens,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-94,3360,Atriplex hystrix,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-95,3364,Atriplex madariagae,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-96,3372,Atriplex repanda,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
-97,3378,Atriplex vallenarensis,Bush,Endemic,Endangered (EN),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-98,3379,Atriplex vulgatissima,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-99,3246,Augustea coquimbensis,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-100,169,Austrocedrus chilensis,Tree,Native,Almost Threatened (NT),1,1,0,0,0,0,1,1,0,1,1,0,1,0,1,1,0
-101,612,Limnobium laevigatum,Aquatic grass,Introduced,Not Evaluated (NE),0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0
-102,3524,Avellanita bustillosii,Bush,Endemic,Endangered (EN),0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0
-103,4973,Azara alpina,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
-104,4974,Azara celastrina,Bush or Small tree,Endemic,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
-105,4975,Azara dentata,Bush,Endemic,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
-106,4976,Azara integrifolia,Bush,Endemic,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,1,1,0,0,0,1,1,0
-107,4977,Azara lanceolata,Bush or Small tree,Native,Not Evaluated (NE),1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1
-108,4978,Azara microphylla,Bush or Small tree,Native,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0
-109,4979,Azara petiolaris,Bush or Small tree,Endemic,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0
-110,4981,Azara serrata var. serrata,Bush or Small tree,Endemic,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,1,1,1,1,0,1,1,0
-111,1460,Azorella prolifera,Bush,Native,Not Evaluated (NE),1,1,1,0,0,0,1,1,0,0,1,1,0,1,1,1,1
-112,1621,Baccharis alnifolia,Bush,Native,Not Evaluated (NE),0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-113,1622,Baccharis boliviensis,Bush,Native,Not Evaluated (NE),0,0,1,1,0,1,0,0,1,0,0,1,0,0,0,0,0
-114,3635,Adesmia glaucescens,Grass,Endemic,Not Evaluated (NE),1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-115,3639,Adesmia godoyae,Bush,Endemic,Vulnerable (VU),0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-116,1624,Baccharis calliprinos,Bush,Native,Not Evaluated (NE),0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
-117,1625,Baccharis concava,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-118,1626,Baccharis cymosa,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-119,1628,Baccharis elaeoides,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
-120,1631,Baccharis intermedia,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-121,5572,Baccharis linearis,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-122,1635,Baccharis lycioides,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0
-123,1636,Baccharis macraei,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-124,1637,Baccharis magellanica,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,1
-125,1638,Baccharis mylodontis,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-126,1639,Baccharis neaei,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,1,1,1,0,0,1,1,0
-127,1641,Baccharis obovata,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,1,1,0,1,0,1,1,1
-128,1642,Baccharis paniculata,Bush,Endemic,Not Evaluated (NE),0,1,1,0,0,0,1,1,0,0,1,1,0,0,1,1,0
-129,1643,Baccharis patagonica,Bush,Native,Not Evaluated (NE),1,1,0,0,1,0,0,1,0,1,1,0,1,1,1,0,1
-130,1645,Baccharis pilcensis,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-131,1646,Baccharis poeppigiana subsp. austropedicellata,Bush,Native,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0
-132,1647,Baccharis poeppigiana subsp. ocellata,Bush,Native,Not Evaluated (NE),0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
-133,1648,Baccharis poeppigiana subsp. poeppigiana,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
-134,1649,Baccharis pycnantha,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-135,1650,Baccharis racemosa,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,1,1,0,1,0,1,1,0
-136,1651,Baccharis rhomboidalis,Bush,Endemic,Not Evaluated (NE),1,1,1,0,0,0,1,1,0,1,1,0,0,0,1,1,0
-137,1653,Baccharis salicifolia,Bush,Native,Not Evaluated (NE),1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,0
-138,3762,Astragalus nudus,Grass,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-139,1655,Baccharis spartioides,Bush,Native,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-140,1656,Baccharis sphaerocephala,Bush,Endemic,Not Evaluated (NE),1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0
-141,5785,Baccharis tola subsp. tola,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-142,1662,Baccharis vernalis,Bush,Endemic,Not Evaluated (NE),0,1,1,0,0,0,0,1,0,0,1,1,0,0,1,1,0
-143,5575,Baccharis zoellneri,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-144,1663,Baccharis zoellneri subsp. minor,Bush,Endemic,Not Evaluated (NE),1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-145,4699,Bakerolimon plumosum,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-146,3780,Balsamocarpon brevifolium,Bush,Endemic,Endangered (EN),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-147,4108,Beilschmiedia berteroana,Tree,Endemic,Endangered (EN),0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0
-148,4109,Beilschmiedia miersii,Tree,Endemic,Vulnerable (VU),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
-149,2610,Berberidopsis corallina,Bush,Endemic,Endangered (EN),1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0
-150,2591,Berberis actinacantha,Bush,Endemic,Not Evaluated (NE),1,1,0,1,0,0,1,1,0,0,1,1,1,0,1,1,0
-151,2592,Berberis chilensis var. brachybotria,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-152,2593,Berberis chilensis var. chilensis,Bush,Endemic,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
-153,2594,Berberis congestiflora,Bush,Endemic,Not Evaluated (NE),1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
-154,2596,Berberis darwinii,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,1,0,0,1,1,0,1,0,1,0,1
-155,2598,Berberis glomerata,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-156,2599,Berberis horrida,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,1,0,0,0,1,1,0
-157,2600,Berberis ilicifolia,Bush or Small tree,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1
-158,2601,Berberis litoralis,Bush or Small tree,Endemic,Endangered (EN),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-159,2603,Berberis microphylla,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,1,1,0,1,1,1,0,1
-160,2604,Berberis montana,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,1,1,0,1,0,1,1,1
-161,2605,Berberis negeriana,Bush,Endemic,Endangered (EN),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-162,2606,Berberis rotundifolia,Bush,Endemic,Not Evaluated (NE),1,1,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0
-163,2607,Berberis serratodentata,Bush,Native,Not Evaluated (NE),1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1
-164,2608,Berberis trigona,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,0
-165,2609,Berberis valdiviana,Bush or Small tree,Endemic,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,1,1,0,0,0,1,0,0
-166,4367,Blepharocalyx cruckshanksii,Tree,Endemic,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,1,1,0,1,0,1,1,0
-167,1679,Brachyclados lycioides,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-168,4993,Bridgesia incisifolia,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0
-169,2925,Browningia candelaris,Succulent tree,Native,Vulnerable (VU),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-170,5012,Buddleja araucana,Bush,Native,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0
-171,5013,Buddleja globosa,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,1,1,1,1,1,1,1,0,1,1,0
-172,5014,Buddleja suaveolens,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0
-173,5424,Bulnesia chilensis,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-174,3474,Caldcluvia paniculata,Tree,Native,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1
-175,3782,Calliandra chilensis,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-176,3237,Carica chilensis,Bush,Endemic,Vulnerable (VU),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-177,5026,Cestrum parqui,Bush,Native,Not Evaluated (NE),1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0
-178,1745,Chersodoma candida,Bush,Native,Not Evaluated (NE),0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-179,1746,Chersodoma jodopappa,Bush,Native,Not Evaluated (NE),0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-180,1751,Chiliotrichum diffusum,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,0,1,0,0,1,0,1,1,1,0,1
-181,1752,Chiliotrichum fuegianum,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-182,1756,Chuquiraga atacamensis,Bush,Native,Not Evaluated (NE),0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-183,1757,Chuquiraga kuschelii,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-184,1758,Chuquiraga oppositifolia,Bush,Native,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-185,1759,Chuquiraga spinosa subsp. australis,Bush,Native,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-186,1761,Chuquiraga ulicina subsp. acicularis,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0
-187,1762,Chuquiraga ulicina subsp. ulicina,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0
-188,3236,Citronella mucronata,Tree,Endemic,Vulnerable (VU),1,1,0,0,0,0,1,1,0,0,1,1,1,0,1,1,0
-189,4858,Colletia hystrix,Bush,Native,Not Evaluated (NE),1,1,1,0,0,0,1,1,0,1,1,1,1,0,1,1,1
-190,4860,Colletia ulicina,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-191,3530,Colliguaja dombeyana,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,1,1,0,0,1,0,0
-192,3531,Colliguaja integerrima,Bush,Native,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,1,1,0,1,0,1,1
-193,3532,Colliguaja odorifera,Bush,Endemic,Not Evaluated (NE),0,1,1,1,0,0,1,1,0,0,0,1,0,0,1,1,0
-194,3533,Colliguaja salicifolia,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,0,1,0,0,1,1,0
-195,2926,Copiapoa ahremephiana,Succulent bush,Endemic,Critically Endangered (CR),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-196,2929,Copiapoa cinerascens,Succulent bush,Endemic,Endangered (EN),0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-197,5641,Copiapoa cinerea,Succulent bush,,Almost Threatened (NT),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-198,5642,Copiapoa coquimbana,Succulent bush,,Almost Threatened (NT),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-199,2935,Copiapoa dealbata,Succulent bush,Endemic,Vulnerable (VU),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-200,2952,Copiapoa longistaminea,Succulent bush,Endemic,Vulnerable (VU),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-201,2957,Copiapoa rupestris,Succulent bush,Endemic,Endangered (EN),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-202,2958,Copiapoa serpentisulcata,Succulent bush,Endemic,Endangered (EN),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-203,2959,Copiapoa solaris,Succulent bush,Endemic,Endangered (EN),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-204,2632,Cordia decandra,Bush or Small tree,Endemic,Almost Threatened (NT),0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-205,3460,Coriaria ruscifolia,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1
-206,2960,Corryocactus brevistylus,Succulent bush,Native,Least Concern (LC),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-207,4196,Corynabutilon bicolor,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
-208,4197,Corynabutilon ceratocarpum,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0
-209,4198,Corynabutilon hirsutum,Bush,Endemic,Endangered (EN),1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-210,4199,Corynabutilon ochsenii,Bush,Endemic,Almost Threatened (NT),1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-211,4200,Corynabutilon salicifolium,Bush,Endemic,Critically Endangered (CR),1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-212,4201,Corynabutilon viride,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
-213,4202,Corynabutilon vitifolium,Bush or Small tree,Endemic,Not Evaluated (NE),1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0
-214,3480,Crinodendron hookerianum,Tree,Endemic,Not Evaluated (NE),1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
-215,3481,Crinodendron patagua,Tree,Endemic,Vulnerable (VU),0,1,0,0,1,0,1,1,0,0,1,0,0,0,1,1,0
-216,3534,Croton chilensis,Bush,Endemic,Endangered (EN),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-217,4110,Cryptocarya alba,Tree,Endemic,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
-218,2962,Cumulopuntia echinacea,Succulent bush,Native,Not Evaluated (NE),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-219,2963,Cumulopuntia ignescens,Succulent bush,Native,Least Concern (LC),0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
-220,3626,Adesmia elegans,Bush,Endemic,Not Evaluated (NE),0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-221,3630,Adesmia exilis,Grass,Native,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-222,3423,Desfontainia fulgens,Bush or Small tree,Native,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,1
-223,5274,Diostea juncea,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,1,1,1,0,0,1,1,0
-224,1550,Diplolepis hieronymi,Bush,Native,Not Evaluated (NE),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-225,1556,Diplolepis viridis,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-226,1813,Diplostephium cinereum,Bush,Native,Vulnerable (VU),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-227,1814,Diplostephium meyenii,Bush,Native,Not Evaluated (NE),0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-228,1815,Diplostephium tacorense,Bush,Native,Not Evaluated (NE),0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
-229,4861,Discaria articulata,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0
-230,4862,Discaria chacaye,Bush or Small tree,Native,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,1,1,0,1,1,1,1,1
-231,5420,Drimys andina,Bush,Endemic,Not Evaluated (NE),1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0
-232,5422,Drimys winteri var. chilensis,Tree,Endemic,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,1,1,1,1,1,1,1,1
-233,5423,Drimys winteri var. winteri,Tree,Native,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,1,1,1,1,1,1,0,1
-234,5032,Dunalia spinosa,Bush,Native,Not Evaluated (NE),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-235,2969,Echinopsis coquimbana,Succulent bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-236,4794,Embothrium coccineum,Tree,Native,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,1
-237,3483,Empetrum rubrum,Subshrub,Native,Not Evaluated (NE),1,1,0,0,1,0,1,1,0,1,1,0,1,1,1,1,1
-238,172,Ephedra americana,Bush,Native,Not Evaluated (NE),0,0,1,1,0,1,0,0,1,0,0,1,0,0,0,0,0
-239,173,Ephedra chilensis,Bush,Native,Not Evaluated (NE),1,1,1,1,0,1,1,1,1,0,1,1,0,0,1,1,0
-240,174,Ephedra gracilis,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0
-241,175,Ephedra multiflora,Bush,Native,Not Evaluated (NE),0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
-242,176,Ephedra ochreata,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-243,177,Ephedra trifurcata,Bush,Endemic,Extinct (EX),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-244,1490,Eremocharis fruticosa,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
-245,2977,Eriosyce aurata var. aurata,Succulent bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0
-246,2978,Eriosyce aurata var. spinibarbis,Succulent bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-247,2981,Eriosyce chilensis var. chilensis,Succulent bush,Endemic,Endangered (EN),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-248,2983,Eriosyce crispa,Succulent bush,Endemic,Vulnerable (VU),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-249,5796,Eriosyce curvispina subsp. curvispina,Succulent bush,,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-250,2987,Eriosyce engleri,Succulent bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
-251,2988,Eriosyce eriosyzoides,Succulent bush,Endemic,Vulnerable (VU),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-252,2990,Eriosyce garaventae,Succulent bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-253,2993,Eriosyce iquiquensis,Succulent bush,Endemic,Vulnerable (VU),0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
-254,2994,Eriosyce islayensis,Succulent bush,Native,Endangered (EN),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-255,2995,Eriosyce krausii,Succulent bush,Endemic,Not Evaluated (NE),0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
-256,2997,Eriosyce laui,Succulent bush,Endemic,Endangered (EN),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-257,3004,Eriosyce paucicostata subsp. echinus,Succulent bush,Endemic,Not Evaluated (NE),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-258,3005,Eriosyce paucicostata subsp. floccosa,Succulent bush,Endemic,Not Evaluated (NE),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-259,3006,Eriosyce paucicostata subsp. paucicostata,Succulent bush,Endemic,Almost Threatened (NT),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-260,3008,Eriosyce rodentiophila,Succulent bush,Endemic,Vulnerable (VU),0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-261,3009,Eriosyce senilis,Succulent bush,Endemic,Endangered (EN),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-262,3010,Eriosyce simulans,Succulent bush,Endemic,Critically Endangered (CR),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-263,3011,Eriosyce sociabilis,Succulent bush,Endemic,Critically Endangered (CR),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-264,5652,Eriosyce subgibbosa,Succulent bush,,Least Concern (LC),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-265,3017,Eriosyce taltalensis subsp. taltalensis,Succulent bush,Endemic,Vulnerable (VU),0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-266,3019,Eriosyce villosa,Succulent bush,Endemic,Vulnerable (VU),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-267,3793,Errazurizia multifoliolata,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-268,3794,Erythrostemon angulatus,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-269,3795,Erythrostemon gilliesii,Bush,Native,Not Evaluated (NE),0,0,1,0,0,1,1,0,1,0,0,1,0,0,0,1,0
-270,3499,Escallonia alpina var. alpina,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,1,1,0,1,1,1,1,1
-271,3500,Escallonia alpina var. carmelitana,Bush,Native,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,1,0,0,1,0,1,0
-272,3501,Escallonia alpina var. glabrata,Bush,Endemic,Not Evaluated (NE),1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
-273,3502,Escallonia angustifolia,Bush or Small tree,Native,Not Evaluated (NE),0,1,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0
-274,3504,Escallonia florida,Bush,Endemic,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
-275,3505,Escallonia gayana,Bush,Endemic,Not Evaluated (NE),1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
-276,3506,Escallonia illinita var. illinita,Bush,Endemic,Not Evaluated (NE),0,1,1,0,0,0,1,1,0,0,1,1,0,0,1,1,0
-277,3507,Escallonia illinita var. pubicalycina,Bush,Endemic,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
-278,3508,Escallonia leucantha,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0
-279,3509,Escallonia myrtoidea,Bush or Small tree,Native,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
-280,3510,Escallonia pulverulenta var. glabra,Bush or Small tree,Endemic,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
-281,3511,Escallonia pulverulenta var. pulverulenta,Bush or Small tree,Endemic,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
-282,3512,Escallonia revoluta,Tree,Endemic,Not Evaluated (NE),1,1,0,0,0,0,1,0,0,1,1,1,0,0,1,1,0
-283,3513,Escallonia rosea,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,1
-284,3514,Escallonia rubra var. dumetorum,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-285,3515,Escallonia rubra var. glutinosa,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
-286,3516,Escallonia rubra var. macrantha,Bush,Endemic,Not Evaluated (NE),1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1
-287,3517,Escallonia rubra var. rubra,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,1,1,1,1,1,1,1,1
-288,3518,Escallonia rubra var. thalassica,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
-289,3519,Escallonia serrata,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1
-290,3520,Escallonia virgata,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,1,0,0,1,1,0,1,1,1,0,1
-291,3475,Eucryphia cordifolia,Tree,Native,Not Evaluated (NE),1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1
-292,3476,Eucryphia glutinosa,Bush or Small tree,Endemic,Vulnerable (VU),1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
-293,3020,Eulychnia acida,Succulent tree,Endemic,Least Concern (LC),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-294,3022,Eulychnia breviflora,Succulent bush,Endemic,Least Concern (LC),0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-295,3023,Eulychnia castanea,Succulent bush,Endemic,Almost Threatened (NT),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-296,3024,Eulychnia iquiquensis,Succulent bush,Endemic,Vulnerable (VU),0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
-297,3025,Eulychnia saint-pieana,Succulent bush,Endemic,Least Concern (LC),0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-298,3557,Euphorbia lactiflua,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-299,5036,Fabiana bryoides,Bush,Native,Not Evaluated (NE),0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0
-300,5037,Fabiana densa,Bush,Native,Not Evaluated (NE),0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-301,5038,Fabiana denudata,Bush,Native,Not Evaluated (NE),0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-302,5039,Fabiana imbricata,Bush,Native,Not Evaluated (NE),1,1,1,0,0,0,1,1,0,1,1,1,0,0,1,1,0
-303,5040,Fabiana ramulosa,Bush,Endemic,Not Evaluated (NE),0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-304,5041,Fabiana squamata,Bush,Native,Not Evaluated (NE),0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
-305,5042,Fabiana stephanii,Bush,Native,Not Evaluated (NE),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-306,5043,Fabiana viscosa,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-307,170,Fitzroya cupressoides,Tree,Native,Endangered (EN),0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
-308,1850,Flourensia thurifera,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0
-309,3963,Frankenia chilensis,Bush,Native,Not Evaluated (NE),0,0,1,1,0,1,1,0,0,0,0,1,0,0,0,0,0
-310,4442,Fuchsia lycioides,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0
-311,4443,Fuchsia magellanica,Bush,Native,Not Evaluated (NE),1,1,0,0,1,0,1,1,0,1,1,0,1,1,1,1,1
-312,3486,Gaultheria insana,Bush,Native,Not Evaluated (NE),1,1,0,1,0,0,0,0,0,1,1,0,1,1,1,0,1
-313,3487,Gaultheria linifolia,Bush,Endemic,Not Evaluated (NE),1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
-314,3488,Gaultheria marticorenae,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0
-315,3489,Gaultheria mucronata,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1
-316,3490,Gaultheria nubigena,Bush,Native,Not Evaluated (NE),1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-317,3491,Gaultheria phillyreifolia,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,0,1,0,1,1,0,1,1,1,0,1
-318,3492,Gaultheria poeppigii,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1
-319,3493,Gaultheria pumila var. leucocarpa,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,1,1,0,1,1,1,1,1
-320,3494,Gaultheria pumila var. pumila,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1
-321,3496,Gaultheria renjifoana,Bush,Endemic,Critically Endangered (CR),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-322,3497,Gaultheria tenuifolia,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0
-323,3797,Geoffroea decorticans,Tree,Native,Vulnerable (VU),0,0,1,1,0,1,0,0,1,0,0,1,0,0,0,0,0
-324,4795,Gevuina avellana,Tree,Native,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0
-325,1877,Gochnatia foliolosa var. fascicularis,Bush,Endemic,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,0,1,0,0,0,1,1,0
-326,1878,Gochnatia foliolosa var. foliolosa,Bush,Endemic,Not Evaluated (NE),1,1,1,0,0,0,1,1,0,0,1,1,1,0,1,1,0
-327,4000,Gomortega keule,Tree,Endemic,Endangered (EN),0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
-328,1881,Grindelia tarapacana,Bush,Native,Not Evaluated (NE),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-329,4002,Griselinia carlomunozii,Bush,Endemic,Endangered (EN),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-330,4003,Griselinia jodinifolia,Bush,Endemic,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0
-331,4004,Griselinia racemosa,Bush,Native,Not Evaluated (NE),1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1
-332,4005,Griselinia ruscifolia,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1
-333,4006,Griselinia scandens,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,0,1,0,0,1,1,1,0,1,1,1
-334,4995,Guindilia trinervis,Bush,Native,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-335,1883,Gutierrezia espinosae,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0
-336,1884,Gutierrezia gayana,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-337,1885,Gutierrezia neaeana,Bush,Endemic,Endangered (EN),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-338,1886,Gutierrezia resinosa,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-339,1887,Gutierrezia taltalensis,Bush,Endemic,Vulnerable (VU),0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-340,1888,Guynesomia scoparia,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-341,1507,Gymnophyton flexuosum,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-342,1508,Gymnophyton foliosum,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0
-343,1509,Gymnophyton isatidicarpum,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-344,1510,Gymnophyton robustum,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0
-345,1511,Gymnophyton spinosissimum,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-346,1889,Gypothamnium pinifolium,Bush,Endemic,Almost Threatened (NT),0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-347,3027,Haageocereus fascicularis,Succulent bush,Endemic,Almost Threatened (NT),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-348,1890,Haplopappus angustifolius subsp. angustifolius,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-349,1891,Haplopappus angustifolius subsp. saxatilis,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
-350,1892,Haplopappus anthylloides,Bush,Native,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0
-351,1894,Haplopappus baylahuen subsp. baylahuen,Bush,Native,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-352,1895,Haplopappus baylahuen subsp. fluehmannii,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-353,1898,Haplopappus cerberoanus subsp. cerberoanus,Bush,Native,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-354,1899,Haplopappus cerberoanus subsp. elquianus,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-355,1900,Haplopappus chrysanthemifolius,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
-356,1901,Haplopappus coquimbensis,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0
-357,1902,Haplopappus decurrens,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-358,1906,Haplopappus donianus,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0
-359,1907,Haplopappus foliosus,Bush,Endemic,Not Evaluated (NE),0,1,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-360,4291,Urocarpidium mathewsii,Grass,Native,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-361,1909,Haplopappus glutinosus,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,0,1,0,1,1,0,1,0,1,1,1
-362,4349,Montiopsis copiapina,Grass,Native,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-363,1911,Haplopappus humilis,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0
-364,1912,Haplopappus integerrimus,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
-365,4383,Myrceugenia pinifolia,Bush,Endemic,Least Concern (LC),0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
-366,1913,Haplopappus linifolius,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-367,1916,Haplopappus maulinus,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-368,1919,Haplopappus mucronatus,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-369,1920,Haplopappus multifolius subsp. baccharidiformis,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-370,1921,Haplopappus multifolius subsp. multifolius,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
-371,1922,Haplopappus multifolius subsp. ovalifolius,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
-372,1924,Haplopappus ochagavianus,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
-373,1927,Haplopappus philippii,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-374,1928,Haplopappus pinea,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-375,1929,Haplopappus pinnatifidus,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-376,4334,Cistanthe humilis,Grass,Native,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-377,1930,Haplopappus poeppigianus,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0
-378,1931,Haplopappus pulchellus,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-379,1933,Haplopappus pusillus,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
-380,1934,Haplopappus racemiger,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-381,1936,Haplopappus remyanus,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-382,1937,Haplopappus rengifoanus,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-383,4274,Sida spinosa,Subshrub,Introduced,Not Evaluated (NE),0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-384,1938,Haplopappus retinervius,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-385,1939,Haplopappus rigidus,Bush,Native,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-386,1941,Haplopappus schumannii,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
-387,1942,Haplopappus scrobiculatus,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
-388,1943,Haplopappus setulosus,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-389,1944,Haplopappus stelliger,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-390,1945,Haplopappus stolpii,Bush,Endemic,Not Evaluated (NE),1,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0
-391,1946,Haplopappus taeda,Bush,Endemic,Vulnerable (VU),0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0
-392,1947,Haplopappus uncinatus,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-393,1948,Haplopappus undulatus,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
-394,1949,Haplopappus valparadisiacus,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-395,1950,Haplopappus velutinus subsp. illinitus,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-396,1951,Haplopappus velutinus subsp. longipes,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-397,1952,Haplopappus velutinus subsp. velutinus,Bush,Native,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-398,1953,Haplopappus vicuniensis,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-399,1412,Haplorhus peruviana,Tree,Native,Vulnerable (VU),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-400,4633,Hebe elliptica,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
-401,4634,Hebe salicifolia,Bush,Native,Least Concern (LC),0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1
-402,4032,Heliotropium chenopodiaceum,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-403,4035,Heliotropium eremogenum,Bush,Endemic,Not Evaluated (NE),0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
-404,4036,Heliotropium filifolium,Bush,Endemic,Vulnerable (VU),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-405,4037,Heliotropium floridum,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-406,4039,Heliotropium glutinosum,Bush,Endemic,Vulnerable (VU),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-407,4041,Heliotropium inconspicuum,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-408,4042,Heliotropium jaffuelii,Bush,Endemic,Endangered (EN),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-409,4044,Heliotropium linariifolium,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-410,4045,Heliotropium longistylum,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-411,4047,Heliotropium myosotifolium,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-412,4049,Heliotropium philippianum,Bush,Endemic,Not Evaluated (NE),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-413,4050,Heliotropium pycnophyllum,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-414,4051,Heliotropium sclerocarpum,Bush,Endemic,Least Concern (LC),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-415,4052,Heliotropium sinuatum,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-416,4053,Heliotropium stenophyllum,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-417,4054,Heliotropium taltalense,Bush,Endemic,Least Concern (LC),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-418,1965,Helogyne apaloidea,Bush,Native,Not Evaluated (NE),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-419,1966,Helogyne macrogyne,Bush,Endemic,Not Evaluated (NE),0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-420,3799,Hoffmannseggia aphylla,Bush,Endemic,Endangered (EN),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-421,4139,Huidobria chilensis,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-422,4140,Huidobria fruticosa,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-423,3133,Jovellana punctata,Bush,Endemic,Not Evaluated (NE),1,1,0,0,0,0,1,0,0,1,1,0,0,0,1,1,0
-424,3134,Jovellana violacea,Bush,Endemic,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0
-425,351,Jubaea chilensis,Tree,Endemic,Endangered (EN),0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-426,5289,Junellia aretioides,Bush,Native,Not Evaluated (NE),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-427,5290,Junellia bryoides,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-428,5291,Junellia caespitosa,Bush,Native,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-429,5292,Junellia crithmifolia,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-430,5293,Junellia digitata var. digitata,Bush,Native,Not Evaluated (NE),0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-431,5295,Junellia juniperina,Bush,Native,Not Evaluated (NE),0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
-432,5296,Junellia lavandulifolia,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-433,5297,Junellia micrantha,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
-434,5298,Junellia minima,Bush,Native,Not Evaluated (NE),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-435,5299,Junellia odonellii,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
-436,5301,Junellia pappigera,Bush,Native,Not Evaluated (NE),0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
-437,5302,Junellia pseudojuncea,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-438,5303,Junellia selaginoides var. illapelina,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-439,5304,Junellia selaginoides var. selaginoides,Bush,Endemic,Not Evaluated (NE),0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-440,5305,Junellia seriphioides,Bush,Native,Not Evaluated (NE),0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-441,5306,Junellia silvestrii,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-442,5307,Junellia spathulata var. glauca,Bush,Native,Not Evaluated (NE),0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
-443,5308,Junellia spathulata var. spathulata,Bush,Native,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0
-444,5309,Junellia thymifolia,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-445,5310,Junellia tridactylites,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-446,5312,Junellia ulicina,Bush,Native,Not Evaluated (NE),0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-447,5313,Junellia uniflora,Bush,Native,Not Evaluated (NE),0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0
-448,4905,Kageneckia angustifolia,Tree,Endemic,Almost Threatened (NT),0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-449,4906,Kageneckia oblonga,Tree,Endemic,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
-450,1996,Kieslingia chilensis,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-451,4061,Krameria cistoidea,Bush,Endemic,Least Concern (LC),0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,1,0
-452,4062,Krameria lappacea,Bush,Native,Not Evaluated (NE),0,0,1,1,0,1,0,0,1,0,0,1,0,0,0,0,0
-453,5314,Lampayo hieronymi,Bush,Native,Vulnerable (VU),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-454,5315,Lampayo medicinalis,Bush,Native,Not Evaluated (NE),0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-455,5426,Larrea divaricata,Bush,Native,Not Evaluated (NE),0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0
-456,5427,Larrea nitida,Bush,Native,Not Evaluated (NE),0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0
-457,5054,Latua pubiflora,Bush or Small tree,Endemic,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
-458,2586,Laurelia sempervirens,Tree,Endemic,Not Evaluated (NE),1,1,0,0,0,0,0,1,0,1,1,0,1,0,1,0,0
-459,2587,Laureliopsis philippiana,Tree,Native,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1
-460,4370,Legrandia concinna,Bush or Small tree,Endemic,Endangered (EN),0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-461,4071,Lepechinia chilensis,Bush,Endemic,Not Evaluated (NE),1,1,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0
-462,4072,Lepechinia salviae,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
-463,4073,Lepechinia subhastata,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-464,2009,Lepidophyllum cupressiforme,Bush,Native,Almost Threatened (NT),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-465,181,Lepidothamnus fonkii,Bush,Native,Least Concern (LC),0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1
-466,2011,Leptocarpha rivularis,Bush,Endemic,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0
-467,2058,Leunisia laeta,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-468,5317,Lippia fragrans,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-469,5318,Lippia turbinata,Bush,Native,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-470,1413,Lithrea caustica,Tree,Endemic,Not Evaluated (NE),1,1,1,0,0,0,1,1,0,1,1,1,0,0,1,1,0
-471,4996,Llagunoa glandulosa,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,1,0
-472,3171,Lobelia excelsa,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-473,3173,Lobelia polyphylla,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-474,4796,Lomatia dentata,Tree,Native,Not Evaluated (NE),1,1,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0
-475,4797,Lomatia ferruginea,Tree,Native,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,1
-476,4798,Lomatia hirsuta subsp. obliqua,Tree,Native,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,1,1,1,1,0,1,1,0
-477,2060,Lophopappus cuneatus,Bush,Native,Not Evaluated (NE),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-478,2061,Lophopappus foliosus,Bush,Native,Not Evaluated (NE),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-479,2062,Lophopappus tarapacanus,Bush,Native,Not Evaluated (NE),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-480,4371,Luma apiculata,Tree,Native,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,1,1,1,1,0,1,1,1
-481,4372,Luma chequen,Bush or Small tree,Endemic,Least Concern (LC),1,1,0,0,0,0,1,1,0,1,1,1,1,0,1,1,0
-482,3844,Lupinus tarapacensis,Bush,Native,Not Evaluated (NE),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-483,3845,Lupinus werdermannianus,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-484,5056,Lycium bridgesii,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-485,5058,Lycium chilense var. chilense,Bush,Native,Not Evaluated (NE),0,1,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-486,5059,Lycium chilense var. confertifolium,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
-487,5060,Lycium chilense var. filifolium,Bush,Native,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-488,5061,Lycium chilense var. glaberrimum,Bush,Native,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-489,5062,Lycium chilense var. minutifolium,Bush,Native,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-490,5063,Lycium chilense var. vergarae,Bush,Native,Not Evaluated (NE),0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0
-491,5064,Lycium deserti,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
-492,5065,Lycium distichum,Bush,Native,Not Evaluated (NE),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-493,5066,Lycium humile,Bush,Native,Not Evaluated (NE),0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0
-494,5067,Lycium leiostemum,Bush,Native,Not Evaluated (NE),0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-495,5068,Lycium minutifolium,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-496,5069,Lycium rachidocladum,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-497,5070,Lycium stenophyllum,Bush,Native,Not Evaluated (NE),0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0
-498,5071,Lycium tenuispinosum var. calycinum,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-499,2070,Marticorenia foliosa,Bush,Endemic,Critically Endangered (CR),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
-500,3345,Maytenus boaria,Tree,Native,Not Evaluated (NE),1,1,1,0,0,0,1,1,0,1,1,1,1,1,1,1,1
-501,3348,Maytenus magellanica,Tree,Native,Not Evaluated (NE),1,1,0,0,0,0,0,1,0,1,1,0,1,1,1,0,1
-502,4420,Menodora linoides,Bush,Endemic,Endangered (EN),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-503,3043,Miqueliopuntia miquelii,Succulent bush,Endemic,Least Concern (LC),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-504,4645,Monttea chilensis var. chilensis,Bush or Small tree,Endemic,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-505,4646,Monttea chilensis var. taltalensis,Bush or Small tree,Endemic,Not Evaluated (NE),0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-506,4364,Morella pavonis,Bush or Small tree,Native,Vulnerable (VU),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-507,4744,Muehlenbeckia fruticulosa,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-508,4745,Muehlenbeckia hastulata var. fascicularis,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,0,1,0,1,1,0,1,0,1,1,0
-509,4746,Muehlenbeckia hastulata var. hastulata,Bush,Native,Not Evaluated (NE),1,1,1,0,0,1,1,1,1,1,1,1,1,0,1,1,0
-510,4747,Muehlenbeckia hastulata var. rotundata,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1
-511,5319,Mulguraea arequipensis,Bush,Native,Not Evaluated (NE),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-512,5320,Mulguraea asparagoides,Bush,Native,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-513,5321,Mulguraea cinerascens,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-514,5322,Mulguraea hystrix,Bush,Native,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-515,5323,Mulguraea scoparia,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
-516,5324,Mulguraea tridens,Bush,Native,Vulnerable (VU),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-517,2083,Mutisia acerosa,Bush,Native,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0
-518,2097,Mutisia ledifolia,Bush,Native,Not Evaluated (NE),0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-519,2098,Mutisia linearifolia,Bush,Native,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0
-520,4859,Colletia spartioides,Bush,Endemic,Critically Endangered (CR),0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-521,4990,Myoschilos oblongum,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,1,1,1,1,1,1,1,1
-522,4373,Myrceugenia chrysocarpa,Bush or Small tree,Native,Not Evaluated (NE),1,1,0,0,0,0,0,1,0,1,1,0,1,0,1,0,1
-523,4374,Myrceugenia colchaguensis,Bush,Endemic,Endangered (EN),1,1,0,0,0,0,1,1,0,0,1,0,0,0,1,1,0
-524,4375,Myrceugenia correifolia,Bush or Small tree,Endemic,Least Concern (LC),0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0
-525,4376,Myrceugenia exsucca,Tree,Native,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,1,1,1,1,0,1,1,1
-526,4377,Myrceugenia lanceolata,Bush,Endemic,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,0,1,0,0,0,1,1,0
-527,4378,Myrceugenia leptospermoides,Bush,Endemic,Least Concern (LC),1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
-528,4379,Myrceugenia obtusa,Bush or Small tree,Endemic,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
-529,4380,Myrceugenia ovata var. nannophylla,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0
-530,4381,Myrceugenia ovata var. ovata,Bush or Small tree,Endemic,Not Evaluated (NE),1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0
-531,4382,Myrceugenia parvifolia,Bush or Small tree,Endemic,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0
-532,4383,Myrceugenia pinifolia,Bush,Endemic,Least Concern (LC),0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
-533,4384,Myrceugenia planipes,Tree,Native,Not Evaluated (NE),1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1
-534,4385,Myrceugenia rufa,Bush,Endemic,Almost Threatened (NT),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-535,4387,Myrcianthes coquimbensis,Bush,Endemic,Endangered (EN),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-536,2111,Nardophyllum bryoides,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
-537,2113,Nardophyllum genistoides,Bush,Endemic,Endangered (EN),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
-538,2114,Nardophyllum lanatum,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-539,2119,Nassauvia axillaris,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
-540,2127,Nassauvia glomerulosa,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
-541,5093,Nolana albescens,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-542,5099,Nolana clivicola,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-543,5102,Nolana deflexa,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-544,5104,Nolana diffusa,Bush,Endemic,Not Evaluated (NE),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-545,5111,Nolana incana,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-546,5112,Nolana inconspicua,Bush,Endemic,Not Evaluated (NE),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-547,5115,Nolana lachimbensis,Bush,Endemic,Critically Endangered (CR),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-548,5128,Nolana ramosissima,Bush,Endemic,Not Evaluated (NE),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-549,5133,Nolana salsoloides,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-550,5137,Nolana stenophylla,Bush,Endemic,Almost Threatened (NT),0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-551,5139,Nolana tocopillensis,Bush,Endemic,Not Evaluated (NE),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-552,5140,Nolana villosa,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-553,4396,Nothofagus alessandrii,Tree,Endemic,Endangered (EN),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-554,4397,Nothofagus alpina,Tree,Native,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0
-555,4398,Nothofagus antarctica,Tree,Native,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,1
-556,4399,Nothofagus betuloides,Tree,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1
-557,4400,Nothofagus dombeyi,Tree,Native,Not Evaluated (NE),1,1,0,0,0,0,0,1,0,1,1,0,1,0,1,0,1
-558,4401,Nothofagus glauca,Tree,Endemic,Almost Threatened (NT),0,1,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0
-559,4402,Nothofagus macrocarpa,Tree,Endemic,Vulnerable (VU),0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0
-560,4403,Nothofagus nitida,Tree,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1
-561,4404,Nothofagus obliqua,Tree,Native,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,1,1,0,1,0,1,1,0
-562,4405,Nothofagus pumilio,Tree,Native,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,1
-563,2150,Notopappus pectinatus,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
-564,4863,Ochetophila nana,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
-565,4864,Ochetophila trinervis,Bush or Small tree,Native,Not Evaluated (NE),1,1,1,0,0,0,1,1,0,0,1,1,0,0,1,1,1
-566,2152,Ocyroe armata,Bush,Native,Vulnerable (VU),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-567,2154,Ophryosporus anomalus,Bush,Native,Not Evaluated (NE),0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
-568,2155,Ophryosporus floribundus,Bush,Native,Not Evaluated (NE),0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-569,2156,Ophryosporus heptanthus,Bush,Native,Not Evaluated (NE),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-570,2157,Ophryosporus hoppii,Bush,Native,Not Evaluated (NE),0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-571,2158,Ophryosporus johnstonii,Bush,Endemic,Not Evaluated (NE),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-572,2159,Ophryosporus paradoxus,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,1,0
-573,2160,Ophryosporus pinifolius,Bush,Native,Not Evaluated (NE),0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-574,2161,Ophryosporus triangularis,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,1,0,0,1,0,0,1,0,0,0,0,0
-575,3045,Oreocereus hempelianus,Succulent bush,Native,Least Concern (LC),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-576,3046,Oreocereus leucotrichus,Succulent bush,Native,Least Concern (LC),0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-577,3861,Otholobium glandulosum,Bush or Small tree,Native,Not Evaluated (NE),1,1,0,0,0,1,1,1,1,1,1,1,0,0,1,1,0
-578,5220,Ovidia andina,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1
-579,4505,Oxalis caesia,Bush,Endemic,Vulnerable (VU),0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-580,4519,Oxalis gigantea,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-581,4556,Oxalis virgosa,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-582,2180,Oxyphyllum ulicinum,Bush,Endemic,Endangered (EN),0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-583,4269,Palaua concinna,Bush,Endemic,Vulnerable (VU),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-584,3585,Parasenegalia visco,Tree,Native,Not Evaluated (NE),0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-585,2182,Parastrephia lepidophylla,Bush,Native,Not Evaluated (NE),0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-586,2183,Parastrephia lucida,Bush,Native,Not Evaluated (NE),0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-587,2184,Parastrephia quadrangularis,Bush,Native,Not Evaluated (NE),0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-588,2185,Parastrephia teretiuscula,Bush,Native,Not Evaluated (NE),0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
-589,4111,Persea lingue,Tree,Native,Least Concern (LC),1,1,0,0,0,0,1,1,0,1,1,0,1,0,1,1,0
-590,4305,Peumus boldus,Tree,Endemic,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,1,1,1,1,0,1,1,0
-591,171,Pilgerodendron uviferum,Tree,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1
-592,5429,Pintoa chilensis,Bush,Endemic,Endangered (EN),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-593,4969,Pitavia punctata,Tree,Endemic,Endangered (EN),1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
-594,2214,Plazia cheiranthifolia,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-595,2215,Plazia daphnoides,Bush,Native,Vulnerable (VU),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-596,2216,Pleocarphus revolutus,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-597,2217,Pluchea chingoyo,Bush,Native,Not Evaluated (NE),0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-598,2218,Podanthus mitiqui,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0
-599,2219,Podanthus ovatifolius,Bush,Endemic,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
-600,182,Podocarpus nubigenus,Tree,Native,Not Evaluated (NE),1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1
-601,183,Podocarpus salignus,Tree,Endemic,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0
-602,4913,Polylepis rugulosa,Tree,Native,Endangered (EN),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-603,4914,Polylepis tarapacana,Tree,Native,Vulnerable (VU),0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-604,5430,Porlieria chilensis,Bush or Small tree,Endemic,Vulnerable (VU),0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-605,4998,Pouteria lucuma,Tree,Native,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-606,4999,Pouteria splendens,Bush or Small tree,Endemic,Endangered (EN),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-607,2229,Proustia cuneifolia subsp. cinerea,Bush,Endemic,Not Evaluated (NE),0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0
-608,2231,Proustia cuneifolia subsp. tipia,Bush,Endemic,Not Evaluated (NE),0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
-609,2232,Proustia pyrifolia,Creeper bush,Endemic,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,1,1,1,1,0,1,1,0
-610,184,Prumnopitys andina,Tree,Native,Vulnerable (VU),1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
-611,4800,Quillaja saponaria,Tree,Endemic,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
-612,1566,Raukaua laetevirens,Bush or Small tree,Native,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,1
-613,4865,Retanilla ephedra,Bush,Endemic,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,0,1,0,0,0,1,1,0
-614,4866,Retanilla stricta,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-615,4867,Retanilla trinervia,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-616,5328,Rhaphithamnus spinosus,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,1,1,1,1,0,1,1,1
-617,4007,Ribes bicolor,Bush,Endemic,Not Evaluated (NE),1,0,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
-618,4008,Ribes cucullatum,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,0,1,0,1,1,1,1,1
-619,4009,Ribes densiflorum,Bush,Native,Not Evaluated (NE),1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0
-620,4010,Ribes integrifolium,Bush,Endemic,Vulnerable (VU),1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-621,4011,Ribes magellanicum,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,1,1,0,1,1,1,1,1
-622,4013,Ribes punctatum,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,0,1,1,1,0,1,1,0
-623,4014,Ribes trilobum,Bush,Endemic,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
-624,4015,Ribes valdivianum,Bush,Native,Not Evaluated (NE),1,0,0,0,0,0,1,1,0,1,1,0,1,0,1,0,1
-625,4986,Salix humboldtiana,Tree,Native,Not Evaluated (NE),1,1,1,1,0,1,1,1,1,0,1,1,0,0,1,1,0
-626,5149,Salpichroa scandens,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-627,5152,Salpiglossis spinescens,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-628,185,Saxegothaea conspicua,Tree,Native,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1
-629,1414,Schinus areira,Tree,Native,Not Evaluated (NE),0,0,1,1,0,1,1,0,1,0,0,1,0,0,0,1,0
-630,1415,Schinus kauselii,Bush or Small tree,Endemic,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0
-631,1416,Schinus latifolia,Tree,Endemic,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-632,1417,Schinus marchandii,Bush,Native,Vulnerable (VU),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-633,1418,Schinus montana,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0
-634,1420,Schinus patagonica var. patagonica,Bush or Small tree,Native,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,0,1,0,1,0,1,1,1
-635,1421,Schinus polygama,Bush or Small tree,Native,Not Evaluated (NE),1,1,1,0,0,0,1,1,0,1,1,1,1,0,1,1,0
-636,4091,Scutellaria valdiviana,Bush,Endemic,Endangered (EN),0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
-637,2251,Senecio adenophyllus,Bush,Native,Not Evaluated (NE),0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-638,2253,Senecio alcicornis,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-639,2259,Senecio anthemidiphyllus,Bush,Native,Not Evaluated (NE),0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-640,2265,Senecio arleguianus,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-641,2269,Senecio atacamensis,Bush,Native,Not Evaluated (NE),0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-642,2271,Senecio bahioides,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0
-643,2282,Senecio bracteolatus var. bracteolatus,Bush,Native,Not Evaluated (NE),1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-644,2283,Senecio bracteolatus var. valderramae,Bush,Native,Not Evaluated (NE),1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
-645,2290,Senecio cachinalensis var. cachinalensis,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-646,2291,Senecio cachinalensis var. copiapinus,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-647,2295,Senecio cerberoanus var. cerberoanus,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-648,2296,Senecio cerberoanus var. lanatus,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-649,2307,Senecio coquimbensis,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-650,2310,Senecio coscayanus,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-651,2315,Senecio ctenophyllus,Bush,Endemic,Not Evaluated (NE),0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-652,2328,Senecio eriophyton,Bush,Native,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-653,5616,Senecio filaginoides,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-654,2338,Senecio francisci,Bush,Native,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-655,2349,Senecio gunckelii,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
-656,2360,Senecio hirtus,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-657,2370,Senecio jilesii,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-658,2373,Senecio jungei,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-659,2384,Senecio leucus,Bush,Native,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-660,2392,Senecio luridus,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-661,2394,Senecio madariagae,Bush,Endemic,Not Evaluated (NE),0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
-662,2402,Senecio microcephalus var. angustifolius,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-663,2403,Senecio microcephalus var. microcephalus,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
-664,2404,Senecio microphyllus,Bush,Native,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-665,2406,Senecio microtis,Bush,Endemic,Vulnerable (VU),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-666,2407,Senecio minutifolius,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0
-667,2412,Senecio murorum,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
-668,2418,Senecio nutans,Bush,Native,Not Evaluated (NE),0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-669,2421,Senecio oreophyton,Bush,Native,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-670,2438,Senecio philippicus,Bush,Endemic,Not Evaluated (NE),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-671,2441,Senecio phylloleptus,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-672,2444,Senecio planiflorus,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-673,2450,Senecio portulacoides,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-674,2452,Senecio proteus var. geissei,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-675,2453,Senecio proteus var. proteus,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-676,2454,Senecio pseudalmeidae,Bush,Endemic,Not Evaluated (NE),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-677,2455,Senecio pseuderucoides,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-678,2463,Senecio ricardii,Bush,Endemic,Vulnerable (VU),0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-679,2464,Senecio santelicis,Bush,Native,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-680,2471,Senecio sericeonitens,Bush,Native,Not Evaluated (NE),1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1
-681,2473,Senecio sinuatilobus,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-682,2478,Senecio spinosus,Bush,Native,Not Evaluated (NE),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-683,2481,Senecio subulatus var. salsus,Bush,Native,Not Evaluated (NE),0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-684,2490,Senecio tricuspidatus var. dentatus,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-685,2491,Senecio tricuspidatus var. tricuspidatus,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
-686,2499,Senecio viridis var. radiatus,Bush,Native,Not Evaluated (NE),0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
-687,2500,Senecio viridis var. viridis,Bush,Native,Not Evaluated (NE),0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-688,2508,Senecio zapahuirensis,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-689,3872,Senna birostris var. arequipensis,Bush,Native,Not Evaluated (NE),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-690,3874,Senna candolleana,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-691,3875,Senna cruckshanksii,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
-692,3876,Senna cumingii var. alcaparra,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-693,3877,Senna cumingii var. coquimbensis,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-694,3878,Senna cumingii var. cumingii,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-695,3879,Senna cumingii var. eremobia,Bush,Endemic,Not Evaluated (NE),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-696,3880,Senna huidobriana,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-697,3881,Senna paposana,Bush,Endemic,Endangered (EN),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-698,3883,Senna stipulacea var. anglorum,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0
-699,3884,Senna stipulacea var. stipulacea,Bush,Endemic,Not Evaluated (NE),1,1,0,0,0,0,0,1,0,1,1,0,1,0,1,1,0
-700,3885,Senna urmenetae,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
-701,1560,Skytanthus acutus,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-702,5166,Solanum alphonsei,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-703,5172,Solanum crispum,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,1,1,1,1,0,1,1,1
-704,5184,Solanum lycopersicoides,Bush,Native,Endangered (EN),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-705,5191,Solanum nitidum,Bush,Native,Not Evaluated (NE),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-706,5195,Solanum pennellii var. elachistus,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-707,5199,Solanum pimpinellifolium,Bush,Native,Vulnerable (VU),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-708,5205,Solanum sanfurgoi,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-709,5209,Solanum sitiens,Bush,Endemic,Vulnerable (VU),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-710,5210,Solanum trinominum,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-711,5213,Solanum valdiviense,Bush,Native,Not Evaluated (NE),1,1,0,0,0,0,1,0,0,1,1,0,1,0,1,0,1
-712,3886,Sophora cassioides,Tree,Endemic,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1
-713,3889,Sophora macrocarpa,Bush or Small tree,Endemic,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
-714,2524,Spinoliva ilicifolia subsp. baccharoides,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-715,2525,Spinoliva ilicifolia subsp. ilicifolia,Bush,Endemic,Not Evaluated (NE),0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0
-716,3417,Suaeda argentinensis,Bush,Native,Not Evaluated (NE),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-717,3419,Suaeda multiflora,Bush,Endemic,Vulnerable (VU),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-718,4283,Tarasa reichei,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-719,3893,Tara spinosa,Tree,Native,Not Evaluated (NE),0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0
-720,4283,Tarasa reichei,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-721,4286,Tarasa umbellata,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-722,2626,Tecoma fulva,Bush,Native,Endangered (EN),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-723,4392,Tepualia stipularis,Bush or Small tree,Native,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,1
-724,2540,Tessaria absinthioides,Bush,Native,Not Evaluated (NE),0,1,1,1,0,1,1,1,1,0,1,1,0,0,1,1,0
-725,1388,Tetragonia angustifolia,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0
-726,1392,Tetragonia maritima,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-727,4104,Teucrium bicolor,Bush,Endemic,Not Evaluated (NE),1,1,0,0,0,0,1,1,0,1,1,1,1,0,1,1,0
-728,4105,Teucrium nudicaule,Bush,Endemic,Not Evaluated (NE),0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-729,4869,Trevoa quinquenervia,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0
-730,2559,Trixis cacalioides,Bush,Native,Not Evaluated (NE),0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-731,4393,Ugni candollei,Bush,Endemic,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0
-732,4394,Ugni molinae,Bush,Native,Not Evaluated (NE),1,1,0,0,1,0,0,1,0,1,1,0,1,0,1,0,1
-733,3578,Vachellia caven,Tree,Native,Not Evaluated (NE),1,1,1,0,0,0,1,1,0,1,1,1,0,0,1,1,0
-734,3582,Vachellia macracantha,Bush or Small tree,Native,Not Evaluated (NE),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-735,3201,Valeriana graciliceps,Bush,Endemic,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-736,3224,Valeriana senecioides,Bush,Endemic,Endangered (EN),0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-737,5215,Vestia foetida,Bush,Endemic,Endangered (EN),1,0,0,0,0,0,0,1,0,1,1,0,0,0,1,1,0
-738,3960,Viviania crenata,Bush,Endemic,Not Evaluated (NE),0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-739,3961,Viviania marifolia,Bush,Native,Not Evaluated (NE),0,1,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0
-740,3962,Viviania ovata,Bush,Native,Not Evaluated (NE),0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0
-741,3477,Weinmannia trichosperma,Tree,Native,Not Evaluated (NE),1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,1
+,id,scientific_name,habit,status,conservation_state,maximum_height,minimum_height,Araucanía,Maule,Atacama,Antofagasta,Juan Fernández,Tarapacá,Metropolitana,Libertador Bernardo O'Higgins,Arica y Parinacota,Los Ríos,Ñuble,Coquimbo,Los Lagos,Magallanes,Bío-Bío,Valparaíso,Aysén
+0,1583,Acrisione cymosa,Bush or Small tree,Endemic,Not Evaluated (NE),1100.0,0.0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,1
+1,5567,Acrisione denticulata,Bush,Native,Not Evaluated (NE),,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,1585,Acrisione denticulata var. pilota,Bush,Endemic,Not Evaluated (NE),1200.0,0.0,1,1,0,0,0,0,1,1,0,0,1,1,1,0,1,1,0
+3,3523,Adenopeltis serrata,Bush,Endemic,Not Evaluated (NE),900.0,5.0,0,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
+4,3587,Adesmia aphylla,Bush,Endemic,Not Evaluated (NE),3000.0,1800.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+5,3590,Adesmia argentea,Bush,Endemic,Not Evaluated (NE),2000.0,0.0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0
+6,3591,Adesmia argyrophylla,Bush,Endemic,Vulnerable (VU),2800.0,200.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+7,3592,Adesmia aromatica,Bush,Endemic,Not Evaluated (NE),1300.0,1100.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+8,3594,Adesmia atacamensis,Bush,Endemic,Not Evaluated (NE),4000.0,2000.0,0,0,1,1,0,1,0,0,1,0,0,1,0,0,0,0,0
+9,3596,Adesmia balsamica,Bush,Endemic,Vulnerable (VU),1000.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+10,3597,Adesmia bedwellii,Bush,Endemic,Not Evaluated (NE),700.0,200.0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+11,3599,Adesmia bijuga,Bush,Endemic,Critically Endangered (CR),370.0,145.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,3600,Adesmia boronioides,Bush,Native,Least Concern (LC),1500.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+13,3602,Adesmia bracteata,Bush,Endemic,Not Evaluated (NE),2600.0,1200.0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+14,3605,Adesmia calycicomosa,Bush,Endemic,Not Evaluated (NE),1400.0,1100.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+15,3607,Adesmia colinensis,Bush,Endemic,Not Evaluated (NE),2000.0,1000.0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+16,3608,Adesmia concinna,Bush,Endemic,Not Evaluated (NE),1400.0,200.0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+17,3610,Adesmia confusa,Bush,Endemic,Not Evaluated (NE),1800.0,0.0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+18,3611,Adesmia coquimbensis,Bush,Endemic,Not Evaluated (NE),,1900.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+19,3615,Adesmia curvifolia,Bush,Endemic,Not Evaluated (NE),1500.0,1000.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+20,3620,Adesmia dessaueri,Bush,Endemic,Not Evaluated (NE),,,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+21,3621,Adesmia dichotoma,Bush,Endemic,Not Evaluated (NE),2800.0,900.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+22,3623,Adesmia dumosa,Bush,Endemic,Not Evaluated (NE),900.0,590.0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+23,3626,Adesmia elegans,Bush,Endemic,Not Evaluated (NE),,330.0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+24,3629,Adesmia erinacea,Bush,Native,Not Evaluated (NE),4400.0,2500.0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+25,3638,Adesmia glutinosa,Bush,Endemic,Not Evaluated (NE),3000.0,700.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+26,3639,Adesmia godoyae,Bush,Endemic,Vulnerable (VU),1000.0,700.0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+27,3640,Adesmia gracilis,Bush,Native,Not Evaluated (NE),3000.0,200.0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+28,3643,Adesmia hirsuta,Bush,Endemic,Not Evaluated (NE),,1780.0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+29,3644,Adesmia horrida,Bush,Native,Not Evaluated (NE),4000.0,2800.0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+30,3645,Adesmia hystrix,Bush,Endemic,Not Evaluated (NE),4100.0,2000.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+31,3655,Adesmia loudonia,Bush,Endemic,Not Evaluated (NE),1200.0,0.0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+32,3657,Adesmia melanocaulos,Bush,Endemic,Not Evaluated (NE),1100.0,0.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,3658,Adesmia melanthes,Bush,Native,Not Evaluated (NE),4200.0,3700.0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+34,3662,Adesmia microphylla,Bush,Endemic,Not Evaluated (NE),1500.0,0.0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+35,3664,Adesmia monosperma,Bush,Endemic,Not Evaluated (NE),2600.0,200.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+36,3668,Adesmia obcordata,Bush,Native,Not Evaluated (NE),2500.0,200.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+37,3669,Adesmia obovata,Bush,Native,Not Evaluated (NE),2500.0,200.0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1
+38,3670,Adesmia obscura,Bush,Endemic,Not Evaluated (NE),3400.0,2000.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+39,3672,Adesmia odontophylla,Bush,Endemic,Extinct (EX),2200.0,1115.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,3673,Adesmia ovallensis,Bush,Endemic,Not Evaluated (NE),300.0,200.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+41,3678,Adesmia pauciflora,Bush,Endemic,Not Evaluated (NE),,1500.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+42,3679,Adesmia pearcei,Bush,Endemic,Not Evaluated (NE),,1500.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+43,3680,Adesmia pedicellata,Bush,Endemic,Not Evaluated (NE),2800.0,0.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+44,3681,Adesmia pentaphylla,Bush,Native,Not Evaluated (NE),3000.0,2200.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+45,3682,Adesmia peraltae,Bush,Endemic,Not Evaluated (NE),,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+46,3683,Adesmia phylloidea,Bush,Endemic,Not Evaluated (NE),1400.0,100.0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+47,3684,Adesmia pinifolia,Bush,Native,Vulnerable (VU),2500.0,1500.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+48,3685,Adesmia pirionii,Bush,Endemic,Not Evaluated (NE),900.0,100.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+49,3686,Adesmia polyphylla,Bush,Native,Not Evaluated (NE),4500.0,3200.0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+50,3687,Adesmia propinqua,Bush,Endemic,Not Evaluated (NE),1500.0,100.0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+51,3691,Adesmia pungens,Bush,Endemic,Not Evaluated (NE),2100.0,0.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+52,3697,Adesmia renjifoana,Bush,Native,Not Evaluated (NE),2600.0,1500.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+53,3698,Adesmia resinosa,Bush or Small tree,Endemic,Endangered (EN),2000.0,1700.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+54,3700,Adesmia rubroviridis,Bush,Endemic,Not Evaluated (NE),2600.0,2200.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+55,3703,Adesmia schneideri,Bush,Native,Not Evaluated (NE),3300.0,200.0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+56,3704,Adesmia spinosissima,Bush,Native,Not Evaluated (NE),4300.0,2700.0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+57,3712,Adesmia trifoliata,Bush,Endemic,Not Evaluated (NE),,2000.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+58,3714,Adesmia uspallatensis,Bush,Native,Not Evaluated (NE),3000.0,1900.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+59,3715,Adesmia verrucosa,Bush,Native,Not Evaluated (NE),3600.0,1700.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+60,3719,Adesmia viscosa,Bush,Endemic,Not Evaluated (NE),800.0,300.0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+61,3720,Adesmia volckmannii,Bush,Native,Least Concern (LC),2200.0,200.0,1,1,0,0,0,0,1,0,0,0,1,0,1,1,1,0,1
+62,3721,Adesmia zoellneri,Bush,Endemic,Not Evaluated (NE),1300.0,1000.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+63,1382,Aextoxicon punctatum,Tree,Native,Least Concern (LC),1800.0,0.0,1,1,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0
+64,1844,Ageratina glechonophylla,Bush,Native,Not Evaluated (NE),1600.0,5.0,0,1,0,1,0,0,1,1,0,0,1,1,0,0,1,1,0
+65,4096,Stachys gilliesii,Grass,Native,Not Evaluated (NE),2300.0,0.0,0,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
+66,5269,Aloysia deserticola,Bush,Native,Not Evaluated (NE),3500.0,2300.0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+67,5270,Aloysia gratissima,Bush,Native,Not Evaluated (NE),90.0,70.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+68,5271,Aloysia salviifolia,Bush,Endemic,Not Evaluated (NE),1600.0,0.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+69,5272,Aloysia tarapacana,Bush,Endemic,Not Evaluated (NE),3300.0,2800.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+70,5273,Aloysia trifida,Bush,Native,Not Evaluated (NE),2500.0,1500.0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+71,1597,Ambrosia artemisioides,Bush,Native,Not Evaluated (NE),4600.0,1700.0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+72,4365,Amomyrtus luma,Tree,Native,Not Evaluated (NE),800.0,0.0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1
+73,4366,Amomyrtus meli,Tree,Endemic,Not Evaluated (NE),600.0,0.0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0
+74,3723,Anarthrophyllum andicolum,Bush,Endemic,Not Evaluated (NE),1800.0,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0
+75,3724,Anarthrophyllum cumingii,Bush,Endemic,Not Evaluated (NE),3000.0,1800.0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+76,3727,Anarthrophyllum elegans,Bush,Native,Not Evaluated (NE),2500.0,1000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+77,3729,Anarthrophyllum rigidum,Bush,Native,Not Evaluated (NE),2500.0,200.0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+78,4194,Andeimalva chilensis,Bush,Endemic,Not Evaluated (NE),3000.0,300.0,0,1,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+79,4606,Anisomeria littoralis,Bush,Endemic,Not Evaluated (NE),1300.0,0.0,0,1,1,1,0,0,1,0,0,0,0,1,0,0,0,1,0
+80,5570,Aphyllocladus denticulatus,Bush,,Almost Threatened (NT),,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+81,1607,Aphyllocladus denticulatus var. calvus,Bush,Endemic,Not Evaluated (NE),2800.0,2500.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+82,168,Araucaria araucana,Tree,Native,Vulnerable (VU),1700.0,600.0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+83,1845,Aristeguietia salvia,Bush,Endemic,Not Evaluated (NE),1200.0,5.0,0,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
+84,4099,Stachys ochroleuca,Grass,Endemic,Not Evaluated (NE),3000.0,0.0,1,1,0,0,0,0,0,1,0,0,1,1,0,0,1,1,0
+85,3479,Aristotelia chilensis,Bush or Small tree,Native,Not Evaluated (NE),1500.0,0.0,1,1,0,0,1,0,1,1,0,1,1,1,1,0,1,1,1
+86,1616,Artemisia copa var. copa,Bush or Small tree,Native,Not Evaluated (NE),4700.0,3000.0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,1,0
+87,1617,Artemisia copa var. trifida,Bush,Endemic,Not Evaluated (NE),,2400.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+88,3350,Atriplex atacamensis,Bush,Endemic,Not Evaluated (NE),3000.0,200.0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+89,3353,Atriplex chizae,Bush,Endemic,Not Evaluated (NE),1100.0,0.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+90,3354,Atriplex clivicola,Bush,Endemic,Not Evaluated (NE),700.0,200.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+91,3355,Atriplex coquimbana,Bush,Endemic,Endangered (EN),500.0,300.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+92,3356,Atriplex costellata,Bush,Endemic,Endangered (EN),200.0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+93,3358,Atriplex glaucescens,Bush,Endemic,Not Evaluated (NE),3700.0,1300.0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+94,3360,Atriplex hystrix,Bush,Endemic,Not Evaluated (NE),600.0,0.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+95,3364,Atriplex madariagae,Bush,Endemic,Not Evaluated (NE),2700.0,200.0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+96,3372,Atriplex repanda,Bush,Endemic,Not Evaluated (NE),1500.0,0.0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+97,3378,Atriplex vallenarensis,Bush,Endemic,Endangered (EN),600.0,0.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+98,3379,Atriplex vulgatissima,Bush,Native,Not Evaluated (NE),500.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+99,3246,Augustea coquimbensis,Bush,Endemic,Not Evaluated (NE),1700.0,1200.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+100,169,Austrocedrus chilensis,Tree,Native,Almost Threatened (NT),1800.0,250.0,1,1,0,0,0,0,1,1,0,1,1,0,1,0,1,1,0
+101,612,Limnobium laevigatum,Aquatic grass,Introduced,Not Evaluated (NE),,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+102,3524,Avellanita bustillosii,Bush,Endemic,Endangered (EN),800.0,300.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0
+103,4973,Azara alpina,Bush,Native,Not Evaluated (NE),2000.0,1000.0,1,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+104,4974,Azara celastrina,Bush or Small tree,Endemic,Not Evaluated (NE),1000.0,0.0,0,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
+105,4975,Azara dentata,Bush,Endemic,Not Evaluated (NE),1500.0,500.0,1,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
+106,4976,Azara integrifolia,Bush,Endemic,Not Evaluated (NE),2000.0,200.0,1,1,0,0,0,0,1,1,0,1,1,0,0,0,1,1,0
+107,4977,Azara lanceolata,Bush or Small tree,Native,Not Evaluated (NE),1000.0,0.0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1
+108,4978,Azara microphylla,Bush or Small tree,Native,Not Evaluated (NE),1500.0,0.0,1,1,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0
+109,4979,Azara petiolaris,Bush or Small tree,Endemic,Not Evaluated (NE),1500.0,600.0,0,1,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0
+110,4981,Azara serrata var. serrata,Bush or Small tree,Endemic,Not Evaluated (NE),2000.0,200.0,1,1,0,0,0,0,1,1,0,1,1,1,1,0,1,1,0
+111,1460,Azorella prolifera,Bush,Native,Not Evaluated (NE),1500.0,0.0,1,1,1,0,0,0,1,1,0,0,1,1,0,1,1,1,1
+112,1621,Baccharis alnifolia,Bush,Native,Not Evaluated (NE),3800.0,3000.0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+113,1622,Baccharis boliviensis,Bush,Native,Not Evaluated (NE),4700.0,1500.0,0,0,1,1,0,1,0,0,1,0,0,1,0,0,0,0,0
+114,3635,Adesmia glaucescens,Grass,Endemic,Not Evaluated (NE),1000.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+115,3639,Adesmia godoyae,Bush,Endemic,Vulnerable (VU),1000.0,700.0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+116,1624,Baccharis calliprinos,Bush,Native,Not Evaluated (NE),3500.0,1400.0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+117,1625,Baccharis concava,Bush,Endemic,Not Evaluated (NE),300.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+118,1626,Baccharis cymosa,Bush,Endemic,Not Evaluated (NE),1300.0,1000.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+119,1628,Baccharis elaeoides,Bush,Native,Not Evaluated (NE),3000.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+120,1631,Baccharis intermedia,Bush,Endemic,Not Evaluated (NE),3000.0,0.0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+121,5572,Baccharis linearis,Bush,Native,Not Evaluated (NE),,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+122,1635,Baccharis lycioides,Bush,Native,Not Evaluated (NE),1500.0,0.0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0
+123,1636,Baccharis macraei,Bush,Endemic,Not Evaluated (NE),500.0,0.0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+124,1637,Baccharis magellanica,Bush,Native,Not Evaluated (NE),3500.0,0.0,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,1
+125,1638,Baccharis mylodontis,Bush,Endemic,Not Evaluated (NE),500.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+126,1639,Baccharis neaei,Bush,Native,Not Evaluated (NE),3200.0,0.0,1,1,0,0,0,0,1,1,0,1,1,1,0,0,1,1,0
+127,1641,Baccharis obovata,Bush,Native,Not Evaluated (NE),3000.0,0.0,1,1,0,0,0,0,1,1,0,1,1,0,1,0,1,1,1
+128,1642,Baccharis paniculata,Bush,Endemic,Not Evaluated (NE),1000.0,0.0,0,1,1,0,0,0,1,1,0,0,1,1,0,0,1,1,0
+129,1643,Baccharis patagonica,Bush,Native,Not Evaluated (NE),3000.0,0.0,1,1,0,0,1,0,0,1,0,1,1,0,1,1,1,0,1
+130,1645,Baccharis pilcensis,Bush,Endemic,Not Evaluated (NE),2200.0,1600.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+131,1646,Baccharis poeppigiana subsp. austropedicellata,Bush,Native,Not Evaluated (NE),2500.0,2000.0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0
+132,1647,Baccharis poeppigiana subsp. ocellata,Bush,Native,Not Evaluated (NE),2000.0,1000.0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+133,1648,Baccharis poeppigiana subsp. poeppigiana,Bush,Endemic,Not Evaluated (NE),3000.0,2000.0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+134,1649,Baccharis pycnantha,Bush,Endemic,Not Evaluated (NE),2500.0,1250.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+135,1650,Baccharis racemosa,Bush,Native,Not Evaluated (NE),3000.0,0.0,1,1,0,0,0,0,1,1,0,1,1,0,1,0,1,1,0
+136,1651,Baccharis rhomboidalis,Bush,Endemic,Not Evaluated (NE),3000.0,0.0,1,1,1,0,0,0,1,1,0,1,1,0,0,0,1,1,0
+137,1653,Baccharis salicifolia,Bush,Native,Not Evaluated (NE),3500.0,0.0,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,0
+138,3762,Astragalus nudus,Grass,Endemic,Not Evaluated (NE),1350.0,2.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+139,1655,Baccharis spartioides,Bush,Native,Not Evaluated (NE),3000.0,0.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+140,1656,Baccharis sphaerocephala,Bush,Endemic,Not Evaluated (NE),700.0,0.0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0
+141,5785,Baccharis tola subsp. tola,Bush,Native,Not Evaluated (NE),,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+142,1662,Baccharis vernalis,Bush,Endemic,Not Evaluated (NE),700.0,0.0,0,1,1,0,0,0,0,1,0,0,1,1,0,0,1,1,0
+143,5575,Baccharis zoellneri,Bush,Native,Not Evaluated (NE),,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+144,1663,Baccharis zoellneri subsp. minor,Bush,Endemic,Not Evaluated (NE),1400.0,800.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+145,4699,Bakerolimon plumosum,Bush,Endemic,Not Evaluated (NE),1000.0,0.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+146,3780,Balsamocarpon brevifolium,Bush,Endemic,Endangered (EN),1900.0,0.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+147,4108,Beilschmiedia berteroana,Tree,Endemic,Endangered (EN),1300.0,0.0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0
+148,4109,Beilschmiedia miersii,Tree,Endemic,Vulnerable (VU),1500.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+149,2610,Berberidopsis corallina,Bush,Endemic,Endangered (EN),600.0,100.0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0
+150,2591,Berberis actinacantha,Bush,Endemic,Not Evaluated (NE),1900.0,100.0,1,1,0,1,0,0,1,1,0,0,1,1,1,0,1,1,0
+151,2592,Berberis chilensis var. brachybotria,Bush,Endemic,Not Evaluated (NE),1500.0,0.0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+152,2593,Berberis chilensis var. chilensis,Bush,Endemic,Not Evaluated (NE),1600.0,300.0,1,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
+153,2594,Berberis congestiflora,Bush,Endemic,Not Evaluated (NE),500.0,0.0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+154,2596,Berberis darwinii,Bush,Native,Not Evaluated (NE),1500.0,0.0,1,1,0,0,0,0,1,0,0,1,1,0,1,0,1,0,1
+155,2598,Berberis glomerata,Bush,Endemic,Not Evaluated (NE),1000.0,500.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+156,2599,Berberis horrida,Bush,Endemic,Not Evaluated (NE),1000.0,800.0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,1,1,0
+157,2600,Berberis ilicifolia,Bush or Small tree,Native,Not Evaluated (NE),1000.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1
+158,2601,Berberis litoralis,Bush or Small tree,Endemic,Endangered (EN),1000.0,500.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+159,2603,Berberis microphylla,Bush,Native,Not Evaluated (NE),2500.0,0.0,1,1,0,0,0,0,1,1,0,1,1,0,1,1,1,0,1
+160,2604,Berberis montana,Bush,Native,Not Evaluated (NE),2700.0,500.0,1,1,0,0,0,0,1,1,0,1,1,0,1,0,1,1,1
+161,2605,Berberis negeriana,Bush,Endemic,Endangered (EN),300.0,200.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+162,2606,Berberis rotundifolia,Bush,Endemic,Not Evaluated (NE),2300.0,200.0,1,1,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0
+163,2607,Berberis serratodentata,Bush,Native,Not Evaluated (NE),2000.0,500.0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1
+164,2608,Berberis trigona,Bush,Native,Not Evaluated (NE),1800.0,500.0,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,0
+165,2609,Berberis valdiviana,Bush or Small tree,Endemic,Not Evaluated (NE),1000.0,0.0,1,1,0,0,0,0,1,1,0,1,1,0,0,0,1,0,0
+166,4367,Blepharocalyx cruckshanksii,Tree,Endemic,Not Evaluated (NE),200.0,0.0,1,1,0,0,0,0,1,1,0,1,1,0,1,0,1,1,0
+167,1679,Brachyclados lycioides,Bush,Native,Not Evaluated (NE),2000.0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+168,4993,Bridgesia incisifolia,Bush,Endemic,Not Evaluated (NE),1000.0,0.0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+169,2925,Browningia candelaris,Succulent tree,Native,Vulnerable (VU),3000.0,2000.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+170,5012,Buddleja araucana,Bush,Native,Not Evaluated (NE),1600.0,300.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0
+171,5013,Buddleja globosa,Bush,Native,Not Evaluated (NE),2000.0,0.0,1,1,0,0,0,0,1,1,1,1,1,1,1,0,1,1,0
+172,5014,Buddleja suaveolens,Bush,Endemic,Not Evaluated (NE),2900.0,500.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+173,5424,Bulnesia chilensis,Bush,Endemic,Not Evaluated (NE),4000.0,100.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+174,3474,Caldcluvia paniculata,Tree,Native,Not Evaluated (NE),500.0,0.0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1
+175,3782,Calliandra chilensis,Bush,Endemic,Not Evaluated (NE),,1100.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+176,3237,Carica chilensis,Bush,Endemic,Vulnerable (VU),500.0,0.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+177,5026,Cestrum parqui,Bush,Native,Not Evaluated (NE),2500.0,0.0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0
+178,1745,Chersodoma candida,Bush,Native,Not Evaluated (NE),4600.0,3600.0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+179,1746,Chersodoma jodopappa,Bush,Native,Not Evaluated (NE),4300.0,3000.0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+180,1751,Chiliotrichum diffusum,Bush,Native,Not Evaluated (NE),2700.0,0.0,1,1,0,0,0,0,0,1,0,0,1,0,1,1,1,0,1
+181,1752,Chiliotrichum fuegianum,Bush,Native,Not Evaluated (NE),300.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+182,1756,Chuquiraga atacamensis,Bush,Native,Not Evaluated (NE),4500.0,3000.0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+183,1757,Chuquiraga kuschelii,Bush,Endemic,Not Evaluated (NE),3900.0,2900.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+184,1758,Chuquiraga oppositifolia,Bush,Native,Not Evaluated (NE),2500.0,850.0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+185,1759,Chuquiraga spinosa subsp. australis,Bush,Native,Not Evaluated (NE),4500.0,3500.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+186,1761,Chuquiraga ulicina subsp. acicularis,Bush,Endemic,Not Evaluated (NE),1200.0,0.0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+187,1762,Chuquiraga ulicina subsp. ulicina,Bush,Endemic,Not Evaluated (NE),1700.0,0.0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+188,3236,Citronella mucronata,Tree,Endemic,Vulnerable (VU),700.0,0.0,1,1,0,0,0,0,1,1,0,0,1,1,1,0,1,1,0
+189,4858,Colletia hystrix,Bush,Native,Not Evaluated (NE),2000.0,0.0,1,1,1,0,0,0,1,1,0,1,1,1,1,0,1,1,1
+190,4860,Colletia ulicina,Bush,Endemic,Not Evaluated (NE),1400.0,0.0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+191,3530,Colliguaja dombeyana,Bush,Endemic,Not Evaluated (NE),2700.0,0.0,0,1,0,0,0,0,1,1,0,0,1,1,0,0,1,0,0
+192,3531,Colliguaja integerrima,Bush,Native,Not Evaluated (NE),1500.0,500.0,0,1,0,0,0,0,1,1,0,0,1,1,0,1,0,1,1
+193,3532,Colliguaja odorifera,Bush,Endemic,Not Evaluated (NE),1300.0,0.0,0,1,1,1,0,0,1,1,0,0,0,1,0,0,1,1,0
+194,3533,Colliguaja salicifolia,Bush,Endemic,Not Evaluated (NE),1800.0,200.0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,1,1,0
+195,2926,Copiapoa ahremephiana,Succulent bush,Endemic,Critically Endangered (CR),100.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+196,2929,Copiapoa cinerascens,Succulent bush,Endemic,Endangered (EN),200.0,0.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+197,5641,Copiapoa cinerea,Succulent bush,,Almost Threatened (NT),,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+198,5642,Copiapoa coquimbana,Succulent bush,,Almost Threatened (NT),,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+199,2935,Copiapoa dealbata,Succulent bush,Endemic,Vulnerable (VU),200.0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+200,2952,Copiapoa longistaminea,Succulent bush,Endemic,Vulnerable (VU),200.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+201,2957,Copiapoa rupestris,Succulent bush,Endemic,Endangered (EN),500.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+202,2958,Copiapoa serpentisulcata,Succulent bush,Endemic,Endangered (EN),300.0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+203,2959,Copiapoa solaris,Succulent bush,Endemic,Endangered (EN),1000.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+204,2632,Cordia decandra,Bush or Small tree,Endemic,Almost Threatened (NT),1200.0,0.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+205,3460,Coriaria ruscifolia,Bush,Native,Not Evaluated (NE),1600.0,500.0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1
+206,2960,Corryocactus brevistylus,Succulent bush,Native,Least Concern (LC),3500.0,2000.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+207,4196,Corynabutilon bicolor,Bush,Native,Not Evaluated (NE),2200.0,200.0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+208,4197,Corynabutilon ceratocarpum,Bush,Endemic,Not Evaluated (NE),2400.0,700.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0
+209,4198,Corynabutilon hirsutum,Bush,Endemic,Endangered (EN),500.0,300.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+210,4199,Corynabutilon ochsenii,Bush,Endemic,Almost Threatened (NT),500.0,0.0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+211,4200,Corynabutilon salicifolium,Bush,Endemic,Critically Endangered (CR),200.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+212,4201,Corynabutilon viride,Bush,Endemic,Not Evaluated (NE),1800.0,1000.0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+213,4202,Corynabutilon vitifolium,Bush or Small tree,Endemic,Not Evaluated (NE),1400.0,0.0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0
+214,3480,Crinodendron hookerianum,Tree,Endemic,Not Evaluated (NE),1100.0,0.0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+215,3481,Crinodendron patagua,Tree,Endemic,Vulnerable (VU),1800.0,0.0,0,1,0,0,1,0,1,1,0,0,1,0,0,0,1,1,0
+216,3534,Croton chilensis,Bush,Endemic,Endangered (EN),800.0,300.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,4110,Cryptocarya alba,Tree,Endemic,Not Evaluated (NE),1500.0,0.0,1,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
+218,2962,Cumulopuntia echinacea,Succulent bush,Native,Not Evaluated (NE),4000.0,2600.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+219,2963,Cumulopuntia ignescens,Succulent bush,Native,Least Concern (LC),4500.0,3300.0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+220,3626,Adesmia elegans,Bush,Endemic,Not Evaluated (NE),,330.0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+221,3630,Adesmia exilis,Grass,Native,Not Evaluated (NE),3300.0,1400.0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+222,3423,Desfontainia fulgens,Bush or Small tree,Native,Not Evaluated (NE),1200.0,0.0,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,1
+223,5274,Diostea juncea,Bush,Native,Not Evaluated (NE),2500.0,0.0,1,1,0,0,0,0,1,1,0,1,1,1,0,0,1,1,0
+224,1550,Diplolepis hieronymi,Bush,Native,Not Evaluated (NE),1800.0,600.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+225,1556,Diplolepis viridis,Bush,Endemic,Not Evaluated (NE),1300.0,0.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+226,1813,Diplostephium cinereum,Bush,Native,Vulnerable (VU),4400.0,3800.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+227,1814,Diplostephium meyenii,Bush,Native,Not Evaluated (NE),3900.0,3000.0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+228,1815,Diplostephium tacorense,Bush,Native,Not Evaluated (NE),4000.0,3000.0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+229,4861,Discaria articulata,Bush,Native,Not Evaluated (NE),2000.0,0.0,1,1,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0
+230,4862,Discaria chacaye,Bush or Small tree,Native,Not Evaluated (NE),2300.0,0.0,1,1,0,0,0,0,1,1,0,1,1,0,1,1,1,1,1
+231,5420,Drimys andina,Bush,Endemic,Not Evaluated (NE),1500.0,800.0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0
+232,5422,Drimys winteri var. chilensis,Tree,Endemic,Not Evaluated (NE),1700.0,0.0,1,1,0,0,0,0,1,1,0,1,1,1,1,1,1,1,1
+233,5423,Drimys winteri var. winteri,Tree,Native,Not Evaluated (NE),2500.0,0.0,1,1,0,0,0,0,1,1,0,1,1,1,1,1,1,0,1
+234,5032,Dunalia spinosa,Bush,Native,Not Evaluated (NE),,3500.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+235,2969,Echinopsis coquimbana,Succulent bush,Endemic,Not Evaluated (NE),500.0,0.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+236,4794,Embothrium coccineum,Tree,Native,Not Evaluated (NE),1500.0,0.0,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,1
+237,3483,Empetrum rubrum,Subshrub,Native,Not Evaluated (NE),3650.0,0.0,1,1,0,0,1,0,1,1,0,1,1,0,1,1,1,1,1
+238,172,Ephedra americana,Bush,Native,Not Evaluated (NE),4300.0,500.0,0,0,1,1,0,1,0,0,1,0,0,1,0,0,0,0,0
+239,173,Ephedra chilensis,Bush,Native,Not Evaluated (NE),3000.0,100.0,1,1,1,1,0,1,1,1,1,0,1,1,0,0,1,1,0
+240,174,Ephedra gracilis,Bush,Endemic,Not Evaluated (NE),1200.0,10.0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+241,175,Ephedra multiflora,Bush,Native,Not Evaluated (NE),4000.0,2300.0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+242,176,Ephedra ochreata,Bush,Native,Not Evaluated (NE),389.0,389.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+243,177,Ephedra trifurcata,Bush,Endemic,Extinct (EX),300.0,200.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+244,1490,Eremocharis fruticosa,Bush,Endemic,Not Evaluated (NE),1800.0,100.0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+245,2977,Eriosyce aurata var. aurata,Succulent bush,Endemic,Not Evaluated (NE),2500.0,1500.0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+246,2978,Eriosyce aurata var. spinibarbis,Succulent bush,Endemic,Not Evaluated (NE),2500.0,2000.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+247,2981,Eriosyce chilensis var. chilensis,Succulent bush,Endemic,Endangered (EN),100.0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+248,2983,Eriosyce crispa,Succulent bush,Endemic,Vulnerable (VU),300.0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+249,5796,Eriosyce curvispina subsp. curvispina,Succulent bush,,Not Evaluated (NE),,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+250,2987,Eriosyce engleri,Succulent bush,Endemic,Not Evaluated (NE),,1900.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+251,2988,Eriosyce eriosyzoides,Succulent bush,Endemic,Vulnerable (VU),1800.0,0.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+252,2990,Eriosyce garaventae,Succulent bush,Endemic,Not Evaluated (NE),3000.0,1000.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+253,2993,Eriosyce iquiquensis,Succulent bush,Endemic,Vulnerable (VU),1000.0,600.0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+254,2994,Eriosyce islayensis,Succulent bush,Native,Endangered (EN),,100.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+255,2995,Eriosyce krausii,Succulent bush,Endemic,Not Evaluated (NE),200.0,0.0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+256,2997,Eriosyce laui,Succulent bush,Endemic,Endangered (EN),700.0,500.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+257,3004,Eriosyce paucicostata subsp. echinus,Succulent bush,Endemic,Not Evaluated (NE),800.0,400.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+258,3005,Eriosyce paucicostata subsp. floccosa,Succulent bush,Endemic,Not Evaluated (NE),600.0,200.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+259,3006,Eriosyce paucicostata subsp. paucicostata,Succulent bush,Endemic,Almost Threatened (NT),600.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+260,3008,Eriosyce rodentiophila,Succulent bush,Endemic,Vulnerable (VU),600.0,100.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+261,3009,Eriosyce senilis,Succulent bush,Endemic,Endangered (EN),500.0,200.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+262,3010,Eriosyce simulans,Succulent bush,Endemic,Critically Endangered (CR),400.0,100.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+263,3011,Eriosyce sociabilis,Succulent bush,Endemic,Critically Endangered (CR),,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,5652,Eriosyce subgibbosa,Succulent bush,,Least Concern (LC),,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,3017,Eriosyce taltalensis subsp. taltalensis,Succulent bush,Endemic,Vulnerable (VU),700.0,500.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,3019,Eriosyce villosa,Succulent bush,Endemic,Vulnerable (VU),900.0,0.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+267,3793,Errazurizia multifoliolata,Bush,Endemic,Not Evaluated (NE),1400.0,0.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+268,3794,Erythrostemon angulatus,Bush,Endemic,Not Evaluated (NE),1900.0,0.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+269,3795,Erythrostemon gilliesii,Bush,Native,Not Evaluated (NE),2500.0,0.0,0,0,1,0,0,1,1,0,1,0,0,1,0,0,0,1,0
+270,3499,Escallonia alpina var. alpina,Bush,Native,Not Evaluated (NE),2300.0,200.0,1,1,0,0,0,0,1,1,0,1,1,0,1,1,1,1,1
+271,3500,Escallonia alpina var. carmelitana,Bush,Native,Not Evaluated (NE),3000.0,0.0,0,1,0,0,0,0,1,1,0,0,1,0,0,1,0,1,0
+272,3501,Escallonia alpina var. glabrata,Bush,Endemic,Not Evaluated (NE),2000.0,600.0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+273,3502,Escallonia angustifolia,Bush or Small tree,Native,Not Evaluated (NE),3300.0,0.0,0,1,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+274,3504,Escallonia florida,Bush,Endemic,Not Evaluated (NE),2000.0,500.0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+275,3505,Escallonia gayana,Bush,Endemic,Not Evaluated (NE),400.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+276,3506,Escallonia illinita var. illinita,Bush,Endemic,Not Evaluated (NE),3000.0,0.0,0,1,1,0,0,0,1,1,0,0,1,1,0,0,1,1,0
+277,3507,Escallonia illinita var. pubicalycina,Bush,Endemic,Not Evaluated (NE),3000.0,100.0,1,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
+278,3508,Escallonia leucantha,Bush,Native,Not Evaluated (NE),1500.0,0.0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0
+279,3509,Escallonia myrtoidea,Bush or Small tree,Native,Not Evaluated (NE),3000.0,100.0,0,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
+280,3510,Escallonia pulverulenta var. glabra,Bush or Small tree,Endemic,Not Evaluated (NE),1300.0,0.0,0,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
+281,3511,Escallonia pulverulenta var. pulverulenta,Bush or Small tree,Endemic,Not Evaluated (NE),2000.0,0.0,1,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
+282,3512,Escallonia revoluta,Tree,Endemic,Not Evaluated (NE),1800.0,0.0,1,1,0,0,0,0,1,0,0,1,1,1,0,0,1,1,0
+283,3513,Escallonia rosea,Bush,Native,Not Evaluated (NE),1500.0,0.0,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,1
+284,3514,Escallonia rubra var. dumetorum,Bush,Native,Not Evaluated (NE),1300.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+285,3515,Escallonia rubra var. glutinosa,Bush,Endemic,Not Evaluated (NE),2100.0,100.0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+286,3516,Escallonia rubra var. macrantha,Bush,Endemic,Not Evaluated (NE),1000.0,0.0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1
+287,3517,Escallonia rubra var. rubra,Bush,Native,Not Evaluated (NE),2300.0,0.0,1,1,0,0,0,0,1,1,0,1,1,1,1,1,1,1,1
+288,3518,Escallonia rubra var. thalassica,Bush,Endemic,Not Evaluated (NE),400.0,0.0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+289,3519,Escallonia serrata,Bush,Native,Not Evaluated (NE),400.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1
+290,3520,Escallonia virgata,Bush,Native,Not Evaluated (NE),3000.0,0.0,1,1,0,0,0,0,1,0,0,1,1,0,1,1,1,0,1
+291,3475,Eucryphia cordifolia,Tree,Native,Not Evaluated (NE),1000.0,0.0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1
+292,3476,Eucryphia glutinosa,Bush or Small tree,Endemic,Vulnerable (VU),1400.0,125.0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+293,3020,Eulychnia acida,Succulent tree,Endemic,Least Concern (LC),1300.0,0.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+294,3022,Eulychnia breviflora,Succulent bush,Endemic,Least Concern (LC),200.0,0.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+295,3023,Eulychnia castanea,Succulent bush,Endemic,Almost Threatened (NT),200.0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+296,3024,Eulychnia iquiquensis,Succulent bush,Endemic,Vulnerable (VU),1000.0,0.0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+297,3025,Eulychnia saint-pieana,Succulent bush,Endemic,Least Concern (LC),700.0,0.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,3557,Euphorbia lactiflua,Bush,Endemic,Not Evaluated (NE),700.0,0.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+299,5036,Fabiana bryoides,Bush,Native,Not Evaluated (NE),4900.0,2900.0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0
+300,5037,Fabiana densa,Bush,Native,Not Evaluated (NE),4500.0,2700.0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+301,5038,Fabiana denudata,Bush,Native,Not Evaluated (NE),3700.0,300.0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+302,5039,Fabiana imbricata,Bush,Native,Not Evaluated (NE),3200.0,2600.0,1,1,1,0,0,0,1,1,0,1,1,1,0,0,1,1,0
+303,5040,Fabiana ramulosa,Bush,Endemic,Not Evaluated (NE),4000.0,3200.0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+304,5041,Fabiana squamata,Bush,Native,Not Evaluated (NE),4400.0,3000.0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+305,5042,Fabiana stephanii,Bush,Native,Not Evaluated (NE),3900.0,3000.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+306,5043,Fabiana viscosa,Bush,Endemic,Not Evaluated (NE),2200.0,100.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+307,170,Fitzroya cupressoides,Tree,Native,Endangered (EN),1400.0,100.0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+308,1850,Flourensia thurifera,Bush,Endemic,Not Evaluated (NE),1000.0,400.0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+309,3963,Frankenia chilensis,Bush,Native,Not Evaluated (NE),1500.0,10.0,0,0,1,1,0,1,1,0,0,0,0,1,0,0,0,0,0
+310,4442,Fuchsia lycioides,Bush,Endemic,Not Evaluated (NE),1500.0,0.0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+311,4443,Fuchsia magellanica,Bush,Native,Not Evaluated (NE),2000.0,0.0,1,1,0,0,1,0,1,1,0,1,1,0,1,1,1,1,1
+312,3486,Gaultheria insana,Bush,Native,Not Evaluated (NE),600.0,0.0,1,1,0,1,0,0,0,0,0,1,1,0,1,1,1,0,1
+313,3487,Gaultheria linifolia,Bush,Endemic,Not Evaluated (NE),1280.0,65.0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+314,3488,Gaultheria marticorenae,Bush,Native,Not Evaluated (NE),1300.0,10.0,1,1,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0
+315,3489,Gaultheria mucronata,Bush,Native,Not Evaluated (NE),1100.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1
+316,3490,Gaultheria nubigena,Bush,Native,Not Evaluated (NE),1500.0,1000.0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+317,3491,Gaultheria phillyreifolia,Bush,Native,Not Evaluated (NE),1500.0,0.0,1,1,0,0,0,0,0,1,0,1,1,0,1,1,1,0,1
+318,3492,Gaultheria poeppigii,Bush,Native,Not Evaluated (NE),2500.0,0.0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1
+319,3493,Gaultheria pumila var. leucocarpa,Bush,Native,Not Evaluated (NE),3200.0,600.0,1,1,0,0,0,0,1,1,0,1,1,0,1,1,1,1,1
+320,3494,Gaultheria pumila var. pumila,Bush,Native,Not Evaluated (NE),1000.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1
+321,3496,Gaultheria renjifoana,Bush,Endemic,Critically Endangered (CR),175.0,10.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+322,3497,Gaultheria tenuifolia,Bush,Native,Not Evaluated (NE),1000.0,500.0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0
+323,3797,Geoffroea decorticans,Tree,Native,Vulnerable (VU),2600.0,100.0,0,0,1,1,0,1,0,0,1,0,0,1,0,0,0,0,0
+324,4795,Gevuina avellana,Tree,Native,Not Evaluated (NE),700.0,100.0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0
+325,1877,Gochnatia foliolosa var. fascicularis,Bush,Endemic,Not Evaluated (NE),1200.0,0.0,1,1,0,0,0,0,1,1,0,0,1,0,0,0,1,1,0
+326,1878,Gochnatia foliolosa var. foliolosa,Bush,Endemic,Not Evaluated (NE),1200.0,0.0,1,1,1,0,0,0,1,1,0,0,1,1,1,0,1,1,0
+327,4000,Gomortega keule,Tree,Endemic,Endangered (EN),700.0,0.0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+328,1881,Grindelia tarapacana,Bush,Native,Not Evaluated (NE),,2500.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+329,4002,Griselinia carlomunozii,Bush,Endemic,Endangered (EN),500.0,200.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+330,4003,Griselinia jodinifolia,Bush,Endemic,Not Evaluated (NE),800.0,0.0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0
+331,4004,Griselinia racemosa,Bush,Native,Not Evaluated (NE),1300.0,0.0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+332,4005,Griselinia ruscifolia,Bush,Native,Not Evaluated (NE),2000.0,500.0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1
+333,4006,Griselinia scandens,Bush,Endemic,Not Evaluated (NE),800.0,0.0,0,1,0,0,0,0,0,1,0,0,1,1,1,0,1,1,1
+334,4995,Guindilia trinervis,Bush,Native,Not Evaluated (NE),3000.0,200.0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+335,1883,Gutierrezia espinosae,Bush,Endemic,Not Evaluated (NE),1000.0,0.0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+336,1884,Gutierrezia gayana,Bush,Endemic,Not Evaluated (NE),1400.0,0.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+337,1885,Gutierrezia neaeana,Bush,Endemic,Endangered (EN),4000.0,2500.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+338,1886,Gutierrezia resinosa,Bush,Endemic,Not Evaluated (NE),1200.0,0.0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+339,1887,Gutierrezia taltalensis,Bush,Endemic,Vulnerable (VU),1000.0,0.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+340,1888,Guynesomia scoparia,Bush,Endemic,Not Evaluated (NE),3000.0,1400.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+341,1507,Gymnophyton flexuosum,Bush,Endemic,Not Evaluated (NE),2600.0,800.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+342,1508,Gymnophyton foliosum,Bush,Endemic,Not Evaluated (NE),400.0,0.0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+343,1509,Gymnophyton isatidicarpum,Bush,Endemic,Not Evaluated (NE),3500.0,800.0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+344,1510,Gymnophyton robustum,Bush,Endemic,Not Evaluated (NE),2500.0,400.0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+345,1511,Gymnophyton spinosissimum,Bush,Endemic,Not Evaluated (NE),4500.0,2800.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+346,1889,Gypothamnium pinifolium,Bush,Endemic,Almost Threatened (NT),500.0,0.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+347,3027,Haageocereus fascicularis,Succulent bush,Endemic,Almost Threatened (NT),3000.0,2000.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+348,1890,Haplopappus angustifolius subsp. angustifolius,Bush,Endemic,Not Evaluated (NE),1500.0,0.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+349,1891,Haplopappus angustifolius subsp. saxatilis,Bush,Endemic,Not Evaluated (NE),1700.0,400.0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+350,1892,Haplopappus anthylloides,Bush,Native,Not Evaluated (NE),3000.0,700.0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0
+351,1894,Haplopappus baylahuen subsp. baylahuen,Bush,Native,Not Evaluated (NE),3500.0,2700.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+352,1895,Haplopappus baylahuen subsp. fluehmannii,Bush,Endemic,Not Evaluated (NE),3700.0,2400.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+353,1898,Haplopappus cerberoanus subsp. cerberoanus,Bush,Native,Not Evaluated (NE),1000.0,0.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+354,1899,Haplopappus cerberoanus subsp. elquianus,Bush,Endemic,Not Evaluated (NE),2000.0,800.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+355,1900,Haplopappus chrysanthemifolius,Bush,Endemic,Not Evaluated (NE),200.0,0.0,0,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
+356,1901,Haplopappus coquimbensis,Bush,Endemic,Not Evaluated (NE),1000.0,10.0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0
+357,1902,Haplopappus decurrens,Bush,Endemic,Not Evaluated (NE),2000.0,0.0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+358,1906,Haplopappus donianus,Bush,Endemic,Not Evaluated (NE),600.0,0.0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0
+359,1907,Haplopappus foliosus,Bush,Endemic,Not Evaluated (NE),750.0,0.0,0,1,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+360,4291,Urocarpidium mathewsii,Grass,Native,Not Evaluated (NE),600.0,0.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+361,1909,Haplopappus glutinosus,Bush,Native,Not Evaluated (NE),2500.0,10.0,1,1,0,0,0,0,0,1,0,1,1,0,1,0,1,1,1
+362,4349,Montiopsis copiapina,Grass,Native,Not Evaluated (NE),4500.0,1200.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+363,1911,Haplopappus humilis,Bush,Endemic,Not Evaluated (NE),1100.0,160.0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0
+364,1912,Haplopappus integerrimus,Bush,Endemic,Not Evaluated (NE),2000.0,500.0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+365,4383,Myrceugenia pinifolia,Bush,Endemic,Least Concern (LC),100.0,0.0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+366,1913,Haplopappus linifolius,Bush,Endemic,Not Evaluated (NE),2200.0,1800.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+367,1916,Haplopappus maulinus,Bush,Endemic,Not Evaluated (NE),2300.0,400.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+368,1919,Haplopappus mucronatus,Bush,Endemic,Not Evaluated (NE),900.0,0.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+369,1920,Haplopappus multifolius subsp. baccharidiformis,Bush,Endemic,Not Evaluated (NE),1800.0,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+370,1921,Haplopappus multifolius subsp. multifolius,Bush,Native,Not Evaluated (NE),3200.0,700.0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+371,1922,Haplopappus multifolius subsp. ovalifolius,Bush,Endemic,Not Evaluated (NE),3200.0,1300.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+372,1924,Haplopappus ochagavianus,Bush,Endemic,Not Evaluated (NE),2200.0,900.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+373,1927,Haplopappus philippii,Bush,Endemic,Not Evaluated (NE),500.0,0.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+374,1928,Haplopappus pinea,Bush,Endemic,Not Evaluated (NE),2400.0,2000.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+375,1929,Haplopappus pinnatifidus,Bush,Endemic,Not Evaluated (NE),1200.0,550.0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+376,4334,Cistanthe humilis,Grass,Native,Not Evaluated (NE),4500.0,1200.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+377,1930,Haplopappus poeppigianus,Bush,Endemic,Not Evaluated (NE),1000.0,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0
+378,1931,Haplopappus pulchellus,Bush,Endemic,Not Evaluated (NE),1600.0,300.0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+379,1933,Haplopappus pusillus,Bush,Native,Not Evaluated (NE),3300.0,,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+380,1934,Haplopappus racemiger,Bush,Endemic,Not Evaluated (NE),560.0,30.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+381,1936,Haplopappus remyanus,Bush,Endemic,Not Evaluated (NE),2500.0,300.0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+382,1937,Haplopappus rengifoanus,Bush,Endemic,Not Evaluated (NE),700.0,100.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+383,4274,Sida spinosa,Subshrub,Introduced,Not Evaluated (NE),,,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+384,1938,Haplopappus retinervius,Bush,Endemic,Not Evaluated (NE),1800.0,500.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+385,1939,Haplopappus rigidus,Bush,Native,Not Evaluated (NE),4000.0,2500.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+386,1941,Haplopappus schumannii,Bush,Endemic,Not Evaluated (NE),3000.0,1400.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+387,1942,Haplopappus scrobiculatus,Bush,Native,Not Evaluated (NE),3700.0,2600.0,1,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
+388,1943,Haplopappus setulosus,Bush,Endemic,Not Evaluated (NE),250.0,,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+389,1944,Haplopappus stelliger,Bush,Endemic,Not Evaluated (NE),,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+390,1945,Haplopappus stolpii,Bush,Endemic,Not Evaluated (NE),700.0,50.0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0
+391,1946,Haplopappus taeda,Bush,Endemic,Vulnerable (VU),2000.0,300.0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0
+392,1947,Haplopappus uncinatus,Bush,Endemic,Not Evaluated (NE),2500.0,0.0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+393,1948,Haplopappus undulatus,Bush,Endemic,Not Evaluated (NE),3500.0,2000.0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+394,1949,Haplopappus valparadisiacus,Bush,Endemic,Not Evaluated (NE),60.0,10.0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+395,1950,Haplopappus velutinus subsp. illinitus,Bush,Endemic,Not Evaluated (NE),800.0,,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+396,1951,Haplopappus velutinus subsp. longipes,Bush,Endemic,Not Evaluated (NE),2300.0,800.0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+397,1952,Haplopappus velutinus subsp. velutinus,Bush,Native,Not Evaluated (NE),2100.0,1300.0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+398,1953,Haplopappus vicuniensis,Bush,Endemic,Not Evaluated (NE),3400.0,1100.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+399,1412,Haplorhus peruviana,Tree,Native,Vulnerable (VU),1000.0,0.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+400,4633,Hebe elliptica,Bush,Native,Not Evaluated (NE),500.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+401,4634,Hebe salicifolia,Bush,Native,Least Concern (LC),200.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1
+402,4032,Heliotropium chenopodiaceum,Bush,Endemic,Not Evaluated (NE),2250.0,200.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+403,4035,Heliotropium eremogenum,Bush,Endemic,Not Evaluated (NE),1020.0,100.0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+404,4036,Heliotropium filifolium,Bush,Endemic,Vulnerable (VU),530.0,20.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+405,4037,Heliotropium floridum,Bush,Endemic,Not Evaluated (NE),600.0,0.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+406,4039,Heliotropium glutinosum,Bush,Endemic,Vulnerable (VU),2200.0,1195.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+407,4041,Heliotropium inconspicuum,Bush,Endemic,Not Evaluated (NE),780.0,100.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+408,4042,Heliotropium jaffuelii,Bush,Endemic,Endangered (EN),1000.0,10.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+409,4044,Heliotropium linariifolium,Bush,Endemic,Not Evaluated (NE),1300.0,0.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+410,4045,Heliotropium longistylum,Bush,Endemic,Not Evaluated (NE),400.0,50.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+411,4047,Heliotropium myosotifolium,Bush,Endemic,Not Evaluated (NE),2400.0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+412,4049,Heliotropium philippianum,Bush,Endemic,Not Evaluated (NE),800.0,50.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,4050,Heliotropium pycnophyllum,Bush,Endemic,Not Evaluated (NE),1100.0,0.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+414,4051,Heliotropium sclerocarpum,Bush,Endemic,Least Concern (LC),800.0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+415,4052,Heliotropium sinuatum,Bush,Endemic,Not Evaluated (NE),1300.0,0.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+416,4053,Heliotropium stenophyllum,Bush,Endemic,Not Evaluated (NE),1000.0,0.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+417,4054,Heliotropium taltalense,Bush,Endemic,Least Concern (LC),1060.0,50.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+418,1965,Helogyne apaloidea,Bush,Native,Not Evaluated (NE),3200.0,700.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+419,1966,Helogyne macrogyne,Bush,Endemic,Not Evaluated (NE),3800.0,2000.0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+420,3799,Hoffmannseggia aphylla,Bush,Endemic,Endangered (EN),3200.0,0.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+421,4139,Huidobria chilensis,Bush,Endemic,Not Evaluated (NE),1800.0,10.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,4140,Huidobria fruticosa,Bush,Endemic,Not Evaluated (NE),3730.0,10.0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+423,3133,Jovellana punctata,Bush,Endemic,Not Evaluated (NE),2000.0,0.0,1,1,0,0,0,0,1,0,0,1,1,0,0,0,1,1,0
+424,3134,Jovellana violacea,Bush,Endemic,Not Evaluated (NE),600.0,0.0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0
+425,351,Jubaea chilensis,Tree,Endemic,Endangered (EN),,300.0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+426,5289,Junellia aretioides,Bush,Native,Not Evaluated (NE),4400.0,2700.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+427,5290,Junellia bryoides,Bush,Endemic,Not Evaluated (NE),3900.0,3100.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+428,5291,Junellia caespitosa,Bush,Native,Not Evaluated (NE),3600.0,1400.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+429,5292,Junellia crithmifolia,Bush,Native,Not Evaluated (NE),2500.0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+430,5293,Junellia digitata var. digitata,Bush,Native,Not Evaluated (NE),4700.0,3500.0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+431,5295,Junellia juniperina,Bush,Native,Not Evaluated (NE),3600.0,1900.0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+432,5296,Junellia lavandulifolia,Bush,Endemic,Not Evaluated (NE),3200.0,1000.0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+433,5297,Junellia micrantha,Bush,Native,Not Evaluated (NE),3500.0,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+434,5298,Junellia minima,Bush,Native,Not Evaluated (NE),4600.0,4050.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+435,5299,Junellia odonellii,Bush,Native,Not Evaluated (NE),1000.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+436,5301,Junellia pappigera,Bush,Native,Not Evaluated (NE),4800.0,3100.0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+437,5302,Junellia pseudojuncea,Bush,Endemic,Not Evaluated (NE),2500.0,2000.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+438,5303,Junellia selaginoides var. illapelina,Bush,Endemic,Not Evaluated (NE),1500.0,600.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+439,5304,Junellia selaginoides var. selaginoides,Bush,Endemic,Not Evaluated (NE),500.0,0.0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+440,5305,Junellia seriphioides,Bush,Native,Not Evaluated (NE),4200.0,1300.0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+441,5306,Junellia silvestrii,Bush,Native,Not Evaluated (NE),200.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+442,5307,Junellia spathulata var. glauca,Bush,Native,Not Evaluated (NE),2700.0,500.0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+443,5308,Junellia spathulata var. spathulata,Bush,Native,Not Evaluated (NE),2200.0,1900.0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0
+444,5309,Junellia thymifolia,Bush,Native,Not Evaluated (NE),500.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+445,5310,Junellia tridactylites,Bush,Native,Not Evaluated (NE),2400.0,2300.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+446,5312,Junellia ulicina,Bush,Native,Not Evaluated (NE),1800.0,0.0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+447,5313,Junellia uniflora,Bush,Native,Not Evaluated (NE),4000.0,2500.0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+448,4905,Kageneckia angustifolia,Tree,Endemic,Almost Threatened (NT),3200.0,700.0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+449,4906,Kageneckia oblonga,Tree,Endemic,Not Evaluated (NE),600.0,300.0,1,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
+450,1996,Kieslingia chilensis,Bush,Endemic,Not Evaluated (NE),2500.0,1600.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+451,4061,Krameria cistoidea,Bush,Endemic,Least Concern (LC),2500.0,0.0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,1,0
+452,4062,Krameria lappacea,Bush,Native,Not Evaluated (NE),4500.0,300.0,0,0,1,1,0,1,0,0,1,0,0,1,0,0,0,0,0
+453,5314,Lampayo hieronymi,Bush,Native,Vulnerable (VU),4000.0,2500.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+454,5315,Lampayo medicinalis,Bush,Native,Not Evaluated (NE),4500.0,2000.0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+455,5426,Larrea divaricata,Bush,Native,Not Evaluated (NE),3000.0,0.0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+456,5427,Larrea nitida,Bush,Native,Not Evaluated (NE),3400.0,0.0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+457,5054,Latua pubiflora,Bush or Small tree,Endemic,Not Evaluated (NE),900.0,300.0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+458,2586,Laurelia sempervirens,Tree,Endemic,Not Evaluated (NE),1000.0,0.0,1,1,0,0,0,0,0,1,0,1,1,0,1,0,1,0,0
+459,2587,Laureliopsis philippiana,Tree,Native,Not Evaluated (NE),1000.0,0.0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1
+460,4370,Legrandia concinna,Bush or Small tree,Endemic,Endangered (EN),1000.0,500.0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+461,4071,Lepechinia chilensis,Bush,Endemic,Not Evaluated (NE),1600.0,0.0,1,1,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0
+462,4072,Lepechinia salviae,Bush,Endemic,Not Evaluated (NE),900.0,0.0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+463,4073,Lepechinia subhastata,Bush,Endemic,Not Evaluated (NE),1500.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+464,2009,Lepidophyllum cupressiforme,Bush,Native,Almost Threatened (NT),500.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+465,181,Lepidothamnus fonkii,Bush,Native,Least Concern (LC),1300.0,3.0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1
+466,2011,Leptocarpha rivularis,Bush,Endemic,Not Evaluated (NE),1000.0,0.0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0
+467,2058,Leunisia laeta,Bush,Native,Not Evaluated (NE),3000.0,2000.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+468,5317,Lippia fragrans,Bush,Endemic,Not Evaluated (NE),1400.0,0.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+469,5318,Lippia turbinata,Bush,Native,Not Evaluated (NE),1500.0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+470,1413,Lithrea caustica,Tree,Endemic,Not Evaluated (NE),2800.0,0.0,1,1,1,0,0,0,1,1,0,1,1,1,0,0,1,1,0
+471,4996,Llagunoa glandulosa,Bush,Endemic,Not Evaluated (NE),1500.0,0.0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,1,0
+472,3171,Lobelia excelsa,Bush,Endemic,Not Evaluated (NE),1200.0,0.0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+473,3173,Lobelia polyphylla,Bush,Endemic,Not Evaluated (NE),1200.0,0.0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+474,4796,Lomatia dentata,Tree,Native,Not Evaluated (NE),1800.0,0.0,1,1,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0
+475,4797,Lomatia ferruginea,Tree,Native,Not Evaluated (NE),800.0,0.0,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,1
+476,4798,Lomatia hirsuta subsp. obliqua,Tree,Native,Not Evaluated (NE),1000.0,0.0,1,1,0,0,0,0,1,1,0,1,1,1,1,0,1,1,0
+477,2060,Lophopappus cuneatus,Bush,Native,Not Evaluated (NE),4000.0,2800.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+478,2061,Lophopappus foliosus,Bush,Native,Not Evaluated (NE),4000.0,3000.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+479,2062,Lophopappus tarapacanus,Bush,Native,Not Evaluated (NE),4700.0,2200.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+480,4371,Luma apiculata,Tree,Native,Not Evaluated (NE),1000.0,500.0,1,1,0,0,0,0,1,1,0,1,1,1,1,0,1,1,1
+481,4372,Luma chequen,Bush or Small tree,Endemic,Least Concern (LC),1100.0,0.0,1,1,0,0,0,0,1,1,0,1,1,1,1,0,1,1,0
+482,3844,Lupinus tarapacensis,Bush,Native,Not Evaluated (NE),,3600.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+483,3845,Lupinus werdermannianus,Bush,Endemic,Not Evaluated (NE),,2500.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+484,5056,Lycium bridgesii,Bush,Endemic,Not Evaluated (NE),2900.0,500.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+485,5058,Lycium chilense var. chilense,Bush,Native,Not Evaluated (NE),4500.0,0.0,0,1,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+486,5059,Lycium chilense var. confertifolium,Bush,Native,Not Evaluated (NE),1500.0,0.0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+487,5060,Lycium chilense var. filifolium,Bush,Native,Not Evaluated (NE),1500.0,0.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+488,5061,Lycium chilense var. glaberrimum,Bush,Native,Not Evaluated (NE),2000.0,500.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+489,5062,Lycium chilense var. minutifolium,Bush,Native,Not Evaluated (NE),2500.0,0.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+490,5063,Lycium chilense var. vergarae,Bush,Native,Not Evaluated (NE),4000.0,2000.0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+491,5064,Lycium deserti,Bush,Endemic,Not Evaluated (NE),3200.0,500.0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+492,5065,Lycium distichum,Bush,Native,Not Evaluated (NE),,2000.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+493,5066,Lycium humile,Bush,Native,Not Evaluated (NE),4000.0,2000.0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+494,5067,Lycium leiostemum,Bush,Native,Not Evaluated (NE),,1000.0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+495,5068,Lycium minutifolium,Bush,Endemic,Not Evaluated (NE),3200.0,1000.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+496,5069,Lycium rachidocladum,Bush,Endemic,Not Evaluated (NE),3500.0,0.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+497,5070,Lycium stenophyllum,Bush,Native,Not Evaluated (NE),2500.0,0.0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+498,5071,Lycium tenuispinosum var. calycinum,Bush,Native,Not Evaluated (NE),2000.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+499,2070,Marticorenia foliosa,Bush,Endemic,Critically Endangered (CR),3300.0,2700.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+500,3345,Maytenus boaria,Tree,Native,Not Evaluated (NE),4000.0,0.0,1,1,1,0,0,0,1,1,0,1,1,1,1,1,1,1,1
+501,3348,Maytenus magellanica,Tree,Native,Not Evaluated (NE),2000.0,0.0,1,1,0,0,0,0,0,1,0,1,1,0,1,1,1,0,1
+502,4420,Menodora linoides,Bush,Endemic,Endangered (EN),1800.0,1200.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+503,3043,Miqueliopuntia miquelii,Succulent bush,Endemic,Least Concern (LC),500.0,0.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+504,4645,Monttea chilensis var. chilensis,Bush or Small tree,Endemic,Not Evaluated (NE),500.0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+505,4646,Monttea chilensis var. taltalensis,Bush or Small tree,Endemic,Not Evaluated (NE),700.0,0.0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+506,4364,Morella pavonis,Bush or Small tree,Native,Vulnerable (VU),2800.0,450.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+507,4744,Muehlenbeckia fruticulosa,Bush,Native,Not Evaluated (NE),3500.0,3400.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+508,4745,Muehlenbeckia hastulata var. fascicularis,Bush,Native,Not Evaluated (NE),500.0,0.0,1,1,0,0,0,0,0,1,0,1,1,0,1,0,1,1,0
+509,4746,Muehlenbeckia hastulata var. hastulata,Bush,Native,Not Evaluated (NE),2700.0,0.0,1,1,1,0,0,1,1,1,1,1,1,1,1,0,1,1,0
+510,4747,Muehlenbeckia hastulata var. rotundata,Bush,Native,Not Evaluated (NE),1000.0,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1
+511,5319,Mulguraea arequipensis,Bush,Native,Not Evaluated (NE),4300.0,2200.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+512,5320,Mulguraea asparagoides,Bush,Native,Not Evaluated (NE),2800.0,2000.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+513,5321,Mulguraea cinerascens,Bush,Endemic,Not Evaluated (NE),1500.0,1000.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+514,5322,Mulguraea hystrix,Bush,Native,Not Evaluated (NE),3700.0,2600.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+515,5323,Mulguraea scoparia,Bush,Native,Not Evaluated (NE),3000.0,1800.0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+516,5324,Mulguraea tridens,Bush,Native,Vulnerable (VU),800.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+517,2083,Mutisia acerosa,Bush,Native,Not Evaluated (NE),3000.0,1200.0,0,1,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0
+518,2097,Mutisia ledifolia,Bush,Native,Not Evaluated (NE),4200.0,3000.0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+519,2098,Mutisia linearifolia,Bush,Native,Not Evaluated (NE),1000.0,0.0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0
+520,4859,Colletia spartioides,Bush,Endemic,Critically Endangered (CR),600.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+521,4990,Myoschilos oblongum,Bush,Native,Not Evaluated (NE),2360.0,2.0,1,1,0,0,0,0,1,1,0,1,1,1,1,1,1,1,1
+522,4373,Myrceugenia chrysocarpa,Bush or Small tree,Native,Not Evaluated (NE),1200.0,500.0,1,1,0,0,0,0,0,1,0,1,1,0,1,0,1,0,1
+523,4374,Myrceugenia colchaguensis,Bush,Endemic,Endangered (EN),400.0,0.0,1,1,0,0,0,0,1,1,0,0,1,0,0,0,1,1,0
+524,4375,Myrceugenia correifolia,Bush or Small tree,Endemic,Least Concern (LC),700.0,0.0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0
+525,4376,Myrceugenia exsucca,Tree,Native,Not Evaluated (NE),1000.0,0.0,1,1,0,0,0,0,1,1,0,1,1,1,1,0,1,1,1
+526,4377,Myrceugenia lanceolata,Bush,Endemic,Not Evaluated (NE),800.0,200.0,1,1,0,0,0,0,1,1,0,0,1,0,0,0,1,1,0
+527,4378,Myrceugenia leptospermoides,Bush,Endemic,Least Concern (LC),400.0,0.0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+528,4379,Myrceugenia obtusa,Bush or Small tree,Endemic,Not Evaluated (NE),1400.0,0.0,1,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
+529,4380,Myrceugenia ovata var. nannophylla,Bush,Native,Not Evaluated (NE),1000.0,500.0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0
+530,4381,Myrceugenia ovata var. ovata,Bush or Small tree,Endemic,Not Evaluated (NE),100.0,0.0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0
+531,4382,Myrceugenia parvifolia,Bush or Small tree,Endemic,Not Evaluated (NE),200.0,0.0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0
+532,4383,Myrceugenia pinifolia,Bush,Endemic,Least Concern (LC),100.0,0.0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+533,4384,Myrceugenia planipes,Tree,Native,Not Evaluated (NE),1000.0,500.0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1
+534,4385,Myrceugenia rufa,Bush,Endemic,Almost Threatened (NT),200.0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+535,4387,Myrcianthes coquimbensis,Bush,Endemic,Endangered (EN),200.0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+536,2111,Nardophyllum bryoides,Bush,Native,Not Evaluated (NE),1200.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+537,2113,Nardophyllum genistoides,Bush,Endemic,Endangered (EN),,2500.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+538,2114,Nardophyllum lanatum,Bush,Endemic,Not Evaluated (NE),3200.0,1200.0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+539,2119,Nassauvia axillaris,Bush,Native,Not Evaluated (NE),4600.0,1000.0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+540,2127,Nassauvia glomerulosa,Bush,Native,Not Evaluated (NE),1500.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+541,5093,Nolana albescens,Bush,Endemic,Not Evaluated (NE),1300.0,0.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+542,5099,Nolana clivicola,Bush,Endemic,Not Evaluated (NE),800.0,0.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+543,5102,Nolana deflexa,Bush,Endemic,Not Evaluated (NE),400.0,110.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+544,5104,Nolana diffusa,Bush,Endemic,Not Evaluated (NE),500.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+545,5111,Nolana incana,Bush,Endemic,Not Evaluated (NE),800.0,0.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+546,5112,Nolana inconspicua,Bush,Endemic,Not Evaluated (NE),1000.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+547,5115,Nolana lachimbensis,Bush,Endemic,Critically Endangered (CR),,500.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+548,5128,Nolana ramosissima,Bush,Endemic,Not Evaluated (NE),700.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+549,5133,Nolana salsoloides,Bush,Endemic,Not Evaluated (NE),900.0,0.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+550,5137,Nolana stenophylla,Bush,Endemic,Almost Threatened (NT),600.0,0.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+551,5139,Nolana tocopillensis,Bush,Endemic,Not Evaluated (NE),300.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+552,5140,Nolana villosa,Bush,Endemic,Not Evaluated (NE),1700.0,0.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+553,4396,Nothofagus alessandrii,Tree,Endemic,Endangered (EN),500.0,100.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+554,4397,Nothofagus alpina,Tree,Native,Not Evaluated (NE),1200.0,200.0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0
+555,4398,Nothofagus antarctica,Tree,Native,Not Evaluated (NE),1500.0,0.0,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,1
+556,4399,Nothofagus betuloides,Tree,Native,Not Evaluated (NE),1500.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1
+557,4400,Nothofagus dombeyi,Tree,Native,Not Evaluated (NE),1000.0,0.0,1,1,0,0,0,0,0,1,0,1,1,0,1,0,1,0,1
+558,4401,Nothofagus glauca,Tree,Endemic,Almost Threatened (NT),1500.0,100.0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0
+559,4402,Nothofagus macrocarpa,Tree,Endemic,Vulnerable (VU),2200.0,800.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0
+560,4403,Nothofagus nitida,Tree,Native,Not Evaluated (NE),900.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1
+561,4404,Nothofagus obliqua,Tree,Native,Not Evaluated (NE),2500.0,0.0,1,1,0,0,0,0,1,1,0,1,1,0,1,0,1,1,0
+562,4405,Nothofagus pumilio,Tree,Native,Not Evaluated (NE),2000.0,0.0,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,1
+563,2150,Notopappus pectinatus,Bush,Native,Not Evaluated (NE),1000.0,500.0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+564,4863,Ochetophila nana,Bush,Native,Not Evaluated (NE),3800.0,1000.0,1,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
+565,4864,Ochetophila trinervis,Bush or Small tree,Native,Not Evaluated (NE),3500.0,0.0,1,1,1,0,0,0,1,1,0,0,1,1,0,0,1,1,1
+566,2152,Ocyroe armata,Bush,Native,Vulnerable (VU),4600.0,2800.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+567,2154,Ophryosporus anomalus,Bush,Native,Not Evaluated (NE),200.0,0.0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+568,2155,Ophryosporus floribundus,Bush,Native,Not Evaluated (NE),,,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+569,2156,Ophryosporus heptanthus,Bush,Native,Not Evaluated (NE),3320.0,2800.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+570,2157,Ophryosporus hoppii,Bush,Native,Not Evaluated (NE),3200.0,300.0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+571,2158,Ophryosporus johnstonii,Bush,Endemic,Not Evaluated (NE),1300.0,1200.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+572,2159,Ophryosporus paradoxus,Bush,Endemic,Not Evaluated (NE),1800.0,0.0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,1,0
+573,2160,Ophryosporus pinifolius,Bush,Native,Not Evaluated (NE),3500.0,3000.0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+574,2161,Ophryosporus triangularis,Bush,Endemic,Not Evaluated (NE),3400.0,0.0,0,0,1,1,0,1,0,0,1,0,0,1,0,0,0,0,0
+575,3045,Oreocereus hempelianus,Succulent bush,Native,Least Concern (LC),3700.0,2400.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+576,3046,Oreocereus leucotrichus,Succulent bush,Native,Least Concern (LC),3500.0,2400.0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+577,3861,Otholobium glandulosum,Bush or Small tree,Native,Not Evaluated (NE),1400.0,600.0,1,1,0,0,0,1,1,1,1,1,1,1,0,0,1,1,0
+578,5220,Ovidia andina,Bush,Native,Not Evaluated (NE),2300.0,700.0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1
+579,4505,Oxalis caesia,Bush,Endemic,Vulnerable (VU),1000.0,0.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+580,4519,Oxalis gigantea,Bush,Endemic,Not Evaluated (NE),1000.0,0.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+581,4556,Oxalis virgosa,Bush,Endemic,Not Evaluated (NE),100.0,0.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+582,2180,Oxyphyllum ulicinum,Bush,Endemic,Endangered (EN),1300.0,20.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+583,4269,Palaua concinna,Bush,Endemic,Vulnerable (VU),600.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+584,3585,Parasenegalia visco,Tree,Native,Not Evaluated (NE),2500.0,0.0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+585,2182,Parastrephia lepidophylla,Bush,Native,Not Evaluated (NE),4500.0,3500.0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+586,2183,Parastrephia lucida,Bush,Native,Not Evaluated (NE),5000.0,2900.0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+587,2184,Parastrephia quadrangularis,Bush,Native,Not Evaluated (NE),4700.0,3000.0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+588,2185,Parastrephia teretiuscula,Bush,Native,Not Evaluated (NE),4200.0,3200.0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+589,4111,Persea lingue,Tree,Native,Least Concern (LC),900.0,0.0,1,1,0,0,0,0,1,1,0,1,1,0,1,0,1,1,0
+590,4305,Peumus boldus,Tree,Endemic,Not Evaluated (NE),1500.0,0.0,1,1,0,0,0,0,1,1,0,1,1,1,1,0,1,1,0
+591,171,Pilgerodendron uviferum,Tree,Native,Not Evaluated (NE),1300.0,5.0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1
+592,5429,Pintoa chilensis,Bush,Endemic,Endangered (EN),1500.0,200.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+593,4969,Pitavia punctata,Tree,Endemic,Endangered (EN),800.0,5.0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+594,2214,Plazia cheiranthifolia,Bush,Native,Not Evaluated (NE),2800.0,2600.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+595,2215,Plazia daphnoides,Bush,Native,Vulnerable (VU),4400.0,2600.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+596,2216,Pleocarphus revolutus,Bush,Endemic,Not Evaluated (NE),3000.0,0.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+597,2217,Pluchea chingoyo,Bush,Native,Not Evaluated (NE),2500.0,1000.0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+598,2218,Podanthus mitiqui,Bush,Endemic,Not Evaluated (NE),2000.0,0.0,0,1,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0
+599,2219,Podanthus ovatifolius,Bush,Endemic,Not Evaluated (NE),800.0,0.0,1,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
+600,182,Podocarpus nubigenus,Tree,Native,Not Evaluated (NE),600.0,10.0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1
+601,183,Podocarpus salignus,Tree,Endemic,Not Evaluated (NE),900.0,10.0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0
+602,4913,Polylepis rugulosa,Tree,Native,Endangered (EN),4000.0,3000.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+603,4914,Polylepis tarapacana,Tree,Native,Vulnerable (VU),4700.0,3900.0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+604,5430,Porlieria chilensis,Bush or Small tree,Endemic,Vulnerable (VU),1400.0,0.0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+605,4998,Pouteria lucuma,Tree,Native,Not Evaluated (NE),,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+606,4999,Pouteria splendens,Bush or Small tree,Endemic,Endangered (EN),500.0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+607,2229,Proustia cuneifolia subsp. cinerea,Bush,Endemic,Not Evaluated (NE),1200.0,300.0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+608,2231,Proustia cuneifolia subsp. tipia,Bush,Endemic,Not Evaluated (NE),700.0,0.0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+609,2232,Proustia pyrifolia,Creeper bush,Endemic,Not Evaluated (NE),1200.0,200.0,1,1,0,0,0,0,1,1,0,1,1,1,1,0,1,1,0
+610,184,Prumnopitys andina,Tree,Native,Vulnerable (VU),1300.0,500.0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+611,4800,Quillaja saponaria,Tree,Endemic,Not Evaluated (NE),2000.0,10.0,1,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
+612,1566,Raukaua laetevirens,Bush or Small tree,Native,Not Evaluated (NE),1500.0,0.0,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,1
+613,4865,Retanilla ephedra,Bush,Endemic,Not Evaluated (NE),1500.0,0.0,1,1,0,0,0,0,1,1,0,0,1,0,0,0,1,1,0
+614,4866,Retanilla stricta,Bush,Endemic,Not Evaluated (NE),1500.0,200.0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+615,4867,Retanilla trinervia,Bush,Endemic,Not Evaluated (NE),1700.0,0.0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+616,5328,Rhaphithamnus spinosus,Bush,Native,Not Evaluated (NE),1000.0,0.0,1,1,0,0,0,0,1,1,0,1,1,1,1,0,1,1,1
+617,4007,Ribes bicolor,Bush,Endemic,Not Evaluated (NE),,1700.0,1,0,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
+618,4008,Ribes cucullatum,Bush,Native,Not Evaluated (NE),3000.0,0.0,1,1,0,0,0,0,1,1,0,0,1,0,1,1,1,1,1
+619,4009,Ribes densiflorum,Bush,Native,Not Evaluated (NE),2000.0,1000.0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0
+620,4010,Ribes integrifolium,Bush,Endemic,Vulnerable (VU),1400.0,1100.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+621,4011,Ribes magellanicum,Bush,Native,Not Evaluated (NE),2000.0,0.0,1,1,0,0,0,0,1,1,0,1,1,0,1,1,1,1,1
+622,4013,Ribes punctatum,Bush,Native,Not Evaluated (NE),2000.0,500.0,1,1,0,0,0,0,1,1,0,0,1,1,1,0,1,1,0
+623,4014,Ribes trilobum,Bush,Endemic,Not Evaluated (NE),2400.0,0.0,1,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
+624,4015,Ribes valdivianum,Bush,Native,Not Evaluated (NE),1700.0,0.0,1,0,0,0,0,0,1,1,0,1,1,0,1,0,1,0,1
+625,4986,Salix humboldtiana,Tree,Native,Not Evaluated (NE),3900.0,0.0,1,1,1,1,0,1,1,1,1,0,1,1,0,0,1,1,0
+626,5149,Salpichroa scandens,Bush,Native,Not Evaluated (NE),3600.0,2000.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+627,5152,Salpiglossis spinescens,Bush,Endemic,Not Evaluated (NE),2800.0,700.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+628,185,Saxegothaea conspicua,Tree,Native,Not Evaluated (NE),1000.0,100.0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1
+629,1414,Schinus areira,Tree,Native,Not Evaluated (NE),3500.0,0.0,0,0,1,1,0,1,1,0,1,0,0,1,0,0,0,1,0
+630,1415,Schinus kauselii,Bush or Small tree,Endemic,Not Evaluated (NE),1800.0,1400.0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0
+631,1416,Schinus latifolia,Tree,Endemic,Not Evaluated (NE),1500.0,0.0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+632,1417,Schinus marchandii,Bush,Native,Vulnerable (VU),900.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+633,1418,Schinus montana,Bush,Endemic,Not Evaluated (NE),2500.0,0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0
+634,1420,Schinus patagonica var. patagonica,Bush or Small tree,Native,Not Evaluated (NE),2000.0,0.0,1,1,0,0,0,0,1,1,0,0,1,0,1,0,1,1,1
+635,1421,Schinus polygama,Bush or Small tree,Native,Not Evaluated (NE),3200.0,0.0,1,1,1,0,0,0,1,1,0,1,1,1,1,0,1,1,0
+636,4091,Scutellaria valdiviana,Bush,Endemic,Endangered (EN),200.0,0.0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+637,2251,Senecio adenophyllus,Bush,Native,Not Evaluated (NE),4800.0,4200.0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+638,2253,Senecio alcicornis,Bush,Endemic,Not Evaluated (NE),900.0,0.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+639,2259,Senecio anthemidiphyllus,Bush,Native,Not Evaluated (NE),,2700.0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+640,2265,Senecio arleguianus,Bush,Endemic,Not Evaluated (NE),,1200.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+641,2269,Senecio atacamensis,Bush,Native,Not Evaluated (NE),,3100.0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+642,2271,Senecio bahioides,Bush,Endemic,Not Evaluated (NE),1000.0,0.0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+643,2282,Senecio bracteolatus var. bracteolatus,Bush,Native,Not Evaluated (NE),1400.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+644,2283,Senecio bracteolatus var. valderramae,Bush,Native,Not Evaluated (NE),1400.0,1000.0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+645,2290,Senecio cachinalensis var. cachinalensis,Bush,Endemic,Not Evaluated (NE),400.0,200.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+646,2291,Senecio cachinalensis var. copiapinus,Bush,Endemic,Not Evaluated (NE),,2289.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+647,2295,Senecio cerberoanus var. cerberoanus,Bush,Endemic,Not Evaluated (NE),800.0,0.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+648,2296,Senecio cerberoanus var. lanatus,Bush,Endemic,Not Evaluated (NE),800.0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+649,2307,Senecio coquimbensis,Bush,Endemic,Not Evaluated (NE),700.0,100.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+650,2310,Senecio coscayanus,Bush,Endemic,Not Evaluated (NE),,3200.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+651,2315,Senecio ctenophyllus,Bush,Endemic,Not Evaluated (NE),3000.0,1000.0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+652,2328,Senecio eriophyton,Bush,Native,Not Evaluated (NE),4800.0,3500.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+653,5616,Senecio filaginoides,Bush,Native,Not Evaluated (NE),,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+654,2338,Senecio francisci,Bush,Native,Not Evaluated (NE),3500.0,1300.0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+655,2349,Senecio gunckelii,Bush,Endemic,Not Evaluated (NE),,1500.0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+656,2360,Senecio hirtus,Bush,Endemic,Not Evaluated (NE),4000.0,3500.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+657,2370,Senecio jilesii,Bush,Endemic,Not Evaluated (NE),,2000.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+658,2373,Senecio jungei,Bush,Endemic,Not Evaluated (NE),2000.0,945.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+659,2384,Senecio leucus,Bush,Native,Not Evaluated (NE),3500.0,2500.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+660,2392,Senecio luridus,Bush,Endemic,Not Evaluated (NE),,2400.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+661,2394,Senecio madariagae,Bush,Endemic,Not Evaluated (NE),3400.0,0.0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+662,2402,Senecio microcephalus var. angustifolius,Bush,Native,Not Evaluated (NE),800.0,300.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+663,2403,Senecio microcephalus var. microcephalus,Bush,Native,Not Evaluated (NE),800.0,300.0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+664,2404,Senecio microphyllus,Bush,Native,Not Evaluated (NE),2300.0,1500.0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+665,2406,Senecio microtis,Bush,Endemic,Vulnerable (VU),3200.0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+666,2407,Senecio minutifolius,Bush,Endemic,Not Evaluated (NE),3200.0,1600.0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+667,2412,Senecio murorum,Bush,Endemic,Not Evaluated (NE),200.0,100.0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+668,2418,Senecio nutans,Bush,Native,Not Evaluated (NE),5000.0,3500.0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+669,2421,Senecio oreophyton,Bush,Native,Not Evaluated (NE),4000.0,3100.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+670,2438,Senecio philippicus,Bush,Endemic,Not Evaluated (NE),900.0,200.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+671,2441,Senecio phylloleptus,Bush,Native,Not Evaluated (NE),,3500.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+672,2444,Senecio planiflorus,Bush,Endemic,Not Evaluated (NE),700.0,0.0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+673,2450,Senecio portulacoides,Bush,Endemic,Not Evaluated (NE),2800.0,1200.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+674,2452,Senecio proteus var. geissei,Bush,Endemic,Not Evaluated (NE),1800.0,1200.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+675,2453,Senecio proteus var. proteus,Bush,Endemic,Not Evaluated (NE),3000.0,800.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+676,2454,Senecio pseudalmeidae,Bush,Endemic,Not Evaluated (NE),,300.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+677,2455,Senecio pseuderucoides,Bush,Endemic,Not Evaluated (NE),,1900.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+678,2463,Senecio ricardii,Bush,Endemic,Vulnerable (VU),3400.0,3100.0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+679,2464,Senecio santelicis,Bush,Native,Not Evaluated (NE),4600.0,3500.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+680,2471,Senecio sericeonitens,Bush,Native,Not Evaluated (NE),2000.0,700.0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1
+681,2473,Senecio sinuatilobus,Bush,Endemic,Not Evaluated (NE),1500.0,0.0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+682,2478,Senecio spinosus,Bush,Native,Not Evaluated (NE),4600.0,3400.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+683,2481,Senecio subulatus var. salsus,Bush,Native,Not Evaluated (NE),4000.0,2500.0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+684,2490,Senecio tricuspidatus var. dentatus,Bush,Native,Not Evaluated (NE),1200.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+685,2491,Senecio tricuspidatus var. tricuspidatus,Bush,Native,Not Evaluated (NE),1200.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+686,2499,Senecio viridis var. radiatus,Bush,Native,Not Evaluated (NE),3700.0,2500.0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+687,2500,Senecio viridis var. viridis,Bush,Native,Not Evaluated (NE),4400.0,3000.0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+688,2508,Senecio zapahuirensis,Bush,Endemic,Not Evaluated (NE),3000.0,2100.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+689,3872,Senna birostris var. arequipensis,Bush,Native,Not Evaluated (NE),3900.0,2200.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+690,3874,Senna candolleana,Bush,Endemic,Not Evaluated (NE),800.0,0.0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+691,3875,Senna cruckshanksii,Bush,Endemic,Not Evaluated (NE),600.0,400.0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+692,3876,Senna cumingii var. alcaparra,Bush,Endemic,Not Evaluated (NE),1800.0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+693,3877,Senna cumingii var. coquimbensis,Bush,Endemic,Not Evaluated (NE),400.0,0.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+694,3878,Senna cumingii var. cumingii,Bush,Endemic,Not Evaluated (NE),1000.0,0.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+695,3879,Senna cumingii var. eremobia,Bush,Endemic,Not Evaluated (NE),200.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+696,3880,Senna huidobriana,Bush,Endemic,Not Evaluated (NE),300.0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+697,3881,Senna paposana,Bush,Endemic,Endangered (EN),600.0,400.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+698,3883,Senna stipulacea var. anglorum,Bush,Endemic,Not Evaluated (NE),500.0,0.0,0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0
+699,3884,Senna stipulacea var. stipulacea,Bush,Endemic,Not Evaluated (NE),1000.0,0.0,1,1,0,0,0,0,0,1,0,1,1,0,1,0,1,1,0
+700,3885,Senna urmenetae,Bush,Endemic,Not Evaluated (NE),2500.0,0.0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+701,1560,Skytanthus acutus,Bush,Endemic,Not Evaluated (NE),800.0,0.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+702,5166,Solanum alphonsei,Bush,Endemic,Not Evaluated (NE),3000.0,0.0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+703,5172,Solanum crispum,Bush,Native,Not Evaluated (NE),2500.0,0.0,1,1,0,0,0,0,1,1,0,1,1,1,1,0,1,1,1
+704,5184,Solanum lycopersicoides,Bush,Native,Endangered (EN),3600.0,1500.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+705,5191,Solanum nitidum,Bush,Native,Not Evaluated (NE),3500.0,3000.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+706,5195,Solanum pennellii var. elachistus,Bush,Endemic,Not Evaluated (NE),,1500.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+707,5199,Solanum pimpinellifolium,Bush,Native,Vulnerable (VU),500.0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+708,5205,Solanum sanfurgoi,Bush,Endemic,Not Evaluated (NE),20.0,5.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+709,5209,Solanum sitiens,Bush,Endemic,Vulnerable (VU),3400.0,2500.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+710,5210,Solanum trinominum,Bush,Endemic,Not Evaluated (NE),780.0,70.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+711,5213,Solanum valdiviense,Bush,Native,Not Evaluated (NE),2000.0,100.0,1,1,0,0,0,0,1,0,0,1,1,0,1,0,1,0,1
+712,3886,Sophora cassioides,Tree,Endemic,Not Evaluated (NE),900.0,0.0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1
+713,3889,Sophora macrocarpa,Bush or Small tree,Endemic,Not Evaluated (NE),1500.0,10.0,1,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0
+714,2524,Spinoliva ilicifolia subsp. baccharoides,Bush,Endemic,Not Evaluated (NE),2000.0,15.0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+715,2525,Spinoliva ilicifolia subsp. ilicifolia,Bush,Endemic,Not Evaluated (NE),2000.0,900.0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+716,3417,Suaeda argentinensis,Bush,Native,Not Evaluated (NE),500.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+717,3419,Suaeda multiflora,Bush,Endemic,Vulnerable (VU),900.0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+718,4283,Tarasa reichei,Bush,Endemic,Not Evaluated (NE),100.0,0.0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+719,3893,Tara spinosa,Tree,Native,Not Evaluated (NE),3000.0,0.0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0
+720,4283,Tarasa reichei,Bush,Endemic,Not Evaluated (NE),100.0,0.0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+721,4286,Tarasa umbellata,Bush,Endemic,Not Evaluated (NE),130.0,10.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+722,2626,Tecoma fulva,Bush,Native,Endangered (EN),2300.0,200.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+723,4392,Tepualia stipularis,Bush or Small tree,Native,Not Evaluated (NE),1000.0,0.0,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,1
+724,2540,Tessaria absinthioides,Bush,Native,Not Evaluated (NE),3000.0,0.0,0,1,1,1,0,1,1,1,1,0,1,1,0,0,1,1,0
+725,1388,Tetragonia angustifolia,Bush,Endemic,Not Evaluated (NE),1200.0,0.0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+726,1392,Tetragonia maritima,Bush,Endemic,Not Evaluated (NE),1300.0,0.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+727,4104,Teucrium bicolor,Bush,Endemic,Not Evaluated (NE),2100.0,0.0,1,1,0,0,0,0,1,1,0,1,1,1,1,0,1,1,0
+728,4105,Teucrium nudicaule,Bush,Endemic,Not Evaluated (NE),2100.0,0.0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+729,4869,Trevoa quinquenervia,Bush,Endemic,Not Evaluated (NE),2200.0,0.0,0,1,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0
+730,2559,Trixis cacalioides,Bush,Native,Not Evaluated (NE),3000.0,0.0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+731,4393,Ugni candollei,Bush,Endemic,Not Evaluated (NE),800.0,100.0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0
+732,4394,Ugni molinae,Bush,Native,Not Evaluated (NE),1500.0,700.0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,1,0,1
+733,3578,Vachellia caven,Tree,Native,Not Evaluated (NE),3000.0,0.0,1,1,1,0,0,0,1,1,0,1,1,1,0,0,1,1,0
+734,3582,Vachellia macracantha,Bush or Small tree,Native,Not Evaluated (NE),100.0,0.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+735,3201,Valeriana graciliceps,Bush,Endemic,Not Evaluated (NE),2500.0,2000.0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+736,3224,Valeriana senecioides,Bush,Endemic,Endangered (EN),1000.0,0.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+737,5215,Vestia foetida,Bush,Endemic,Endangered (EN),,200.0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,1,1,0
+738,3960,Viviania crenata,Bush,Endemic,Not Evaluated (NE),2350.0,20.0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+739,3961,Viviania marifolia,Bush,Native,Not Evaluated (NE),3700.0,400.0,0,1,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+740,3962,Viviania ovata,Bush,Native,Not Evaluated (NE),2500.0,750.0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0
+741,3477,Weinmannia trichosperma,Tree,Native,Not Evaluated (NE),1000.0,0.0,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,1
