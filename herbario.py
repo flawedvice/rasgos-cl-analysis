@@ -268,6 +268,8 @@ def simplify_data(herbario_species: List[Dict]) -> pd.DataFrame:
             "habit": specie.get("habit"),
             "status": specie.get("status"),
             "conservation_state": conservation_states[0],
+            "maximum_height": specie.get("maximum_height"),
+            "minimum_height": specie.get("minimum_height"),
         }
         pre_conservation_state = specie.get("conservation_state")
         if len(pre_conservation_state) >= 1:
